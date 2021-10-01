@@ -1,907 +1,907 @@
 Year,Season,Player,Team,Pos,W%,KDA,KP,DPM,Laning,Engage,Fight,Tier
-15,Spring,Ace,Samsung Galaxy,Middle,40.0,2.1,67.3,478,3,4,5,4.0
-15,Spring,Ambition,CJ Entus,Jungle,63.0,4.0,72.1,229,1,2,3,2.0
-15,Spring,Ares,Incredible Miracle,Jungle,7.0,1.7,79.1,157,4,1,5,3.0
-15,Spring,Arrow,KT Rolster,ADC,45.0,3.8,73.7,438,4,2,3,3.0
-15,Spring,Bang,SK Telecom T1,ADC,72.0,6.4,69.7,547,2,3,1,2.0
-15,Spring,Bengi,SK Telecom T1,Jungle,65.0,3.1,68.3,158,5,4,4,4.0
+15,Spring,Ace,Samsung Galaxy,Middle,40.0,2.1,67.3,478,3,4,4,3.0
 15,Spring,BlisS,Samsung Galaxy,Middle,9.0,1.4,63.3,325,5,5,5,5.0
-15,Spring,Cain,NaJin e-mFire,Support,35.0,2.4,63.5,128,2,5,5,4.0
-15,Spring,Chaser,Jin Air Green Wings,Jungle,55.0,4.7,77.9,162,3,1,2,2.0
-15,Spring,Chei,Jin Air Green Wings,Support,52.0,3.3,72.7,103,4,2,4,3.0
-15,Spring,Coco,CJ Entus,Middle,63.0,4.7,69.2,571,1,3,2,2.0
-15,Spring,Cpt Jack,Jin Air Green Wings,ADC,75.0,4.4,68.0,510,4,4,2,3.0
-15,Spring,CuVee,Samsung Galaxy,Top,19.0,1.8,71.5,348,5,2,5,4.0
-15,Spring,Duke,NaJin e-mFire,Top,42.0,3.2,63.9,404,1,5,4,3.0
-15,Spring,Easyhoon,SK Telecom T1,Middle,75.0,9.2,71.0,533,1,3,1,1.0
-15,Spring,Eve,Samsung Galaxy,Jungle,19.0,2.3,73.9,264,3,2,5,3.0
-15,Spring,Faker,SK Telecom T1,Middle,70.0,4.4,71.2,687,1,3,2,2.0
-15,Spring,Fixer,KT Rolster,Support,59.0,3.5,72.1,129,2,2,3,2.0
+15,Spring,Coco,CJ Entus,Middle,63.0,4.7,69.2,571,1,2,2,1.0
+15,Spring,Easyhoon,SK Telecom T1,Middle,75.0,9.2,71.0,533,1,1,1,1.0
+15,Spring,Faker,SK Telecom T1,Middle,70.0,4.4,71.2,687,1,1,1,1.0
 15,Spring,Frozen,Incredible Miracle,Middle,26.0,3.4,69.4,531,3,3,3,3.0
-15,Spring,Fury,Samsung Galaxy,ADC,19.0,2.8,74.6,503,3,1,4,2.0
-15,Spring,GBM,Jin Air Green Wings,Middle,53.0,4.9,74.0,571,4,2,2,2.0
+15,Spring,GBM,Jin Air Green Wings,Middle,53.0,4.9,74.0,571,4,1,2,2.0
 15,Spring,Ggoong,NaJin e-mFire,Middle,40.0,3.3,67.9,500,5,4,4,4.0
-15,Spring,GorillA,ROX Tigers,Support,81.0,4.5,70.1,116,4,3,2,3.0
-15,Spring,Hachani,KT Rolster,Support,31.0,1.7,72.0,122,4,2,5,3.0
-15,Spring,Hojin,ROX Tigers,Jungle,81.0,4.2,68.6,195,4,4,3,3.0
-15,Spring,Kuro,ROX Tigers,Middle,81.0,5.0,66.5,550,2,4,2,2.0
-15,Spring,Lilac,Incredible Miracle,Top,26.0,1.4,63.0,367,5,5,5,5.0
-15,Spring,MadLife,CJ Entus,Support,63.0,4.0,71.9,136,4,2,3,3.0
-15,Spring,MaRin,SK Telecom T1,Top,72.0,4.0,58.0,408,2,5,3,3.0
-15,Spring,Nagne,KT Rolster,Middle,45.0,2.8,66.4,428,4,4,4,4.0
-15,Spring,Ohq,NaJin e-mFire,ADC,44.0,4.2,73.1,492,1,2,3,2.0
-15,Spring,Peanut,NaJin e-mFire,Jungle,36.0,2.6,71.4,211,5,2,4,3.0
-15,Spring,Piccaboo,SK Telecom T1,Support,67.0,3.8,69.6,150,4,3,3,3.0
-15,Spring,Pilot,Jin Air Green Wings,ADC,40.0,4.7,78.1,568,3,1,2,2.0
-15,Spring,PraY,ROX Tigers,ADC,81.0,7.8,70.5,588,2,3,1,2.0
-15,Spring,Pure,NaJin e-mFire,Support,54.0,3.5,70.6,106,2,3,3,2.0
-15,Spring,Score,KT Rolster,Jungle,45.0,3.0,77.7,162,3,1,4,2.0
-15,Spring,Shy,CJ Entus,Top,63.0,4.3,61.2,378,3,5,2,3.0
-15,Spring,Smeb,ROX Tigers,Top,81.0,5.4,72.2,445,1,2,1,1.0
-15,Spring,Sonstar,Incredible Miracle,ADC,26.0,2.6,69.8,449,5,3,4,4.0
-15,Spring,Space,CJ Entus,ADC,63.0,5.0,72.7,602,4,2,2,2.0
-15,Spring,Ssumday,KT Rolster,Top,45.0,3.7,61.9,357,3,5,3,3.0
-15,Spring,Sweet,Jin Air Green Wings,Support,67.0,6.2,78.7,84,5,1,1,2.0
+15,Spring,Kuro,ROX Tigers,Middle,81.0,5.0,66.5,550,2,3,2,2.0
+15,Spring,Nagne,KT Rolster,Middle,45.0,2.8,66.4,428,3,4,5,4.0
 15,Spring,Tank,NaJin e-mFire,Middle,46.0,3.1,68.9,473,2,3,4,3.0
-15,Spring,Tom,SK Telecom T1,Jungle,100.0,8.1,65.0,163,1,5,1,2.0
-15,Spring,TrAce,Jin Air Green Wings,Top,53.0,3.8,64.6,362,4,5,3,4.0
-15,Spring,TusiN,Incredible Miracle,Support,26.0,2.1,75.8,110,1,1,5,2.0
-15,Spring,Watch,NaJin e-mFire,Jungle,45.0,3.0,72.5,188,4,2,4,3.0
+15,Spring,Ambition,CJ Entus,Jungle,63.0,4.0,72.1,229,1,2,1,1.0
+15,Spring,Ares,Incredible Miracle,Jungle,7.0,1.7,79.1,157,4,2,5,3.0
+15,Spring,Bengi,SK Telecom T1,Jungle,65.0,3.1,68.3,158,5,4,4,4.0
+15,Spring,Chaser,Jin Air Green Wings,Jungle,55.0,4.7,77.9,162,3,1,3,2.0
+15,Spring,Eve,Samsung Galaxy,Jungle,19.0,2.3,73.9,264,3,3,1,2.0
+15,Spring,Hojin,ROX Tigers,Jungle,81.0,4.2,68.6,195,4,3,2,3.0
+15,Spring,Peanut,NaJin e-mFire,Jungle,36.0,2.6,71.4,211,5,3,3,3.0
+15,Spring,Score,KT Rolster,Jungle,45.0,3.0,77.7,162,3,1,4,2.0
+15,Spring,Tom,SK Telecom T1,Jungle,100.0,8.1,65.0,163,1,4,1,2.0
+15,Spring,Watch,NaJin e-mFire,Jungle,45.0,3.0,72.5,188,4,3,3,3.0
 15,Spring,Winged,Jin Air Green Wings,Jungle,0.0,1.5,60.0,135,1,5,5,3.0
-15,Spring,Wisdom,Incredible Miracle,Jungle,44.0,2.4,76.6,187,2,1,5,2.0
-15,Spring,Wolf,SK Telecom T1,Support,75.0,5.7,71.4,142,2,2,1,1.0
-15,Spring,Wraith,Samsung Galaxy,Support,19.0,2.3,71.2,107,4,3,5,4.0
-15,Spring,Zefa,NaJin e-mFire,ADC,33.0,4.3,70.3,389,2,3,2,2.0
-15,Summer,Ambition,CJ Entus,Jungle,62.0,4.2,76.2,249,2,1,3,2.0
-15,Summer,Apple,Incredible Miracle,Top,24.0,2.3,65.8,371,4,4,4,4.0
-15,Summer,Arrow,KT Rolster,ADC,64.0,7.1,73.5,549,3,2,1,2.0
-15,Summer,Bang,SK Telecom T1,ADC,85.0,6.0,60.2,567,1,5,1,2.0
-15,Summer,Bengi,SK Telecom T1,Jungle,83.0,5.5,64.4,264,3,4,2,3.0
-15,Summer,BlisS,Samsung Galaxy,Jungle,0.0,3.0,100.0,213,1,1,4,2.0
-15,Summer,Catch,SBENU Korea,Jungle,19.0,1.8,70.0,191,4,3,5,4.0
-15,Summer,Chaser,Jin Air Green Wings,Jungle,53.0,4.9,77.9,245,2,1,2,1.0
-15,Summer,Chei,Jin Air Green Wings,Support,46.0,3.7,70.9,112,3,3,3,3.0
-15,Summer,Coco,CJ Entus,Middle,59.0,4.3,74.8,674,2,2,3,2.0
-15,Summer,Cpt Jack,Jin Air Green Wings,ADC,50.0,5.1,68.6,511,2,3,2,2.0
-15,Summer,Crown,Samsung Galaxy,Middle,37.0,2.6,63.7,478,2,4,4,3.0
-15,Summer,CuVee,Samsung Galaxy,Top,37.0,2.3,64.7,361,4,4,4,4.0
-15,Summer,cvMax,Rebels Anarchy,Top,33.0,2.4,65.0,434,2,4,4,3.0
-15,Summer,DAN,SBENU Korea,ADC,0.0,3.0,75.0,288,5,2,4,3.0
-15,Summer,DO IT,SBENU Korea,Middle,0.0,1.2,66.7,482,5,4,5,4.0
-15,Summer,Duke,NaJin e-mFire,Top,58.0,4.4,64.7,355,1,4,2,2.0
-15,Summer,Easyhoon,SK Telecom T1,Middle,92.0,4.3,63.0,585,1,4,3,2.0
-15,Summer,Edge,KT Rolster,Middle,50.0,3.3,66.7,526,2,4,4,3.0
-15,Summer,Eve,Samsung Galaxy,Jungle,38.0,3.2,72.6,246,4,2,4,3.0
-15,Summer,Expession,Incredible Miracle,Top,31.0,1.3,51.9,344,5,5,5,5.0
-15,Summer,Faker,SK Telecom T1,Middle,83.0,5.4,66.9,656,1,4,2,2.0
-15,Summer,Fixer,KT Rolster,Support,52.0,3.9,73.2,131,2,2,3,2.0
-15,Summer,Frozen,Incredible Miracle,Middle,29.0,2.7,68.1,536,4,3,4,3.0
-15,Summer,Fury,Samsung Galaxy,ADC,37.0,3.5,75.0,525,2,2,3,2.0
-15,Summer,GBM,Jin Air Green Wings,Middle,52.0,5.8,72.2,483,4,2,1,2.0
-15,Summer,Ggoong,NaJin e-mFire,Middle,57.0,4.4,71.4,525,3,2,2,2.0
-15,Summer,GorillA,ROX Tigers,Support,62.0,3.7,76.1,161,2,1,3,2.0
-15,Summer,Helper,CJ Entus,Top,38.0,2.0,67.9,420,4,3,5,4.0
-15,Summer,Hojin,ROX Tigers,Jungle,76.0,7.4,75.2,260,4,2,1,2.0
-15,Summer,IgNar,Incredible Miracle,Support,29.0,2.5,75.2,122,3,2,4,3.0
-15,Summer,ikssu,Rebels Anarchy,Top,37.0,2.1,68.9,343,4,3,5,4.0
-15,Summer,Kuro,ROX Tigers,Middle,62.0,6.0,73.3,573,4,2,1,2.0
-15,Summer,Kuzan,Jin Air Green Wings,Middle,56.0,3.6,66.3,435,1,4,3,2.0
-15,Summer,Lilac,Incredible Miracle,Jungle,0.0,1.0,78.6,227,5,1,5,3.0
-15,Summer,Lilac,Incredible Miracle,Top,50.0,2.7,61.4,433,5,5,4,4.0
-15,Summer,Lira,Rebels Anarchy,Jungle,37.0,2.6,73.3,219,2,2,4,2.0
-15,Summer,Luna,Samsung Galaxy,Support,27.0,1.6,61.6,135,3,5,5,4.0
-15,Summer,MadLife,CJ Entus,Support,64.0,4.4,74.7,147,3,2,2,2.0
-15,Summer,MaRin,SK Telecom T1,Top,85.0,4.9,62.0,512,1,5,2,2.0
-15,Summer,Max,CJ Entus,Support,0.0,0.5,45.0,70,5,5,5,5.0
+15,Spring,Wisdom,Incredible Miracle,Jungle,44.0,2.4,76.6,187,2,2,4,2.0
+15,Spring,Arrow,KT Rolster,ADC,45.0,3.8,73.7,438,4,2,5,3.0
+15,Spring,Bang,SK Telecom T1,ADC,72.0,6.4,69.7,547,2,4,1,2.0
+15,Spring,Cpt Jack,Jin Air Green Wings,ADC,75.0,4.4,68.0,510,4,4,3,3.0
+15,Spring,Fury,Samsung Galaxy,ADC,19.0,2.8,74.6,503,3,3,4,3.0
+15,Spring,Ohq,NaJin e-mFire,ADC,44.0,4.2,73.1,492,1,3,4,2.0
+15,Spring,Pilot,Jin Air Green Wings,ADC,40.0,4.7,78.1,568,3,1,2,2.0
+15,Spring,PraY,ROX Tigers,ADC,81.0,7.8,70.5,588,2,2,1,1.0
+15,Spring,Sonstar,Incredible Miracle,ADC,26.0,2.6,69.8,449,5,5,5,5.0
+15,Spring,Space,CJ Entus,ADC,63.0,5.0,72.7,602,4,2,1,2.0
+15,Spring,Zefa,NaJin e-mFire,ADC,33.0,4.3,70.3,389,2,5,5,4.0
+15,Spring,Cain,NaJin e-mFire,Support,35.0,2.4,63.5,128,1,5,4,3.0
+15,Spring,Chei,Jin Air Green Wings,Support,52.0,3.3,72.7,103,4,3,4,3.0
+15,Spring,Fixer,KT Rolster,Support,59.0,3.5,72.1,129,2,2,2,2.0
+15,Spring,GorillA,ROX Tigers,Support,81.0,4.5,70.1,116,4,3,2,3.0
+15,Spring,Hachani,KT Rolster,Support,31.0,1.7,72.0,122,4,4,5,4.0
+15,Spring,MadLife,CJ Entus,Support,63.0,4.0,71.9,136,5,2,1,2.0
+15,Spring,Piccaboo,SK Telecom T1,Support,67.0,3.8,69.6,150,4,3,1,2.0
+15,Spring,Pure,NaJin e-mFire,Support,54.0,3.5,70.6,106,1,3,4,2.0
+15,Spring,Sweet,Jin Air Green Wings,Support,67.0,6.2,78.7,84,5,1,3,3.0
+15,Spring,TusiN,Incredible Miracle,Support,26.0,2.1,75.8,110,1,2,5,2.0
+15,Spring,Wolf,SK Telecom T1,Support,75.0,5.7,71.4,142,1,2,1,1.0
+15,Spring,Wraith,Samsung Galaxy,Support,19.0,2.3,71.2,107,5,4,5,4.0
+15,Spring,CuVee,Samsung Galaxy,Top,19.0,1.8,71.5,348,5,2,5,4.0
+15,Spring,Duke,NaJin e-mFire,Top,42.0,3.2,63.9,404,1,4,3,2.0
+15,Spring,Lilac,Incredible Miracle,Top,26.0,1.4,63.0,367,5,5,5,5.0
+15,Spring,MaRin,SK Telecom T1,Top,72.0,4.0,58.0,408,2,4,2,2.0
+15,Spring,Shy,CJ Entus,Top,63.0,4.3,61.2,378,3,4,2,3.0
+15,Spring,Smeb,ROX Tigers,Top,81.0,5.4,72.2,445,1,1,1,1.0
+15,Spring,Ssumday,KT Rolster,Top,45.0,3.7,61.9,357,3,4,4,3.0
+15,Spring,TrAce,Jin Air Green Wings,Top,53.0,3.8,64.6,362,4,3,3,3.0
+15,Summer,Coco,CJ Entus,Middle,59.0,4.3,74.8,674,2,1,1,1.0
+15,Summer,Crown,Samsung Galaxy,Middle,37.0,2.6,63.7,478,2,4,5,3.0
+15,Summer,DO IT,SBENU Korea,Middle,0.0,1.2,66.7,482,5,5,5,5.0
+15,Summer,Easyhoon,SK Telecom T1,Middle,92.0,4.3,63.0,585,1,3,2,2.0
+15,Summer,Edge,KT Rolster,Middle,50.0,3.3,66.7,526,2,3,4,3.0
+15,Summer,Faker,SK Telecom T1,Middle,83.0,5.4,66.9,656,1,2,1,1.0
+15,Summer,Frozen,Incredible Miracle,Middle,29.0,2.7,68.1,536,4,4,4,4.0
+15,Summer,GBM,Jin Air Green Wings,Middle,52.0,5.8,72.2,483,4,2,2,2.0
+15,Summer,Ggoong,NaJin e-mFire,Middle,57.0,4.4,71.4,525,3,2,3,2.0
+15,Summer,Kuro,ROX Tigers,Middle,62.0,6.0,73.3,573,4,1,1,2.0
+15,Summer,Kuzan,Jin Air Green Wings,Middle,56.0,3.6,66.3,435,1,3,5,3.0
 15,Summer,Mickey,Rebels Anarchy,Middle,37.0,2.2,72.1,561,3,2,4,3.0
-15,Summer,Nagne,KT Rolster,Middle,67.0,5.1,71.0,553,2,3,2,2.0
-15,Summer,Neo,Incredible Miracle,Jungle,40.0,1.6,51.1,173,2,5,5,4.0
-15,Summer,Nuclear,SBENU Korea,ADC,19.0,2.8,75.1,466,5,2,4,3.0
-15,Summer,Ohq,NaJin e-mFire,ADC,58.0,5.7,70.4,532,2,3,1,2.0
-15,Summer,Paragon,Incredible Miracle,ADC,100.0,12.0,52.2,453,5,5,1,3.0
-15,Summer,Peanut,NaJin e-mFire,Jungle,100.0,10.0,71.4,315,1,2,1,1.0
-15,Summer,Piccaboo,KT Rolster,Support,74.0,4.4,72.1,113,3,2,2,2.0
-15,Summer,Pilot,Jin Air Green Wings,ADC,54.0,6.3,79.9,494,3,1,1,1.0
-15,Summer,PraY,ROX Tigers,ADC,62.0,4.5,73.3,571,4,2,2,2.0
-15,Summer,Pure,NaJin e-mFire,Support,58.0,3.3,68.0,123,3,3,4,3.0
-15,Summer,Roar,Incredible Miracle,ADC,28.0,2.6,68.2,517,3,3,4,3.0
-15,Summer,Sangyoon,Rebels Anarchy,ADC,37.0,2.6,63.8,466,3,4,4,3.0
+15,Summer,Nagne,KT Rolster,Middle,67.0,5.1,71.0,553,2,2,2,2.0
 15,Summer,SaSin,SBENU Korea,Middle,20.0,1.9,69.8,499,5,3,5,4.0
-15,Summer,Score,KT Rolster,Jungle,64.0,5.7,71.5,211,3,2,1,2.0
-15,Summer,Secret,SBENU Korea,Support,21.0,1.4,68.7,123,3,3,5,3.0
-15,Summer,Shy,CJ Entus,Top,63.0,4.0,64.3,396,3,4,3,3.0
-15,Summer,Smeb,ROX Tigers,Top,62.0,4.4,70.4,440,1,3,2,2.0
-15,Summer,SnowFlower,Rebels Anarchy,Support,37.0,1.9,70.0,144,3,3,5,3.0
-15,Summer,SoaR,SBENU Korea,Top,0.0,0.6,52.6,261,5,5,5,5.0
-15,Summer,Sonstar,Incredible Miracle,ADC,22.0,3.8,76.0,571,4,1,3,2.0
-15,Summer,Soul,SBENU Korea,Top,21.0,1.7,67.4,389,5,3,5,4.0
-15,Summer,Space,CJ Entus,ADC,59.0,3.7,68.8,579,2,3,3,2.0
-15,Summer,Ssumday,KT Rolster,Top,64.0,5.2,71.0,359,1,3,2,2.0
-15,Summer,Sweet,Jin Air Green Wings,Support,61.0,3.8,74.8,112,2,2,3,2.0
-15,Summer,Tank,NaJin e-mFire,Middle,100.0,6.0,42.9,498,5,5,1,3.0
-15,Summer,Tom,SK Telecom T1,Jungle,100.0,3.7,60.5,170,5,5,3,4.0
-15,Summer,TrAce,Jin Air Green Wings,Top,52.0,4.2,68.5,365,3,3,3,3.0
-15,Summer,Trick,CJ Entus,Jungle,43.0,3.4,79.5,277,2,1,3,2.0
-15,Summer,TusiN,Incredible Miracle,Jungle,29.0,2.7,71.7,242,3,2,4,3.0
-15,Summer,viviD,SBENU Korea,Support,11.0,1.9,78.7,125,3,1,5,3.0
+15,Summer,Tank,NaJin e-mFire,Middle,100.0,6.0,42.9,498,5,5,2,4.0
+15,Summer,Ambition,CJ Entus,Jungle,62.0,4.2,76.2,249,2,2,2,2.0
+15,Summer,Bengi,SK Telecom T1,Jungle,83.0,5.5,64.4,264,3,4,1,2.0
+15,Summer,BlisS,Samsung Galaxy,Jungle,0.0,3.0,100.0,213,1,1,4,2.0
+15,Summer,Catch,SBENU Korea,Jungle,19.0,1.8,70.0,191,4,4,5,4.0
+15,Summer,Chaser,Jin Air Green Wings,Jungle,53.0,4.9,77.9,245,3,2,2,2.0
+15,Summer,Eve,Samsung Galaxy,Jungle,38.0,3.2,72.6,246,4,3,3,3.0
+15,Summer,Hojin,ROX Tigers,Jungle,76.0,7.4,75.2,260,4,2,1,2.0
+15,Summer,Lilac,Incredible Miracle,Jungle,0.0,1.0,78.6,227,5,3,5,4.0
+15,Summer,Lira,Rebels Anarchy,Jungle,37.0,2.6,73.3,219,2,3,4,3.0
+15,Summer,Neo,Incredible Miracle,Jungle,40.0,1.6,51.1,173,2,5,5,4.0
+15,Summer,Peanut,NaJin e-mFire,Jungle,100.0,10.0,71.4,315,1,2,1,1.0
+15,Summer,Score,KT Rolster,Jungle,64.0,5.7,71.5,211,4,3,3,3.0
+15,Summer,Tom,SK Telecom T1,Jungle,100.0,3.7,60.5,170,4,4,5,4.0
+15,Summer,Trick,CJ Entus,Jungle,43.0,3.4,79.5,277,3,2,2,2.0
+15,Summer,TusiN,Incredible Miracle,Jungle,29.0,2.7,71.7,242,3,4,3,3.0
 15,Summer,Watch,NaJin e-mFire,Jungle,57.0,3.9,70.1,227,3,3,3,3.0
-15,Summer,Winged,Jin Air Green Wings,Jungle,50.0,6.7,71.4,129,5,2,1,2.0
-15,Summer,Wisdom,ROX Tigers,Jungle,52.0,3.1,67.7,225,1,3,4,2.0
-15,Summer,Wolf,SK Telecom T1,Support,85.0,7.2,70.4,103,2,3,1,2.0
-15,Summer,Wraith,Samsung Galaxy,Support,48.0,5.0,76.2,108,3,1,2,2.0
-16,Spring,Ambition,Samsung Galaxy,Jungle,50.0,3.3,74.1,386,1,2,3,2.0
-16,Spring,Arrow,KT Rolster,ADC,67.0,5.6,69.7,497,2,3,1,2.0
-16,Spring,Bang,SK Telecom T1,ADC,63.0,6.3,69.5,590,2,3,1,2.0
-16,Spring,Bdd,CJ Entus,Middle,41.0,3.2,83.3,500,3,1,3,2.0
-16,Spring,Bengi,SK Telecom T1,Jungle,65.0,3.4,67.3,268,5,4,3,4.0
-16,Spring,Blank,SK Telecom T1,Jungle,63.0,5.0,70.7,340,2,3,1,2.0
-16,Spring,Bubbling,CJ Entus,Jungle,41.0,2.5,67.8,277,5,4,4,4.0
-16,Spring,Chaser,Longzhu Gaming,Jungle,44.0,3.7,76.0,301,2,2,3,2.0
-16,Spring,Chei,Jin Air Green Wings,Support,55.0,3.8,73.5,107,2,2,3,2.0
-16,Spring,Coco,Longzhu Gaming,Middle,45.0,2.9,68.4,574,3,3,4,3.0
-16,Spring,CoreJJ,Samsung Galaxy,ADC,50.0,4.2,74.5,460,2,2,2,2.0
-16,Spring,Cpt Jack,Longzhu Gaming,ADC,61.0,3.7,62.5,561,3,5,3,3.0
-16,Spring,Crash,Longzhu Gaming,Jungle,64.0,2.7,72.6,347,1,2,4,2.0
-16,Spring,Crown,Samsung Galaxy,Middle,50.0,3.5,75.1,557,2,2,3,2.0
-16,Spring,Crush,Kongdoo Monster,Jungle,20.0,2.2,71.9,288,4,3,5,4.0
-16,Spring,Crush,e-mFire,Jungle,17.0,1.9,73.1,266,4,2,5,3.0
-16,Spring,CuVee,Samsung Galaxy,Top,50.0,2.6,67.1,357,4,4,4,4.0
-16,Spring,Duke,SK Telecom T1,Top,63.0,4.2,65.0,388,1,4,2,2.0
-16,Spring,Edge,Kongdoo Monster,Middle,20.0,2.9,73.5,553,2,2,4,2.0
-16,Spring,Edge,e-mFire,Middle,17.0,2.6,70.0,463,3,3,4,3.0
-16,Spring,Expession,Longzhu Gaming,Top,50.0,3.6,64.7,345,1,4,3,2.0
-16,Spring,Faker,SK Telecom T1,Middle,65.0,4.2,74.1,638,2,2,2,2.0
-16,Spring,Flame,Longzhu Gaming,Top,47.0,3.3,65.2,377,1,4,3,2.0
-16,Spring,Flawless,SBENU Korea,Jungle,22.0,1.6,69.8,271,4,3,5,4.0
-16,Spring,Fly,KT Rolster,Middle,67.0,4.6,72.6,497,4,2,2,2.0
-16,Spring,Frozen,Longzhu Gaming,Middle,60.0,4.7,69.6,482,2,3,1,2.0
-16,Spring,Fury,Longzhu Gaming,ADC,27.0,3.3,65.7,502,3,4,3,3.0
-16,Spring,GorillA,ROX Tigers,Support,83.0,5.7,72.4,117,2,2,1,1.0
-16,Spring,GuGer,e-mFire,Support,17.0,1.8,75.4,104,3,2,5,3.0
-16,Spring,GuGer,Kongdoo Monster,Support,20.0,1.9,72.4,142,3,2,5,3.0
-16,Spring,Hachani,KT Rolster,Support,68.0,3.9,73.6,121,3,2,2,2.0
-16,Spring,Hipo,Kongdoo Monster,Top,18.0,1.3,60.8,335,4,5,5,4.0
-16,Spring,Hipo,e-mFire,Top,21.0,1.3,57.7,264,5,5,5,5.0
-16,Spring,IgNar,KT Rolster,Support,67.0,3.6,72.0,98,5,3,3,3.0
-16,Spring,ikssu,Afreeca Freecs,Top,52.0,2.8,69.3,380,4,3,4,3.0
-16,Spring,Kramer,CJ Entus,ADC,41.0,4.9,76.5,617,3,2,1,2.0
+15,Summer,Winged,Jin Air Green Wings,Jungle,50.0,6.7,71.4,129,5,3,4,4.0
+15,Summer,Wisdom,ROX Tigers,Jungle,52.0,3.1,67.7,225,2,4,4,3.0
+15,Summer,Arrow,KT Rolster,ADC,64.0,7.1,73.5,549,3,1,1,1.0
+15,Summer,Bang,SK Telecom T1,ADC,85.0,6.0,60.2,567,1,5,1,2.0
+15,Summer,Cpt Jack,Jin Air Green Wings,ADC,50.0,5.1,68.6,511,1,3,3,2.0
+15,Summer,DAN,SBENU Korea,ADC,0.0,3.0,75.0,288,5,3,5,4.0
+15,Summer,Fury,Samsung Galaxy,ADC,37.0,3.5,75.0,525,1,2,3,2.0
+15,Summer,Nuclear,SBENU Korea,ADC,19.0,2.8,75.1,466,5,2,5,4.0
+15,Summer,Ohq,NaJin e-mFire,ADC,58.0,5.7,70.4,532,1,2,2,1.0
+15,Summer,Paragon,Incredible Miracle,ADC,100.0,12.0,52.2,453,5,5,1,3.0
+15,Summer,Pilot,Jin Air Green Wings,ADC,54.0,6.3,79.9,494,3,1,2,2.0
+15,Summer,PraY,ROX Tigers,ADC,62.0,4.5,73.3,571,4,2,2,2.0
+15,Summer,Roar,Incredible Miracle,ADC,28.0,2.6,68.2,517,3,4,4,3.0
+15,Summer,Sangyoon,Rebels Anarchy,ADC,37.0,2.6,63.8,466,3,5,5,4.0
+15,Summer,Sonstar,Incredible Miracle,ADC,22.0,3.8,76.0,571,3,2,2,2.0
+15,Summer,Space,CJ Entus,ADC,59.0,3.7,68.8,579,2,3,2,2.0
+15,Summer,Chei,Jin Air Green Wings,Support,46.0,3.7,70.9,112,4,3,3,3.0
+15,Summer,Fixer,KT Rolster,Support,52.0,3.9,73.2,131,1,2,2,1.0
+15,Summer,GorillA,ROX Tigers,Support,62.0,3.7,76.1,161,3,2,1,2.0
+15,Summer,IgNar,Incredible Miracle,Support,29.0,2.5,75.2,122,4,3,4,3.0
+15,Summer,Luna,Samsung Galaxy,Support,27.0,1.6,61.6,135,5,5,4,4.0
+15,Summer,MadLife,CJ Entus,Support,64.0,4.4,74.7,147,2,2,1,1.0
+15,Summer,Max,CJ Entus,Support,0.0,0.5,45.0,70,5,5,5,5.0
+15,Summer,Piccaboo,KT Rolster,Support,74.0,4.4,72.1,113,2,2,3,2.0
+15,Summer,Pure,NaJin e-mFire,Support,58.0,3.3,68.0,123,2,3,3,2.0
+15,Summer,Secret,SBENU Korea,Support,21.0,1.4,68.7,123,4,4,4,4.0
+15,Summer,SnowFlower,Rebels Anarchy,Support,37.0,1.9,70.0,144,3,3,3,3.0
+15,Summer,Sweet,Jin Air Green Wings,Support,61.0,3.8,74.8,112,3,2,3,2.0
+15,Summer,viviD,SBENU Korea,Support,11.0,1.9,78.7,125,1,2,4,2.0
+15,Summer,Wolf,SK Telecom T1,Support,85.0,7.2,70.4,103,2,2,1,1.0
+15,Summer,Wraith,Samsung Galaxy,Support,48.0,5.0,76.2,108,3,2,2,2.0
+15,Summer,Apple,Incredible Miracle,Top,24.0,2.3,65.8,371,4,3,4,3.0
+15,Summer,CuVee,Samsung Galaxy,Top,37.0,2.3,64.7,361,3,3,4,3.0
+15,Summer,cvMax,Rebels Anarchy,Top,33.0,2.4,65.0,434,2,3,3,2.0
+15,Summer,Duke,NaJin e-mFire,Top,58.0,4.4,64.7,355,1,3,2,2.0
+15,Summer,Expession,Incredible Miracle,Top,31.0,1.3,51.9,344,5,5,5,5.0
+15,Summer,Helper,CJ Entus,Top,38.0,2.0,67.9,420,4,2,3,3.0
+15,Summer,ikssu,Rebels Anarchy,Top,37.0,2.1,68.9,343,4,2,4,3.0
+15,Summer,Lilac,Incredible Miracle,Top,50.0,2.7,61.4,433,4,4,2,3.0
+15,Summer,MaRin,SK Telecom T1,Top,85.0,4.9,62.0,512,1,2,1,1.0
+15,Summer,Shy,CJ Entus,Top,63.0,4.0,64.3,396,3,2,2,2.0
+15,Summer,Smeb,ROX Tigers,Top,62.0,4.4,70.4,440,1,1,1,1.0
+15,Summer,SoaR,SBENU Korea,Top,0.0,0.6,52.6,261,5,5,5,5.0
+15,Summer,Soul,SBENU Korea,Top,21.0,1.7,67.4,389,5,3,4,4.0
+15,Summer,Ssumday,KT Rolster,Top,64.0,5.2,71.0,359,1,1,2,1.0
+15,Summer,TrAce,Jin Air Green Wings,Top,52.0,4.2,68.5,365,3,2,2,2.0
+16,Spring,Bdd,CJ Entus,Middle,41.0,3.2,83.3,500,4,1,3,2.0
+16,Spring,Coco,Longzhu Gaming,Middle,45.0,2.9,68.4,574,4,5,2,3.0
+16,Spring,Crown,Samsung Galaxy,Middle,50.0,3.5,75.1,557,2,3,2,2.0
+16,Spring,Edge,Kongdoo Monster,Middle,20.0,2.9,73.5,553,2,4,3,3.0
+16,Spring,Edge,e-mFire,Middle,17.0,2.6,70.0,463,3,5,5,4.0
+16,Spring,Faker,SK Telecom T1,Middle,65.0,4.2,74.1,638,1,2,1,1.0
+16,Spring,Fly,KT Rolster,Middle,67.0,4.6,72.6,497,4,3,2,3.0
+16,Spring,Frozen,Longzhu Gaming,Middle,60.0,4.7,69.6,482,2,4,3,3.0
 16,Spring,Kuro,ROX Tigers,Middle,83.0,7.2,68.8,530,2,3,1,2.0
-16,Spring,Kuzan,Jin Air Green Wings,Middle,55.0,4.3,73.2,493,1,2,2,1.0
-16,Spring,Lira,Afreeca Freecs,Jungle,52.0,3.6,73.7,340,3,2,3,2.0
+16,Spring,Kuzan,Jin Air Green Wings,Middle,55.0,4.3,73.2,493,1,3,3,2.0
+16,Spring,Mickey,Afreeca Freecs,Middle,52.0,3.3,69.8,504,2,4,3,3.0
+16,Spring,SaSin,SBENU Korea,Middle,22.0,2.0,76.0,528,5,4,4,4.0
+16,Spring,Scout,SK Telecom T1,Middle,0.0,1.0,100.0,379,5,1,5,3.0
+16,Spring,Sky,CJ Entus,Middle,42.0,2.8,69.8,462,5,4,4,4.0
+16,Spring,Ambition,Samsung Galaxy,Jungle,50.0,3.3,74.1,386,1,2,1,1.0
+16,Spring,Bengi,SK Telecom T1,Jungle,65.0,3.4,67.3,268,5,5,4,4.0
+16,Spring,Blank,SK Telecom T1,Jungle,63.0,5.0,70.7,340,3,4,1,2.0
+16,Spring,Bubbling,CJ Entus,Jungle,41.0,2.5,67.8,277,5,5,5,5.0
+16,Spring,Chaser,Longzhu Gaming,Jungle,44.0,3.7,76.0,301,3,1,3,2.0
+16,Spring,Crash,Longzhu Gaming,Jungle,64.0,2.7,72.6,347,1,2,3,2.0
+16,Spring,Crush,Kongdoo Monster,Jungle,20.0,2.2,71.9,288,4,4,5,4.0
+16,Spring,Crush,e-mFire,Jungle,17.0,1.9,73.1,266,4,4,5,4.0
+16,Spring,Flawless,SBENU Korea,Jungle,22.0,1.6,69.8,271,4,5,5,4.0
+16,Spring,Lira,Afreeca Freecs,Jungle,52.0,3.6,73.7,340,3,2,2,2.0
+16,Spring,Peanut,ROX Tigers,Jungle,83.0,6.1,74.2,388,2,1,1,1.0
+16,Spring,Score,KT Rolster,Jungle,67.0,4.6,76.8,369,2,1,1,1.0
+16,Spring,Winged,Jin Air Green Wings,Jungle,55.0,4.5,73.9,298,2,2,3,2.0
+16,Spring,Arrow,KT Rolster,ADC,67.0,5.6,69.7,497,1,2,2,1.0
+16,Spring,Bang,SK Telecom T1,ADC,63.0,6.3,69.5,590,1,3,1,1.0
+16,Spring,CoreJJ,Samsung Galaxy,ADC,50.0,4.2,74.5,460,2,1,4,2.0
+16,Spring,Cpt Jack,Longzhu Gaming,ADC,61.0,3.7,62.5,561,3,5,3,3.0
+16,Spring,Fury,Longzhu Gaming,ADC,27.0,3.3,65.7,502,4,5,4,4.0
+16,Spring,Kramer,CJ Entus,ADC,41.0,4.9,76.5,617,3,1,1,1.0
+16,Spring,Nuclear,SBENU Korea,ADC,22.0,2.8,73.6,413,4,3,5,4.0
+16,Spring,Pilot,Jin Air Green Wings,ADC,55.0,5.4,73.7,455,3,1,3,2.0
+16,Spring,PraY,ROX Tigers,ADC,83.0,6.5,68.3,537,2,2,1,1.0
+16,Spring,Sangyoon,Afreeca Freecs,ADC,52.0,5.3,74.7,523,2,1,2,1.0
+16,Spring,SS,Kongdoo Monster,ADC,20.0,2.4,68.9,550,3,5,4,4.0
+16,Spring,SS,e-mFire,ADC,17.0,3.0,74.6,447,5,3,5,4.0
+16,Spring,Stitch,Samsung Galaxy,ADC,50.0,3.2,65.4,462,5,5,5,5.0
+16,Spring,Chei,Jin Air Green Wings,Support,55.0,3.8,73.5,107,1,2,3,2.0
+16,Spring,GorillA,ROX Tigers,Support,83.0,5.7,72.4,117,2,1,1,1.0
+16,Spring,GuGer,e-mFire,Support,17.0,1.8,75.4,104,2,3,5,3.0
+16,Spring,GuGer,Kongdoo Monster,Support,20.0,1.9,72.4,142,2,4,3,3.0
+16,Spring,Hachani,KT Rolster,Support,68.0,3.9,73.6,121,2,2,2,2.0
+16,Spring,IgNar,KT Rolster,Support,67.0,3.6,72.0,98,5,2,4,3.0
 16,Spring,MadLife,CJ Entus,Support,41.0,3.6,78.0,114,3,1,3,2.0
-16,Spring,Mickey,Afreeca Freecs,Middle,52.0,3.3,69.8,504,2,3,3,2.0
-16,Spring,Nuclear,SBENU Korea,ADC,22.0,2.8,73.6,413,3,2,4,3.0
-16,Spring,Peanut,ROX Tigers,Jungle,83.0,6.1,74.2,388,2,2,1,1.0
-16,Spring,Pilot,Jin Air Green Wings,ADC,55.0,5.4,73.7,455,3,2,1,2.0
-16,Spring,PraY,ROX Tigers,ADC,83.0,6.5,68.3,537,2,3,1,2.0
-16,Spring,Pure,Longzhu Gaming,Support,49.0,4.3,72.1,112,3,3,2,2.0
+16,Spring,Pure,Longzhu Gaming,Support,49.0,4.3,72.1,112,5,3,2,3.0
+16,Spring,Secret,SBENU Korea,Support,22.0,2.0,72.9,109,1,4,5,3.0
+16,Spring,SnowFlower,Afreeca Freecs,Support,52.0,4.1,77.6,141,2,1,1,1.0
+16,Spring,Wolf,SK Telecom T1,Support,63.0,4.7,68.7,104,3,4,2,3.0
+16,Spring,Wraith,Samsung Galaxy,Support,50.0,4.1,68.6,79,2,4,5,3.0
+16,Spring,Zzus,Longzhu Gaming,Support,50.0,2.2,57.1,115,5,5,4,4.0
+16,Spring,CuVee,Samsung Galaxy,Top,50.0,2.6,67.1,357,3,2,3,2.0
+16,Spring,Duke,SK Telecom T1,Top,63.0,4.2,65.0,388,1,2,2,1.0
+16,Spring,Expession,Longzhu Gaming,Top,50.0,3.6,64.7,345,1,2,2,1.0
+16,Spring,Flame,Longzhu Gaming,Top,47.0,3.3,65.2,377,2,2,2,2.0
+16,Spring,Hipo,Kongdoo Monster,Top,18.0,1.3,60.8,335,3,4,4,3.0
+16,Spring,Hipo,e-mFire,Top,21.0,1.3,57.7,264,5,4,5,4.0
+16,Spring,ikssu,Afreeca Freecs,Top,52.0,2.8,69.3,380,3,2,3,2.0
 16,Spring,Roach,e-mFire,Top,0.0,1.2,69.2,300,5,3,5,4.0
-16,Spring,Roach,Kongdoo Monster,Top,33.0,0.7,40.0,378,5,5,5,5.0
-16,Spring,Sangyoon,Afreeca Freecs,ADC,52.0,5.3,74.7,523,2,2,1,1.0
-16,Spring,SaSin,SBENU Korea,Middle,22.0,2.0,76.0,528,4,2,5,3.0
-16,Spring,Score,KT Rolster,Jungle,67.0,4.6,76.8,369,2,2,2,2.0
-16,Spring,Scout,SK Telecom T1,Middle,0.0,1.0,100.0,379,4,1,5,3.0
-16,Spring,Secret,SBENU Korea,Support,22.0,2.0,72.9,109,2,2,5,3.0
-16,Spring,Sky,CJ Entus,Middle,42.0,2.8,69.8,462,4,3,4,3.0
-16,Spring,Smeb,ROX Tigers,Top,83.0,5.4,67.0,507,1,4,1,2.0
-16,Spring,SnowFlower,Afreeca Freecs,Support,52.0,4.1,77.6,141,2,1,2,1.0
-16,Spring,SoaR,SBENU Korea,Top,20.0,2.1,65.6,309,1,4,5,3.0
+16,Spring,Roach,Kongdoo Monster,Top,33.0,0.7,40.0,378,5,5,4,4.0
+16,Spring,Smeb,ROX Tigers,Top,83.0,5.4,67.0,507,1,1,1,1.0
+16,Spring,SoaR,SBENU Korea,Top,20.0,2.1,65.6,309,1,3,4,2.0
 16,Spring,SoHwan,Jin Air Green Wings,Top,0.0,0.3,25.0,198,5,5,5,5.0
-16,Spring,Soul,SBENU Korea,Top,23.0,1.7,66.7,334,4,4,5,4.0
-16,Spring,SS,Kongdoo Monster,ADC,20.0,2.4,68.9,550,3,3,4,3.0
-16,Spring,SS,e-mFire,ADC,17.0,3.0,74.6,447,4,2,4,3.0
-16,Spring,Ssumday,KT Rolster,Top,67.0,3.9,72.6,487,3,2,2,2.0
-16,Spring,Stitch,Samsung Galaxy,ADC,50.0,3.2,65.4,462,5,4,3,4.0
-16,Spring,TrAce,Jin Air Green Wings,Top,56.0,4.1,70.4,431,3,3,2,2.0
-16,Spring,Untara,CJ Entus,Top,41.0,2.7,72.3,332,2,2,4,2.0
-16,Spring,Winged,Jin Air Green Wings,Jungle,55.0,4.5,73.9,298,1,2,2,1.0
-16,Spring,Wolf,SK Telecom T1,Support,63.0,4.7,68.7,104,3,3,1,2.0
-16,Spring,Wraith,Samsung Galaxy,Support,50.0,4.1,68.6,79,3,3,2,2.0
-16,Spring,Zzus,Longzhu Gaming,Support,50.0,2.2,57.1,115,4,5,5,4.0
-16,Summer,ADD,MVP,Top,44.0,2.4,69.6,443,5,3,4,4.0
-16,Summer,Ambition,Samsung Galaxy,Jungle,60.0,3.1,70.4,341,2,3,4,3.0
-16,Summer,Arrow,KT Rolster,ADC,66.0,5.6,71.1,523,3,3,1,2.0
-16,Summer,Bang,SK Telecom T1,ADC,68.0,6.3,73.7,712,2,2,1,1.0
-16,Summer,Bdd,CJ Entus,Middle,26.0,3.3,79.2,539,3,1,3,2.0
-16,Summer,Bengi,SK Telecom T1,Jungle,57.0,3.5,73.5,327,4,2,3,3.0
-16,Summer,Beyond,MVP,Jungle,44.0,2.7,77.6,359,2,2,4,2.0
-16,Summer,Blanc,Jin Air Green Wings,Middle,50.0,2.9,60.3,502,4,5,4,4.0
-16,Summer,Blank,SK Telecom T1,Jungle,74.0,3.7,70.3,328,4,3,3,3.0
-16,Summer,Bless,ESC Ever,Jungle,36.0,2.5,72.2,338,3,3,4,3.0
+16,Spring,Soul,SBENU Korea,Top,23.0,1.7,66.7,334,3,3,4,3.0
+16,Spring,Ssumday,KT Rolster,Top,67.0,3.9,72.6,487,2,1,1,1.0
+16,Spring,TrAce,Jin Air Green Wings,Top,56.0,4.1,70.4,431,2,2,1,1.0
+16,Spring,Untara,CJ Entus,Top,41.0,2.7,72.3,332,2,2,3,2.0
+16,Summer,Bdd,CJ Entus,Middle,26.0,3.3,79.2,539,2,1,4,2.0
+16,Summer,Blanc,Jin Air Green Wings,Middle,50.0,2.9,60.3,502,5,5,5,5.0
+16,Summer,Coco,Longzhu Gaming,Middle,25.0,3.3,75.7,584,1,2,3,2.0
+16,Summer,Crown,Samsung Galaxy,Middle,60.0,3.3,70.2,657,1,3,2,2.0
+16,Summer,Faker,SK Telecom T1,Middle,68.0,4.3,70.4,677,1,2,1,1.0
+16,Summer,Fly,KT Rolster,Middle,66.0,5.3,67.7,580,4,4,2,3.0
+16,Summer,Frozen,Longzhu Gaming,Middle,59.0,3.9,72.4,595,4,2,2,2.0
+16,Summer,Ian,MVP,Middle,44.0,3.7,67.1,600,2,5,3,3.0
+16,Summer,Kuro,ROX Tigers,Middle,82.0,6.4,71.4,670,5,1,1,2.0
+16,Summer,Kuzan,Jin Air Green Wings,Middle,41.0,3.7,73.4,540,2,2,4,2.0
+16,Summer,Mickey,Afreeca Freecs,Middle,47.0,3.1,75.3,620,2,1,3,2.0
+16,Summer,Sky,CJ Entus,Middle,29.0,2.3,72.1,548,5,4,5,4.0
+16,Summer,Tempt,ESC Ever,Middle,36.0,2.9,72.0,505,3,3,5,3.0
+16,Summer,Zet,ROX Tigers,Middle,58.0,3.2,66.2,516,5,5,5,5.0
+16,Summer,Ambition,Samsung Galaxy,Jungle,60.0,3.1,70.4,341,2,5,3,3.0
+16,Summer,Bengi,SK Telecom T1,Jungle,57.0,3.5,73.5,327,3,4,3,3.0
+16,Summer,Beyond,MVP,Jungle,44.0,2.7,77.6,359,2,2,3,2.0
+16,Summer,Blank,SK Telecom T1,Jungle,74.0,3.7,70.3,328,3,5,3,3.0
+16,Summer,Bless,ESC Ever,Jungle,36.0,2.5,72.2,338,2,5,4,3.0
 16,Summer,Bubbling,CJ Entus,Jungle,0.0,3.0,85.7,314,5,1,4,3.0
-16,Summer,Chaser,Longzhu Gaming,Jungle,26.0,3.5,77.9,305,2,2,3,2.0
-16,Summer,Chei,Jin Air Green Wings,Support,41.0,2.5,71.3,105,3,3,4,3.0
-16,Summer,Coco,Longzhu Gaming,Middle,25.0,3.3,75.7,584,2,2,3,2.0
-16,Summer,CoreJJ,Samsung Galaxy,Support,0.0,0.3,100.0,199,2,1,5,2.0
-16,Summer,Crash,Longzhu Gaming,Jungle,56.0,4.2,76.7,328,1,2,2,1.0
-16,Summer,Crazy,ESC Ever,Top,36.0,2.9,62.5,372,3,5,4,4.0
-16,Summer,Crown,Samsung Galaxy,Middle,60.0,3.3,70.2,657,1,3,3,2.0
-16,Summer,CuVee,Samsung Galaxy,Top,59.0,2.6,63.0,387,2,5,4,3.0
-16,Summer,Duke,SK Telecom T1,Top,68.0,3.6,62.0,455,1,5,3,3.0
-16,Summer,Emperor,Longzhu Gaming,ADC,25.0,2.3,76.9,502,4,2,5,3.0
-16,Summer,Expession,Longzhu Gaming,Top,39.0,3.0,64.8,477,2,4,4,3.0
-16,Summer,Faker,SK Telecom T1,Middle,68.0,4.3,70.4,677,2,3,2,2.0
-16,Summer,Fly,KT Rolster,Middle,66.0,5.3,67.7,580,3,4,1,2.0
-16,Summer,Frozen,Longzhu Gaming,Middle,59.0,3.9,72.4,595,4,3,2,3.0
-16,Summer,Fury,Longzhu Gaming,ADC,42.0,4.2,69.4,554,2,3,2,2.0
+16,Summer,Chaser,Longzhu Gaming,Jungle,26.0,3.5,77.9,305,2,2,4,2.0
+16,Summer,Crash,Longzhu Gaming,Jungle,56.0,4.2,76.7,328,1,2,3,2.0
+16,Summer,Haru,CJ Entus,Jungle,28.0,2.3,73.8,306,2,5,5,4.0
+16,Summer,Lira,Afreeca Freecs,Jungle,53.0,4.1,77.2,345,2,2,2,2.0
+16,Summer,Peanut,ROX Tigers,Jungle,75.0,6.3,75.3,407,2,2,1,1.0
+16,Summer,Score,KT Rolster,Jungle,66.0,7.0,74.9,365,2,2,1,1.0
+16,Summer,SeongHwan,Afreeca Freecs,Jungle,14.0,2.7,79.3,310,4,2,5,3.0
+16,Summer,Winged,Jin Air Green Wings,Jungle,42.0,3.5,72.3,305,3,5,4,4.0
+16,Summer,Arrow,KT Rolster,ADC,66.0,5.6,71.1,523,3,3,2,2.0
+16,Summer,Bang,SK Telecom T1,ADC,68.0,6.3,73.7,712,1,2,1,1.0
+16,Summer,Emperor,Longzhu Gaming,ADC,25.0,2.3,76.9,502,4,2,4,3.0
+16,Summer,Fury,Longzhu Gaming,ADC,42.0,4.2,69.4,554,2,5,2,3.0
 16,Summer,Ghost,CJ Entus,ADC,0.0,1.2,85.7,301,5,1,5,3.0
-16,Summer,GorillA,ROX Tigers,Support,75.0,4.2,69.2,131,2,4,2,2.0
-16,Summer,Hachani,KT Rolster,Support,66.0,3.9,73.2,130,2,3,2,2.0
-16,Summer,Haru,CJ Entus,Jungle,28.0,2.3,73.8,306,3,2,5,3.0
-16,Summer,Helper,Samsung Galaxy,Top,67.0,4.0,58.5,478,1,5,2,2.0
-16,Summer,Ian,MVP,Middle,44.0,3.7,67.1,600,2,4,3,3.0
-16,Summer,ikssu,Afreeca Freecs,Top,53.0,3.3,72.2,400,3,3,3,3.0
-16,Summer,Key,ESC Ever,Support,36.0,2.5,71.5,103,2,3,4,3.0
-16,Summer,Kramer,CJ Entus,ADC,29.0,3.5,75.3,505,3,2,3,2.0
-16,Summer,Kuro,ROX Tigers,Middle,82.0,6.4,71.4,670,4,3,1,2.0
-16,Summer,Kuzan,Jin Air Green Wings,Middle,41.0,3.7,73.4,540,2,3,3,2.0
-16,Summer,Lindarang,Afreeca Freecs,Top,27.0,2.9,77.7,398,2,2,4,2.0
-16,Summer,Lira,Afreeca Freecs,Jungle,53.0,4.1,77.2,345,3,2,2,2.0
-16,Summer,LokeN,ESC Ever,ADC,36.0,3.4,72.0,433,2,3,3,2.0
-16,Summer,MadLife,CJ Entus,Support,27.0,2.8,76.8,134,3,2,4,3.0
-16,Summer,MaHa,MVP,ADC,44.0,3.2,68.3,507,4,4,3,3.0
-16,Summer,Max,MVP,Support,44.0,3.4,71.2,141,2,3,3,2.0
-16,Summer,Mickey,Afreeca Freecs,Middle,47.0,3.1,75.3,620,3,2,4,3.0
-16,Summer,Part,ESC Ever,Top,0.0,1.5,60.0,160,1,5,5,3.0
-16,Summer,Peanut,ROX Tigers,Jungle,75.0,6.3,75.3,407,3,2,1,2.0
-16,Summer,Pilot,Jin Air Green Wings,ADC,42.0,4.4,74.0,521,3,2,2,2.0
-16,Summer,PraY,ROX Tigers,ADC,75.0,4.7,70.0,665,1,3,1,1.0
-16,Summer,Pure,Longzhu Gaming,Support,39.0,3.1,71.9,130,2,3,4,3.0
+16,Summer,Kramer,CJ Entus,ADC,29.0,3.5,75.3,505,3,3,3,3.0
+16,Summer,LokeN,ESC Ever,ADC,36.0,3.4,72.0,433,2,4,4,3.0
+16,Summer,MaHa,MVP,ADC,44.0,3.2,68.3,507,4,5,4,4.0
+16,Summer,Pilot,Jin Air Green Wings,ADC,42.0,4.4,74.0,521,3,3,3,3.0
+16,Summer,PraY,ROX Tigers,ADC,75.0,4.7,70.0,665,1,4,1,2.0
 16,Summer,Ruler,Samsung Galaxy,ADC,60.0,3.7,74.0,533,3,2,3,2.0
-16,Summer,Sangyoon,Afreeca Freecs,ADC,47.0,4.2,73.4,497,2,3,2,2.0
-16,Summer,Score,KT Rolster,Jungle,66.0,7.0,74.9,365,3,2,1,2.0
-16,Summer,SeongHwan,Afreeca Freecs,Jungle,14.0,2.7,79.3,310,5,1,4,3.0
+16,Summer,Sangyoon,Afreeca Freecs,ADC,47.0,4.2,73.4,497,2,3,3,2.0
+16,Summer,Chei,Jin Air Green Wings,Support,41.0,2.5,71.3,105,5,4,5,4.0
+16,Summer,CoreJJ,Samsung Galaxy,Support,0.0,0.3,100.0,199,5,1,3,3.0
+16,Summer,GorillA,ROX Tigers,Support,75.0,4.2,69.2,131,2,3,1,2.0
+16,Summer,Hachani,KT Rolster,Support,66.0,3.9,73.2,130,2,3,2,2.0
+16,Summer,Key,ESC Ever,Support,36.0,2.5,71.5,103,1,4,5,3.0
+16,Summer,MadLife,CJ Entus,Support,27.0,2.8,76.8,134,4,3,3,3.0
+16,Summer,Max,MVP,Support,44.0,3.4,71.2,141,2,4,2,2.0
+16,Summer,Pure,Longzhu Gaming,Support,39.0,3.1,71.9,130,3,4,3,3.0
+16,Summer,SnowFlower,Afreeca Freecs,Support,47.0,3.3,75.5,122,4,3,3,3.0
+16,Summer,Sweet,Jin Air Green Wings,Support,50.0,2.8,84.3,157,5,1,2,2.0
+16,Summer,Totoro,ESC Ever,Support,33.0,1.7,70.3,86,1,5,5,3.0
+16,Summer,Wolf,SK Telecom T1,Support,68.0,4.2,71.4,144,4,3,1,2.0
+16,Summer,Wraith,Samsung Galaxy,Support,65.0,3.9,70.9,110,3,3,3,3.0
+16,Summer,ADD,MVP,Top,44.0,2.4,69.6,443,5,2,3,3.0
+16,Summer,Crazy,ESC Ever,Top,36.0,2.9,62.5,372,3,3,3,3.0
+16,Summer,CuVee,Samsung Galaxy,Top,59.0,2.6,63.0,387,2,2,3,2.0
+16,Summer,Duke,SK Telecom T1,Top,68.0,3.6,62.0,455,1,2,2,1.0
+16,Summer,Expession,Longzhu Gaming,Top,39.0,3.0,64.8,477,2,3,2,2.0
+16,Summer,Helper,Samsung Galaxy,Top,67.0,4.0,58.5,478,1,3,1,1.0
+16,Summer,ikssu,Afreeca Freecs,Top,53.0,3.3,72.2,400,3,1,2,2.0
+16,Summer,Lindarang,Afreeca Freecs,Top,27.0,2.9,77.7,398,2,1,3,2.0
+16,Summer,Part,ESC Ever,Top,0.0,1.5,60.0,160,1,5,5,3.0
 16,Summer,Shy,CJ Entus,Top,44.0,2.8,51.3,311,5,5,4,4.0
-16,Summer,Sky,CJ Entus,Middle,29.0,2.3,72.1,548,4,3,5,4.0
-16,Summer,Smeb,ROX Tigers,Top,75.0,4.7,70.5,480,1,3,1,1.0
-16,Summer,SnowFlower,Afreeca Freecs,Support,47.0,3.3,75.5,122,3,2,3,2.0
+16,Summer,Smeb,ROX Tigers,Top,75.0,4.7,70.5,480,1,1,1,1.0
 16,Summer,SoHwan,Jin Air Green Wings,Top,0.0,0.5,33.3,155,5,5,5,5.0
-16,Summer,Ssumday,KT Rolster,Top,66.0,4.5,69.6,470,1,3,1,1.0
-16,Summer,Sweet,Jin Air Green Wings,Support,50.0,2.8,84.3,157,3,1,4,2.0
-16,Summer,Tempt,ESC Ever,Middle,36.0,2.9,72.0,505,3,3,4,3.0
-16,Summer,Totoro,ESC Ever,Support,33.0,1.7,70.3,86,2,3,5,3.0
-16,Summer,TrAce,Jin Air Green Wings,Top,43.0,2.4,60.9,386,4,5,4,4.0
-16,Summer,Untara,CJ Entus,Top,18.0,2.3,66.4,314,4,4,5,4.0
-16,Summer,Winged,Jin Air Green Wings,Jungle,42.0,3.5,72.3,305,3,3,3,3.0
-16,Summer,Wolf,SK Telecom T1,Support,68.0,4.2,71.4,144,3,3,2,2.0
-16,Summer,Wraith,Samsung Galaxy,Support,65.0,3.9,70.9,110,3,3,2,2.0
-16,Summer,Zet,ROX Tigers,Middle,58.0,3.2,66.2,516,4,4,3,3.0
-17,Spring,ADD,MVP,Top,51.0,2.4,61.2,450,3,5,4,4.0
-17,Spring,Ambition,Samsung Galaxy,Jungle,58.0,3.0,66.0,323,1,3,4,2.0
-17,Spring,Bang,SK Telecom T1,ADC,76.0,6.5,63.3,601,1,4,1,2.0
-17,Spring,Beyond,MVP,Jungle,51.0,2.6,69.9,331,2,1,4,2.0
+16,Summer,Ssumday,KT Rolster,Top,66.0,4.5,69.6,470,2,1,1,1.0
+16,Summer,TrAce,Jin Air Green Wings,Top,43.0,2.4,60.9,386,4,3,3,3.0
+16,Summer,Untara,CJ Entus,Top,18.0,2.3,66.4,314,4,3,4,3.0
+17,Spring,Crown,Samsung Galaxy,Middle,71.0,4.2,64.0,567,1,3,1,1.0
+17,Spring,Edge,Kongdoo Monster,Middle,27.0,3.0,69.4,430,4,3,5,4.0
+17,Spring,Faker,SK Telecom T1,Middle,76.0,4.7,65.5,560,2,2,1,1.0
+17,Spring,Fly,Longzhu Gaming,Middle,44.0,3.5,66.9,493,5,3,3,3.0
+17,Spring,Ian,MVP,Middle,51.0,2.6,63.6,478,5,5,5,5.0
+17,Spring,Kuro,Afreeca Freecs,Middle,54.0,3.7,68.4,483,3,2,3,2.0
+17,Spring,Kuzan,Jin Air Green Wings,Middle,32.0,3.4,64.8,485,3,5,4,4.0
+17,Spring,Mickey,ROX Tigers,Middle,45.0,2.7,74.1,565,3,1,3,2.0
+17,Spring,PawN,KT Rolster,Middle,66.0,3.4,61.9,510,2,5,3,3.0
+17,Spring,Tempt,bbq Olivers,Middle,36.0,3.4,70.9,483,2,2,4,2.0
+17,Spring,Ambition,Samsung Galaxy,Jungle,58.0,3.0,66.0,323,1,3,2,2.0
+17,Spring,Beyond,MVP,Jungle,51.0,2.6,69.9,331,1,2,2,1.0
 17,Spring,Blank,SK Telecom T1,Jungle,100.0,9.2,71.3,367,5,1,1,2.0
 17,Spring,Bless,bbq Olivers,Jungle,36.0,2.2,60.0,259,4,5,5,4.0
-17,Spring,CoreJJ,Samsung Galaxy,Support,71.0,5.4,65.6,268,2,3,1,2.0
-17,Spring,Crash,Longzhu Gaming,Jungle,44.0,2.7,64.7,289,3,3,4,3.0
-17,Spring,Crazy,bbq Olivers,Top,37.0,3.6,63.5,368,2,4,3,3.0
-17,Spring,Crown,Samsung Galaxy,Middle,71.0,4.2,64.0,567,1,4,2,2.0
-17,Spring,CuVee,Samsung Galaxy,Top,71.0,3.8,58.5,378,2,5,3,3.0
-17,Spring,Deft,KT Rolster,ADC,66.0,4.7,63.1,590,1,4,2,2.0
-17,Spring,Edge,Kongdoo Monster,Middle,27.0,3.0,69.4,430,4,1,4,3.0
-17,Spring,Expession,Longzhu Gaming,Top,44.0,2.8,61.1,407,2,5,4,3.0
-17,Spring,Faker,SK Telecom T1,Middle,76.0,4.7,65.5,560,2,3,2,2.0
-17,Spring,Fly,Longzhu Gaming,Middle,44.0,3.5,66.9,493,5,2,3,3.0
-17,Spring,Ghost,bbq Olivers,ADC,36.0,3.2,70.7,465,5,1,4,3.0
-17,Spring,GorillA,Longzhu Gaming,Support,44.0,2.5,65.9,237,3,3,4,3.0
-17,Spring,GuGer,Kongdoo Monster,Support,27.0,2.2,70.0,234,4,1,5,3.0
-17,Spring,Haru,Samsung Galaxy,Jungle,77.0,4.2,68.5,305,1,2,2,1.0
-17,Spring,Huni,SK Telecom T1,Top,76.0,5.1,63.3,559,3,4,1,2.0
-17,Spring,Ian,MVP,Middle,51.0,2.6,63.6,478,5,4,4,4.0
-17,Spring,ikssu,Jin Air Green Wings,Top,25.0,2.4,58.9,350,4,5,4,4.0
-17,Spring,Key,ROX Tigers,Support,45.0,2.7,67.3,211,4,2,4,3.0
-17,Spring,Kramer,Afreeca Freecs,ADC,54.0,5.6,65.7,471,5,3,1,3.0
-17,Spring,Kuro,Afreeca Freecs,Middle,54.0,3.7,68.4,483,2,2,3,2.0
-17,Spring,Kuzan,Jin Air Green Wings,Middle,32.0,3.4,64.8,485,2,3,3,2.0
-17,Spring,Lindarang,ROX Tigers,Top,32.0,2.5,60.4,341,4,5,4,4.0
-17,Spring,MaHa,MVP,ADC,51.0,3.4,67.8,481,5,2,3,3.0
-17,Spring,MaRin,Afreeca Freecs,Top,54.0,3.1,62.9,422,2,4,4,3.0
+17,Spring,Crash,Longzhu Gaming,Jungle,44.0,2.7,64.7,289,3,4,4,3.0
+17,Spring,Haru,Samsung Galaxy,Jungle,77.0,4.2,68.5,305,1,1,2,1.0
+17,Spring,Mightybear,ROX Tigers,Jungle,63.0,3.9,65.3,304,4,3,3,3.0
+17,Spring,Mowgli,Afreeca Freecs,Jungle,67.0,3.5,61.1,265,4,5,4,4.0
+17,Spring,Peanut,SK Telecom T1,Jungle,72.0,5.1,65.0,294,2,3,2,2.0
+17,Spring,Punch,Kongdoo Monster,Jungle,27.0,2.0,70.1,237,3,2,5,3.0
+17,Spring,Raise,Jin Air Green Wings,Jungle,57.0,2.8,63.4,243,5,4,5,4.0
+17,Spring,Score,KT Rolster,Jungle,66.0,4.6,69.5,331,2,1,1,1.0
+17,Spring,SeongHwan,ROX Tigers,Jungle,35.0,2.4,67.7,306,3,3,3,3.0
+17,Spring,Spirit,Afreeca Freecs,Jungle,51.0,3.6,70.3,278,2,1,4,2.0
+17,Spring,UmTi,Jin Air Green Wings,Jungle,27.0,2.2,66.2,286,5,4,4,4.0
+17,Spring,Bang,SK Telecom T1,ADC,76.0,6.5,63.3,601,1,3,1,1.0
+17,Spring,Deft,KT Rolster,ADC,66.0,4.7,63.1,590,1,4,1,2.0
+17,Spring,Ghost,bbq Olivers,ADC,36.0,3.2,70.7,465,5,1,5,3.0
+17,Spring,Kramer,Afreeca Freecs,ADC,54.0,5.6,65.7,471,5,3,2,3.0
+17,Spring,MaHa,MVP,ADC,51.0,3.4,67.8,481,5,2,4,3.0
+17,Spring,PraY,Longzhu Gaming,ADC,44.0,2.9,64.7,526,2,5,4,3.0
+17,Spring,Ruler,Samsung Galaxy,ADC,74.0,5.2,64.4,486,3,2,2,2.0
+17,Spring,Sangyoon,ROX Tigers,ADC,45.0,4.2,67.0,463,5,3,4,4.0
+17,Spring,SS,Kongdoo Monster,ADC,27.0,2.7,70.4,505,3,2,4,3.0
+17,Spring,Stitch,Samsung Galaxy,ADC,63.0,4.3,58.9,381,3,5,5,4.0
+17,Spring,Teddy,Jin Air Green Wings,ADC,32.0,4.2,69.4,522,2,2,3,2.0
+17,Spring,CoreJJ,Samsung Galaxy,Support,71.0,5.4,65.6,268,1,2,1,1.0
+17,Spring,GorillA,Longzhu Gaming,Support,44.0,2.5,65.9,237,3,4,3,3.0
+17,Spring,GuGer,Kongdoo Monster,Support,27.0,2.2,70.0,234,4,2,3,3.0
+17,Spring,Key,ROX Tigers,Support,45.0,2.7,67.3,211,4,3,3,3.0
 17,Spring,Mata,KT Rolster,Support,66.0,3.6,62.0,182,2,5,3,3.0
-17,Spring,Max,MVP,Support,51.0,2.9,68.0,212,1,2,4,2.0
-17,Spring,Mickey,ROX Tigers,Middle,45.0,2.7,74.1,565,3,1,4,2.0
-17,Spring,Mightybear,ROX Tigers,Jungle,63.0,3.9,65.3,304,3,3,3,3.0
-17,Spring,Mowgli,Afreeca Freecs,Jungle,67.0,3.5,61.1,265,4,5,3,4.0
-17,Spring,Part,bbq Olivers,Top,33.0,1.6,72.2,361,5,1,5,3.0
-17,Spring,PawN,KT Rolster,Middle,66.0,3.4,61.9,510,2,5,3,3.0
-17,Spring,Peanut,SK Telecom T1,Jungle,72.0,5.1,65.0,294,2,3,1,2.0
-17,Spring,PraY,Longzhu Gaming,ADC,44.0,2.9,64.7,526,1,3,4,2.0
-17,Spring,Profit,SK Telecom T1,Top,78.0,8.7,69.6,429,4,1,1,2.0
-17,Spring,Punch,Kongdoo Monster,Jungle,27.0,2.0,70.1,237,3,1,5,3.0
-17,Spring,Raise,Jin Air Green Wings,Jungle,57.0,2.8,63.4,243,5,4,4,4.0
-17,Spring,Roach,Kongdoo Monster,Top,27.0,1.8,57.7,315,4,5,5,4.0
-17,Spring,Ruler,Samsung Galaxy,ADC,74.0,5.2,64.4,486,3,4,1,2.0
-17,Spring,Sangyoon,ROX Tigers,ADC,45.0,4.2,67.0,463,5,2,2,3.0
-17,Spring,Score,KT Rolster,Jungle,66.0,4.6,69.5,331,2,1,2,1.0
-17,Spring,Secret,Kongdoo Monster,Support,25.0,1.7,71.4,130,3,1,5,3.0
-17,Spring,SeongHwan,ROX Tigers,Jungle,35.0,2.4,67.7,306,3,2,4,3.0
-17,Spring,Shy,ROX Tigers,Top,54.0,3.6,58.9,363,1,5,3,3.0
-17,Spring,Smeb,KT Rolster,Top,66.0,3.3,62.4,497,2,4,3,3.0
-17,Spring,SnowFlower,Jin Air Green Wings,Support,32.0,2.3,68.2,211,3,2,5,3.0
-17,Spring,SoHwan,Jin Air Green Wings,Top,50.0,2.6,62.0,477,2,5,4,3.0
-17,Spring,Spirit,Afreeca Freecs,Jungle,51.0,3.6,70.3,278,2,1,3,2.0
-17,Spring,SS,Kongdoo Monster,ADC,27.0,2.7,70.4,505,3,1,4,2.0
-17,Spring,Stitch,Samsung Galaxy,ADC,63.0,4.3,58.9,381,3,5,2,3.0
-17,Spring,Teddy,Jin Air Green Wings,ADC,32.0,4.2,69.4,522,2,1,2,1.0
-17,Spring,Tempt,bbq Olivers,Middle,36.0,3.4,70.9,483,2,1,3,2.0
-17,Spring,Totoro,bbq Olivers,Support,36.0,3.5,70.5,202,4,1,3,2.0
+17,Spring,Max,MVP,Support,51.0,2.9,68.0,212,1,2,3,2.0
+17,Spring,Secret,Kongdoo Monster,Support,25.0,1.7,71.4,130,4,1,5,3.0
+17,Spring,SnowFlower,Jin Air Green Wings,Support,32.0,2.3,68.2,211,4,3,4,3.0
+17,Spring,Totoro,bbq Olivers,Support,36.0,3.5,70.5,202,5,1,3,3.0
 17,Spring,TusiN,Afreeca Freecs,Support,54.0,3.3,68.2,186,3,2,3,2.0
-17,Spring,UmTi,Jin Air Green Wings,Jungle,27.0,2.2,66.2,286,4,3,5,4.0
-17,Spring,Wolf,SK Telecom T1,Support,76.0,5.5,65.8,225,2,3,1,2.0
-17,Spring,Wraith,Samsung Galaxy,Support,71.0,3.1,59.8,118,4,5,4,4.0
-17,Summer,ADD,MVP,Top,31.0,1.6,59.8,409,5,5,5,5.0
-17,Summer,Ambition,Samsung Galaxy,Jungle,68.0,3.8,65.0,255,1,4,2,2.0
-17,Summer,Bang,SK Telecom T1,ADC,63.0,4.9,68.0,550,2,3,1,2.0
+17,Spring,Wolf,SK Telecom T1,Support,76.0,5.5,65.8,225,1,2,1,1.0
+17,Spring,Wraith,Samsung Galaxy,Support,71.0,3.1,59.8,118,5,5,5,5.0
+17,Spring,ADD,MVP,Top,51.0,2.4,61.2,450,3,3,3,3.0
+17,Spring,Crazy,bbq Olivers,Top,37.0,3.6,63.5,368,2,3,4,3.0
+17,Spring,CuVee,Samsung Galaxy,Top,71.0,3.8,58.5,378,2,4,3,3.0
+17,Spring,Expession,Longzhu Gaming,Top,44.0,2.8,61.1,407,2,4,3,3.0
+17,Spring,Huni,SK Telecom T1,Top,76.0,5.1,63.3,559,3,2,1,2.0
+17,Spring,ikssu,Jin Air Green Wings,Top,25.0,2.4,58.9,350,4,5,5,4.0
+17,Spring,Lindarang,ROX Tigers,Top,32.0,2.5,60.4,341,4,4,5,4.0
+17,Spring,MaRin,Afreeca Freecs,Top,54.0,3.1,62.9,422,2,3,3,2.0
+17,Spring,Part,bbq Olivers,Top,33.0,1.6,72.2,361,5,1,5,3.0
+17,Spring,Profit,SK Telecom T1,Top,78.0,8.7,69.6,429,3,1,1,1.0
+17,Spring,Roach,Kongdoo Monster,Top,27.0,1.8,57.7,315,4,5,5,4.0
+17,Spring,Shy,ROX Tigers,Top,54.0,3.6,58.9,363,1,4,4,3.0
+17,Spring,Smeb,KT Rolster,Top,66.0,3.3,62.4,497,2,2,2,2.0
+17,Spring,SoHwan,Jin Air Green Wings,Top,50.0,2.6,62.0,477,2,3,2,2.0
 17,Summer,Bdd,Longzhu Gaming,Middle,70.0,11.3,78.0,511,1,1,1,1.0
-17,Summer,Beyond,MVP,Jungle,31.0,2.5,75.0,237,2,1,4,2.0
-17,Summer,Blank,SK Telecom T1,Jungle,82.0,4.1,69.3,250,3,3,2,2.0
-17,Summer,Bless,bbq Olivers,Jungle,29.0,2.0,63.0,209,4,4,5,4.0
-17,Summer,Cepted,Ever8 Winners,Middle,27.0,2.4,71.3,450,3,2,4,3.0
-17,Summer,CoreJJ,Samsung Galaxy,Support,66.0,4.8,73.0,188,3,2,1,2.0
-17,Summer,Crazy,bbq Olivers,Top,29.0,2.6,61.4,408,1,5,4,3.0
-17,Summer,Crow,ROX Tigers,Middle,0.0,0.7,66.7,399,4,3,5,4.0
-17,Summer,Crown,Samsung Galaxy,Middle,66.0,3.3,66.8,511,2,3,3,2.0
-17,Summer,CuVee,Samsung Galaxy,Top,66.0,3.5,61.1,422,4,5,3,4.0
-17,Summer,Cuzz,Longzhu Gaming,Jungle,70.0,4.6,64.5,303,4,4,2,3.0
-17,Summer,Deft,KT Rolster,ADC,66.0,5.8,63.7,585,1,4,1,2.0
-17,Summer,DeuL,Ever8 Winners,ADC,27.0,2.8,63.6,427,5,4,4,4.0
-17,Summer,Ella,Ever8 Winners,Support,24.0,2.0,60.7,123,4,5,5,4.0
-17,Summer,Faker,SK Telecom T1,Middle,63.0,3.4,65.3,503,2,4,3,3.0
-17,Summer,Ghost,bbq Olivers,ADC,29.0,2.8,68.1,467,3,3,4,3.0
-17,Summer,GorillA,Longzhu Gaming,Support,70.0,4.2,67.0,209,2,3,2,2.0
-17,Summer,Hachani,Ever8 Winners,Jungle,0.0,1.1,62.5,175,5,4,5,4.0
-17,Summer,Hachani,Ever8 Winners,Support,33.0,2.1,67.7,134,5,3,4,4.0
+17,Summer,Cepted,Ever8 Winners,Middle,27.0,2.4,71.3,450,3,3,5,3.0
+17,Summer,Crow,ROX Tigers,Middle,0.0,0.7,66.7,399,4,5,5,4.0
+17,Summer,Crown,Samsung Galaxy,Middle,66.0,3.3,66.8,511,2,4,3,3.0
+17,Summer,Faker,SK Telecom T1,Middle,63.0,3.4,65.3,503,1,4,3,2.0
+17,Summer,Ian,MVP,Middle,31.0,3.1,72.4,518,5,3,2,3.0
+17,Summer,Kuro,Afreeca Freecs,Middle,56.0,4.2,72.8,541,4,2,1,2.0
+17,Summer,Kuzan,Jin Air Green Wings,Middle,50.0,3.7,68.3,495,1,4,3,2.0
+17,Summer,Lava,ROX Tigers,Middle,38.0,2.7,75.1,494,5,1,3,3.0
+17,Summer,Mickey,ROX Tigers,Middle,41.0,2.6,70.0,493,5,3,3,3.0
+17,Summer,PawN,KT Rolster,Middle,66.0,6.0,68.0,474,2,3,3,2.0
+17,Summer,Tempt,bbq Olivers,Middle,29.0,2.9,68.1,478,3,4,4,3.0
+17,Summer,Ambition,Samsung Galaxy,Jungle,68.0,3.8,65.0,255,1,3,2,2.0
+17,Summer,Beyond,MVP,Jungle,31.0,2.5,75.0,237,2,2,3,2.0
+17,Summer,Blank,SK Telecom T1,Jungle,82.0,4.1,69.3,250,3,2,2,2.0
+17,Summer,Bless,bbq Olivers,Jungle,29.0,2.0,63.0,209,4,5,4,4.0
+17,Summer,Cuzz,Longzhu Gaming,Jungle,70.0,4.6,64.5,303,4,3,1,2.0
+17,Summer,Hachani,Ever8 Winners,Jungle,0.0,1.1,62.5,175,5,5,5,5.0
 17,Summer,Haru,Samsung Galaxy,Jungle,57.0,2.4,57.4,229,1,5,4,3.0
-17,Summer,Helper,Ever8 Winners,Top,24.0,2.3,63.0,330,5,4,4,4.0
-17,Summer,Huni,SK Telecom T1,Top,44.0,1.5,55.7,477,5,5,5,5.0
-17,Summer,Ian,MVP,Middle,31.0,3.1,72.4,518,4,2,3,3.0
-17,Summer,ikssu,Jin Air Green Wings,Top,48.0,2.7,66.0,419,1,4,4,3.0
-17,Summer,Key,ROX Tigers,Support,39.0,2.8,79.0,147,2,1,4,2.0
-17,Summer,Khan,Longzhu Gaming,Top,72.0,4.1,64.7,516,2,4,2,2.0
-17,Summer,Kiin,Ever8 Winners,Top,30.0,2.4,61.3,378,3,5,4,4.0
-17,Summer,Kramer,Afreeca Freecs,ADC,56.0,4.6,65.3,527,4,4,2,3.0
-17,Summer,Kuro,Afreeca Freecs,Middle,56.0,4.2,72.8,541,4,2,2,2.0
-17,Summer,Kuzan,Jin Air Green Wings,Middle,50.0,3.7,68.3,495,1,3,3,2.0
-17,Summer,Lava,ROX Tigers,Middle,38.0,2.7,75.1,494,5,1,4,3.0
-17,Summer,Lindarang,ROX Tigers,Top,39.0,2.3,64.7,340,5,4,4,4.0
-17,Summer,MaHa,MVP,ADC,31.0,3.4,69.6,490,4,3,3,3.0
-17,Summer,Malrang,Ever8 Winners,Jungle,28.0,3.2,68.9,238,3,3,3,3.0
-17,Summer,MaRin,Afreeca Freecs,Top,56.0,2.8,60.6,415,1,5,4,3.0
-17,Summer,Mata,KT Rolster,Support,66.0,5.0,67.4,156,3,3,1,2.0
-17,Summer,Max,MVP,Support,31.0,3.1,76.3,156,2,1,3,2.0
-17,Summer,Mickey,ROX Tigers,Middle,41.0,2.6,70.0,493,5,2,4,3.0
-17,Summer,Mightybear,ROX Tigers,Jungle,25.0,3.1,73.3,244,5,2,3,3.0
+17,Summer,Malrang,Ever8 Winners,Jungle,28.0,3.2,68.9,238,3,4,3,3.0
+17,Summer,Mightybear,ROX Tigers,Jungle,25.0,3.1,73.3,244,5,3,3,3.0
 17,Summer,Mowgli,Afreeca Freecs,Jungle,50.0,2.7,63.6,227,5,4,4,4.0
-17,Summer,PawN,KT Rolster,Middle,66.0,6.0,68.0,474,2,3,1,2.0
 17,Summer,Peanut,SK Telecom T1,Jungle,50.0,2.8,65.8,203,2,4,4,3.0
-17,Summer,PraY,Longzhu Gaming,ADC,70.0,4.7,64.2,519,1,4,1,2.0
 17,Summer,Raise,Jin Air Green Wings,Jungle,0.0,1.4,100.0,142,1,1,5,2.0
-17,Summer,Rascal,Longzhu Gaming,Top,0.0,2.0,80.0,476,5,1,5,3.0
-17,Summer,Ruler,Samsung Galaxy,ADC,66.0,3.9,70.7,549,1,2,2,1.0
-17,Summer,Sangyoon,ROX Tigers,ADC,39.0,4.2,75.2,530,3,1,2,2.0
 17,Summer,Score,KT Rolster,Jungle,66.0,7.1,71.7,290,1,2,1,1.0
 17,Summer,SeongHwan,ROX Tigers,Jungle,50.0,3.4,76.4,227,5,1,3,3.0
+17,Summer,Spirit,Afreeca Freecs,Jungle,57.0,3.1,71.6,274,2,2,2,2.0
+17,Summer,UmTi,Jin Air Green Wings,Jungle,51.0,3.1,70.0,259,2,3,2,2.0
+17,Summer,Bang,SK Telecom T1,ADC,63.0,4.9,68.0,550,1,2,2,1.0
+17,Summer,Deft,KT Rolster,ADC,66.0,5.8,63.7,585,1,4,1,2.0
+17,Summer,DeuL,Ever8 Winners,ADC,27.0,2.8,63.6,427,5,5,5,5.0
+17,Summer,Ghost,bbq Olivers,ADC,29.0,2.8,68.1,467,4,4,5,4.0
+17,Summer,Kramer,Afreeca Freecs,ADC,56.0,4.6,65.3,527,4,4,2,3.0
+17,Summer,MaHa,MVP,ADC,31.0,3.4,69.6,490,5,3,4,4.0
+17,Summer,PraY,Longzhu Gaming,ADC,70.0,4.7,64.2,519,2,3,2,2.0
+17,Summer,Ruler,Samsung Galaxy,ADC,66.0,3.9,70.7,549,1,1,2,1.0
+17,Summer,Sangyoon,ROX Tigers,ADC,39.0,4.2,75.2,530,4,1,3,2.0
+17,Summer,Teddy,Jin Air Green Wings,ADC,50.0,3.5,68.8,521,3,2,4,3.0
+17,Summer,CoreJJ,Samsung Galaxy,Support,66.0,4.8,73.0,188,2,1,1,1.0
+17,Summer,Ella,Ever8 Winners,Support,24.0,2.0,60.7,123,3,5,5,4.0
+17,Summer,GorillA,Longzhu Gaming,Support,70.0,4.2,67.0,209,1,3,1,1.0
+17,Summer,Hachani,Ever8 Winners,Support,33.0,2.1,67.7,134,5,4,5,4.0
+17,Summer,Key,ROX Tigers,Support,39.0,2.8,79.0,147,1,1,4,2.0
+17,Summer,Mata,KT Rolster,Support,66.0,5.0,67.4,156,3,3,1,2.0
+17,Summer,Max,MVP,Support,31.0,3.1,76.3,156,2,2,3,2.0
+17,Summer,SnowFlower,Jin Air Green Wings,Support,50.0,2.6,71.0,164,4,3,4,3.0
+17,Summer,Totoro,bbq Olivers,Support,29.0,2.7,65.1,123,3,5,5,4.0
+17,Summer,TusiN,Afreeca Freecs,Support,56.0,3.5,71.5,182,3,2,2,2.0
+17,Summer,Wolf,SK Telecom T1,Support,63.0,3.4,69.6,161,4,2,3,3.0
+17,Summer,ADD,MVP,Top,31.0,1.6,59.8,409,5,5,4,4.0
+17,Summer,Crazy,bbq Olivers,Top,29.0,2.6,61.4,408,1,4,3,2.0
+17,Summer,CuVee,Samsung Galaxy,Top,66.0,3.5,61.1,422,3,3,2,2.0
+17,Summer,Helper,Ever8 Winners,Top,24.0,2.3,63.0,330,5,4,5,4.0
+17,Summer,Huni,SK Telecom T1,Top,44.0,1.5,55.7,477,4,5,3,4.0
+17,Summer,ikssu,Jin Air Green Wings,Top,48.0,2.7,66.0,419,1,2,3,2.0
+17,Summer,Khan,Longzhu Gaming,Top,72.0,4.1,64.7,516,2,2,1,1.0
+17,Summer,Kiin,Ever8 Winners,Top,30.0,2.4,61.3,378,3,4,4,3.0
+17,Summer,Lindarang,ROX Tigers,Top,39.0,2.3,64.7,340,4,3,5,4.0
+17,Summer,MaRin,Afreeca Freecs,Top,56.0,2.8,60.6,415,2,3,3,2.0
+17,Summer,Rascal,Longzhu Gaming,Top,0.0,2.0,80.0,476,5,1,3,3.0
 17,Summer,Shy,ROX Tigers,Top,36.0,1.3,55.1,322,5,5,5,5.0
-17,Summer,Smeb,KT Rolster,Top,66.0,4.3,70.5,480,1,2,2,1.0
-17,Summer,SnowFlower,Jin Air Green Wings,Support,50.0,2.6,71.0,164,3,2,4,3.0
-17,Summer,SoHwan,Jin Air Green Wings,Top,52.0,3.2,68.1,416,1,3,3,2.0
-17,Summer,Spirit,Afreeca Freecs,Jungle,57.0,3.1,71.6,274,2,2,3,2.0
-17,Summer,Teddy,Jin Air Green Wings,ADC,50.0,3.5,68.8,521,3,3,3,3.0
-17,Summer,Tempt,bbq Olivers,Middle,29.0,2.9,68.1,478,3,3,4,3.0
-17,Summer,Totoro,bbq Olivers,Support,29.0,2.7,65.1,123,3,4,4,3.0
-17,Summer,TusiN,Afreeca Freecs,Support,56.0,3.5,71.5,182,3,2,3,2.0
-17,Summer,UmTi,Jin Air Green Wings,Jungle,51.0,3.1,70.0,259,2,2,3,2.0
-17,Summer,Untara,SK Telecom T1,Top,76.0,3.0,56.1,403,4,5,3,4.0
-17,Summer,Wolf,SK Telecom T1,Support,63.0,3.4,69.6,161,3,3,3,3.0
-18,Spring,ADD,MVP,Top,33.0,1.9,64.7,503,4,4,5,4.0
-18,Spring,Aiming,Afreeca Freecs,ADC,71.0,6.1,79.2,530,4,1,1,2.0
-18,Spring,Ambition,KSV eSports,Jungle,52.0,2.2,65.2,171,4,4,5,4.0
-18,Spring,Bang,SK Telecom T1,ADC,50.0,9.6,77.4,650,2,2,1,1.0
-18,Spring,Bdd,Kingzone DragonX,Middle,83.0,7.6,73.3,484,1,3,1,1.0
-18,Spring,Beyond,MVP,Jungle,33.0,1.9,73.2,179,2,3,5,3.0
-18,Spring,Blank,SK Telecom T1,Jungle,42.0,4.1,83.6,168,5,1,3,3.0
-18,Spring,Blossom,SK Telecom T1,Jungle,61.0,2.4,74.6,169,5,2,4,3.0
-18,Spring,bonO,bbq Olivers,Jungle,25.0,2.8,68.5,218,3,3,4,3.0
-18,Spring,CoreJJ,KSV eSports,Support,50.0,3.6,77.2,123,4,2,3,3.0
-18,Spring,Crazy,bbq Olivers,Top,39.0,3.3,62.7,434,2,4,4,3.0
-18,Spring,Crown,KSV eSports,Middle,50.0,2.4,72.1,491,3,3,4,3.0
-18,Spring,CuVee,KSV eSports,Top,50.0,2.2,64.3,441,4,4,5,4.0
-18,Spring,Cuzz,Kingzone DragonX,Jungle,100.0,4.2,70.4,226,3,3,3,3.0
-18,Spring,Deft,KT Rolster,ADC,65.0,5.0,71.7,653,1,3,2,2.0
-18,Spring,Edge,Kongdoo Monster,Middle,22.0,2.6,75.3,444,3,2,4,3.0
-18,Spring,Effort,SK Telecom T1,Support,53.0,5.6,83.1,144,4,1,1,2.0
-18,Spring,Faker,SK Telecom T1,Middle,50.0,4.3,81.6,548,3,1,3,2.0
-18,Spring,Ghost,bbq Olivers,ADC,39.0,3.4,68.3,445,4,4,4,4.0
-18,Spring,GorillA,Kingzone DragonX,Support,83.0,5.0,68.1,139,2,4,2,2.0
-18,Spring,Haru,KSV eSports,Jungle,47.0,2.0,69.6,187,1,3,5,3.0
-18,Spring,Ian,MVP,Middle,33.0,3.0,73.5,525,2,2,4,2.0
-18,Spring,IgNar,bbq Olivers,Support,39.0,4.2,70.9,89,3,3,3,3.0
-18,Spring,Justice,Jin Air Green Wings,Middle,38.0,4.2,76.1,387,5,2,3,3.0
-18,Spring,Key,ROX Tigers,Support,49.0,3.1,73.4,130,2,2,4,2.0
-18,Spring,Khan,Kingzone DragonX,Top,88.0,5.9,60.9,570,1,5,1,2.0
-18,Spring,Kiin,Afreeca Freecs,Top,68.0,3.9,59.2,425,2,5,3,3.0
-18,Spring,Kramer,Afreeca Freecs,ADC,68.0,7.9,77.0,547,3,2,1,2.0
+17,Summer,Smeb,KT Rolster,Top,66.0,4.3,70.5,480,1,1,1,1.0
+17,Summer,SoHwan,Jin Air Green Wings,Top,52.0,3.2,68.1,416,1,1,2,1.0
+17,Summer,Untara,SK Telecom T1,Top,76.0,3.0,56.1,403,3,4,3,3.0
+18,Spring,Bdd,Kingzone DragonX,Middle,83.0,7.6,73.3,484,1,2,1,1.0
+18,Spring,Crown,KSV eSports,Middle,50.0,2.4,72.1,491,4,3,4,3.0
+18,Spring,Edge,Kongdoo Monster,Middle,22.0,2.6,75.3,444,3,3,5,3.0
+18,Spring,Faker,SK Telecom T1,Middle,50.0,4.3,81.6,548,3,2,2,2.0
+18,Spring,Ian,MVP,Middle,33.0,3.0,73.5,525,2,3,3,2.0
+18,Spring,Justice,Jin Air Green Wings,Middle,38.0,4.2,76.1,387,5,3,5,4.0
 18,Spring,Kuro,Afreeca Freecs,Middle,68.0,5.4,78.3,505,4,2,2,2.0
-18,Spring,Kuzan,ROX Tigers,Middle,0.0,0.1,16.7,365,2,5,5,4.0
-18,Spring,Lava,ROX Tigers,Middle,51.0,3.7,78.4,565,2,2,3,2.0
-18,Spring,Lindarang,ROX Tigers,Top,49.0,2.8,63.0,418,3,4,4,3.0
-18,Spring,MaHa,MVP,ADC,7.0,2.0,76.0,529,5,2,5,4.0
-18,Spring,Mata,KT Rolster,Support,65.0,6.2,74.8,122,3,2,1,2.0
-18,Spring,Max,MVP,Support,33.0,2.3,72.9,143,2,3,5,3.0
-18,Spring,Mightybear,ROX Tigers,Jungle,0.0,1.3,83.3,128,4,1,5,3.0
-18,Spring,Mowgli,Afreeca Freecs,Jungle,70.0,8.3,83.8,174,5,1,1,2.0
+18,Spring,Kuzan,ROX Tigers,Middle,0.0,0.1,16.7,365,3,5,5,4.0
+18,Spring,Lava,ROX Tigers,Middle,51.0,3.7,78.4,565,1,2,2,1.0
 18,Spring,PawN,KT Rolster,Middle,61.0,4.5,75.5,512,4,2,2,2.0
-18,Spring,Peanut,Kingzone DragonX,Jungle,80.0,8.5,78.2,255,1,2,1,1.0
-18,Spring,Pilot,MVP,ADC,46.0,5.5,74.5,584,5,2,2,3.0
-18,Spring,PraY,Kingzone DragonX,ADC,83.0,8.2,68.9,633,1,3,1,1.0
-18,Spring,Raise,Kongdoo Monster,Jungle,27.0,1.8,72.8,175,5,3,5,4.0
-18,Spring,Rascal,Kingzone DragonX,Top,57.0,4.1,55.4,410,1,5,3,3.0
-18,Spring,Roach,Kongdoo Monster,Top,22.0,1.7,54.1,346,4,5,5,4.0
-18,Spring,Ruler,KSV eSports,ADC,50.0,3.2,71.2,556,2,3,4,3.0
-18,Spring,Rush,KT Rolster,Jungle,100.0,5.0,60.0,114,1,5,2,2.0
-18,Spring,Sangyoon,ROX Tigers,ADC,49.0,4.0,69.2,520,4,3,3,3.0
-18,Spring,Score,KT Rolster,Jungle,63.0,4.4,77.5,186,3,2,3,2.0
-18,Spring,Secret,Kongdoo Monster,Support,22.0,2.0,69.5,112,3,3,5,3.0
-18,Spring,SeongHwan,ROX Tigers,Jungle,51.0,3.3,78.6,203,4,2,4,3.0
-18,Spring,Smeb,KT Rolster,Top,65.0,3.9,67.7,481,3,4,3,3.0
-18,Spring,SoHwan,Jin Air Green Wings,Top,43.0,3.1,54.8,383,2,5,4,3.0
+18,Spring,Tempt,bbq Olivers,Middle,39.0,3.8,72.3,527,2,3,2,2.0
+18,Spring,Ucal,KT Rolster,Middle,75.0,6.1,66.4,445,1,3,3,2.0
+18,Spring,Yaharong,Jin Air Green Wings,Middle,44.0,3.9,71.1,545,5,3,2,3.0
+18,Spring,Ambition,KSV eSports,Jungle,52.0,2.2,65.2,171,3,5,4,4.0
+18,Spring,Beyond,MVP,Jungle,33.0,1.9,73.2,179,2,4,4,3.0
+18,Spring,Blank,SK Telecom T1,Jungle,42.0,4.1,83.6,168,5,1,3,3.0
+18,Spring,Blossom,SK Telecom T1,Jungle,61.0,2.4,74.6,169,5,3,4,4.0
+18,Spring,bonO,bbq Olivers,Jungle,25.0,2.8,68.5,218,3,5,2,3.0
+18,Spring,Cuzz,Kingzone DragonX,Jungle,100.0,4.2,70.4,226,2,3,1,2.0
+18,Spring,Haru,KSV eSports,Jungle,47.0,2.0,69.6,187,1,5,4,3.0
+18,Spring,Mightybear,ROX Tigers,Jungle,0.0,1.3,83.3,128,4,2,5,3.0
+18,Spring,Mowgli,Afreeca Freecs,Jungle,70.0,8.3,83.8,174,5,1,1,2.0
+18,Spring,Peanut,Kingzone DragonX,Jungle,80.0,8.5,78.2,255,1,1,1,1.0
+18,Spring,Raise,Kongdoo Monster,Jungle,27.0,1.8,72.8,175,5,4,4,4.0
+18,Spring,Rush,KT Rolster,Jungle,100.0,5.0,60.0,114,1,5,4,3.0
+18,Spring,Score,KT Rolster,Jungle,63.0,4.4,77.5,186,3,2,2,2.0
+18,Spring,SeongHwan,ROX Tigers,Jungle,51.0,3.3,78.6,203,4,2,2,2.0
 18,Spring,Spirit,Afreeca Freecs,Jungle,68.0,4.3,73.0,171,2,3,3,2.0
-18,Spring,SS,Kongdoo Monster,ADC,22.0,2.9,74.7,521,5,2,4,3.0
-18,Spring,Teddy,Jin Air Green Wings,ADC,43.0,5.4,79.6,672,2,1,2,1.0
-18,Spring,Tempt,bbq Olivers,Middle,39.0,3.8,72.3,527,2,3,3,2.0
-18,Spring,Thal,SK Telecom T1,Top,60.0,3.6,56.4,489,3,5,3,3.0
-18,Spring,Trick,bbq Olivers,Jungle,42.0,2.8,75.8,166,3,2,4,3.0
-18,Spring,TusiN,Afreeca Freecs,Support,68.0,4.0,76.1,130,3,2,3,2.0
-18,Spring,Ucal,KT Rolster,Middle,75.0,6.1,66.4,445,1,4,1,2.0
-18,Spring,UmTi,Jin Air Green Wings,Jungle,43.0,3.0,73.1,193,1,3,4,2.0
-18,Spring,Untara,SK Telecom T1,Top,38.0,2.3,57.1,275,5,5,5,5.0
-18,Spring,Wiz,Kongdoo Monster,Jungle,0.0,1.9,80.4,152,5,1,5,3.0
-18,Spring,Wolf,SK Telecom T1,Jungle,50.0,4.1,70.7,177,3,3,3,3.0
-18,Spring,Wolf,SK Telecom T1,Support,48.0,3.6,75.5,112,2,2,3,2.0
-18,Spring,Wraith,Jin Air Green Wings,Support,43.0,3.7,76.3,107,3,2,3,2.0
-18,Spring,Yaharong,Jin Air Green Wings,Middle,44.0,3.9,71.1,545,5,3,3,3.0
-18,Summer,ADD,MVP,Top,28.0,2.1,66.3,412,4,3,4,3.0
-18,Summer,Aiming,Afreeca Freecs,ADC,60.0,5.1,71.4,419,5,2,2,3.0
-18,Summer,Alphamong,Gen.G,Top,0.0,1.0,75.0,137,1,2,5,2.0
-18,Summer,Ambition,Gen.G,Jungle,62.0,3.0,74.2,148,3,2,3,2.0
-18,Summer,Asper,Hanwha Life Esports,Support,0.0,3.0,60.0,65,2,5,3,3.0
-18,Summer,Bang,SK Telecom T1,ADC,46.0,4.9,70.1,566,3,3,2,2.0
-18,Summer,Bdd,Kingzone DragonX,Middle,65.0,4.8,70.4,449,3,3,2,2.0
-18,Summer,Beyond,MVP,Jungle,27.0,2.2,76.0,177,3,2,4,3.0
-18,Summer,Blank,SK Telecom T1,Jungle,49.0,3.4,73.6,179,4,2,3,3.0
-18,Summer,Blossom,SK Telecom T1,Jungle,20.0,1.5,64.7,311,1,4,5,3.0
-18,Summer,bonO,bbq Olivers,Jungle,0.0,1.1,80.4,169,5,1,5,3.0
+18,Spring,Trick,bbq Olivers,Jungle,42.0,2.8,75.8,166,3,3,4,3.0
+18,Spring,UmTi,Jin Air Green Wings,Jungle,43.0,3.0,73.1,193,1,4,3,2.0
+18,Spring,Wiz,Kongdoo Monster,Jungle,0.0,1.9,80.4,152,5,3,5,4.0
+18,Spring,Wolf,SK Telecom T1,Jungle,50.0,4.1,70.7,177,3,4,3,3.0
+18,Spring,Aiming,Afreeca Freecs,ADC,71.0,6.1,79.2,530,4,1,3,2.0
+18,Spring,Bang,SK Telecom T1,ADC,50.0,9.6,77.4,650,2,2,1,1.0
+18,Spring,Deft,KT Rolster,ADC,65.0,5.0,71.7,653,1,3,2,2.0
+18,Spring,Ghost,bbq Olivers,ADC,39.0,3.4,68.3,445,4,5,5,4.0
+18,Spring,Kramer,Afreeca Freecs,ADC,68.0,7.9,77.0,547,2,1,2,1.0
+18,Spring,MaHa,MVP,ADC,7.0,2.0,76.0,529,5,4,5,4.0
+18,Spring,Pilot,MVP,ADC,46.0,5.5,74.5,584,5,3,3,3.0
+18,Spring,PraY,Kingzone DragonX,ADC,83.0,8.2,68.9,633,1,4,1,2.0
+18,Spring,Ruler,KSV eSports,ADC,50.0,3.2,71.2,556,2,4,4,3.0
+18,Spring,Sangyoon,ROX Tigers,ADC,49.0,4.0,69.2,520,4,5,4,4.0
+18,Spring,SS,Kongdoo Monster,ADC,22.0,2.9,74.7,521,4,4,5,4.0
+18,Spring,Teddy,Jin Air Green Wings,ADC,43.0,5.4,79.6,672,2,1,1,1.0
+18,Spring,CoreJJ,KSV eSports,Support,50.0,3.6,77.2,123,5,2,3,3.0
+18,Spring,Effort,SK Telecom T1,Support,53.0,5.6,83.1,144,5,1,1,2.0
+18,Spring,GorillA,Kingzone DragonX,Support,83.0,5.0,68.1,139,2,4,1,2.0
+18,Spring,IgNar,bbq Olivers,Support,39.0,4.2,70.9,89,2,5,5,4.0
+18,Spring,Key,ROX Tigers,Support,49.0,3.1,73.4,130,1,3,3,2.0
+18,Spring,Mata,KT Rolster,Support,65.0,6.2,74.8,122,3,2,1,2.0
+18,Spring,Max,MVP,Support,33.0,2.3,72.9,143,2,4,3,3.0
+18,Spring,Secret,Kongdoo Monster,Support,22.0,2.0,69.5,112,4,5,5,4.0
+18,Spring,TusiN,Afreeca Freecs,Support,68.0,4.0,76.1,130,4,2,2,2.0
+18,Spring,Wolf,SK Telecom T1,Support,48.0,3.6,75.5,112,1,3,4,2.0
+18,Spring,Wraith,Jin Air Green Wings,Support,43.0,3.7,76.3,107,3,2,4,3.0
+18,Spring,ADD,MVP,Top,33.0,1.9,64.7,503,5,2,3,3.0
+18,Spring,Crazy,bbq Olivers,Top,39.0,3.3,62.7,434,2,2,3,2.0
+18,Spring,CuVee,KSV eSports,Top,50.0,2.2,64.3,441,4,2,4,3.0
+18,Spring,Khan,Kingzone DragonX,Top,88.0,5.9,60.9,570,1,1,1,1.0
+18,Spring,Kiin,Afreeca Freecs,Top,68.0,3.9,59.2,425,2,3,2,2.0
+18,Spring,Lindarang,ROX Tigers,Top,49.0,2.8,63.0,418,3,2,4,3.0
+18,Spring,Rascal,Kingzone DragonX,Top,57.0,4.1,55.4,410,1,4,2,2.0
+18,Spring,Roach,Kongdoo Monster,Top,22.0,1.7,54.1,346,4,5,5,4.0
+18,Spring,Smeb,KT Rolster,Top,65.0,3.9,67.7,481,3,1,2,2.0
+18,Spring,SoHwan,Jin Air Green Wings,Top,43.0,3.1,54.8,383,2,5,4,3.0
+18,Spring,Thal,SK Telecom T1,Top,60.0,3.6,56.4,489,4,4,2,3.0
+18,Spring,Untara,SK Telecom T1,Top,38.0,2.3,57.1,275,5,4,5,4.0
+18,Summer,Bdd,Kingzone DragonX,Middle,65.0,4.8,70.4,449,2,2,2,2.0
 18,Summer,Chovy,Griffin,Middle,70.0,9.1,71.1,437,3,2,1,2.0
-18,Summer,Clever,Hanwha Life Esports,ADC,0.0,4.0,80.0,421,3,1,2,2.0
-18,Summer,CoreJJ,Gen.G,Support,64.0,3.9,73.8,125,3,2,3,2.0
-18,Summer,Crazy,bbq Olivers,Top,21.0,2.2,60.3,343,3,4,4,3.0
-18,Summer,Crown,Gen.G,Middle,67.0,3.0,66.7,537,3,3,3,3.0
-18,Summer,CuVee,Gen.G,Top,65.0,3.1,60.4,393,3,4,3,3.0
-18,Summer,Cuzz,Kingzone DragonX,Jungle,46.0,2.0,67.0,205,2,3,4,3.0
-18,Summer,Deft,KT Rolster,ADC,67.0,4.4,65.8,576,2,4,2,2.0
-18,Summer,Effort,SK Telecom T1,Support,53.0,2.7,69.3,125,3,3,4,3.0
-18,Summer,Faker,SK Telecom T1,Middle,40.0,3.1,74.9,449,2,2,3,2.0
-18,Summer,Fly,Gen.G,Middle,63.0,4.9,74.2,382,2,2,2,2.0
-18,Summer,Ghost,bbq Olivers,ADC,23.0,2.1,65.4,382,4,4,4,4.0
-18,Summer,GorillA,Kingzone DragonX,Support,65.0,3.3,62.9,118,3,4,3,3.0
-18,Summer,Haru,Gen.G,Jungle,67.0,3.3,68.3,246,1,3,3,2.0
-18,Summer,Hoon,Hanwha Life Esports,Top,0.0,3.5,70.0,359,1,3,3,2.0
-18,Summer,Ian,MVP,Middle,27.0,2.8,77.4,390,4,1,4,3.0
-18,Summer,IgNar,bbq Olivers,Support,21.0,2.7,68.5,122,3,3,4,3.0
-18,Summer,Justice,Jin Air Green Wings,Middle,0.0,0.0,50.0,225,3,5,5,4.0
+18,Summer,Crown,Gen.G,Middle,67.0,3.0,66.7,537,3,2,1,2.0
+18,Summer,Faker,SK Telecom T1,Middle,40.0,3.1,74.9,449,1,2,3,2.0
+18,Summer,Fly,Gen.G,Middle,63.0,4.9,74.2,382,2,2,3,2.0
+18,Summer,Ian,MVP,Middle,27.0,2.8,77.4,390,5,2,4,3.0
+18,Summer,Justice,Jin Air Green Wings,Middle,0.0,0.0,50.0,225,4,5,5,4.0
+18,Summer,Kuro,Afreeca Freecs,Middle,57.0,5.1,72.4,453,1,2,2,1.0
+18,Summer,Kuzan,Hanwha Life Esports,Middle,0.0,2.0,40.0,325,5,5,5,5.0
+18,Summer,Lava,Hanwha Life Esports,Middle,56.0,3.5,74.9,450,4,2,2,2.0
+18,Summer,PawN,KT Rolster,Middle,0.0,1.0,71.4,368,5,4,5,4.0
+18,Summer,Pirean,SK Telecom T1,Middle,53.0,3.2,67.5,419,2,3,3,2.0
+18,Summer,Rather,Griffin,Middle,63.0,4.3,75.0,400,2,2,3,2.0
+18,Summer,Tempt,bbq Olivers,Middle,21.0,3.1,75.3,405,1,3,3,2.0
+18,Summer,Ucal,KT Rolster,Middle,69.0,4.2,66.8,442,2,2,2,2.0
+18,Summer,Yaharong,Jin Air Green Wings,Middle,32.0,2.7,66.2,381,2,4,4,3.0
+18,Summer,Ambition,Gen.G,Jungle,62.0,3.0,74.2,148,3,2,4,3.0
+18,Summer,Beyond,MVP,Jungle,27.0,2.2,76.0,177,4,3,4,3.0
+18,Summer,Blank,SK Telecom T1,Jungle,49.0,3.4,73.6,179,4,2,3,3.0
+18,Summer,Blossom,SK Telecom T1,Jungle,20.0,1.5,64.7,311,1,5,2,2.0
+18,Summer,bonO,bbq Olivers,Jungle,0.0,1.1,80.4,169,5,3,5,4.0
+18,Summer,Cuzz,Kingzone DragonX,Jungle,46.0,2.0,67.0,205,2,4,4,3.0
+18,Summer,Haru,Gen.G,Jungle,67.0,3.3,68.3,246,1,3,2,2.0
 18,Summer,KaKAO,Jin Air Green Wings,Jungle,0.0,0.6,41.7,80,1,5,5,3.0
-18,Summer,Key,Hanwha Life Esports,Support,56.0,4.0,71.1,123,3,2,2,2.0
-18,Summer,Khan,Kingzone DragonX,Top,63.0,3.2,56.7,450,1,5,3,3.0
-18,Summer,Kiin,Afreeca Freecs,Top,57.0,3.9,62.1,450,2,4,3,3.0
-18,Summer,Kingen,KT Rolster,Top,0.0,1.0,100.0,141,5,1,5,3.0
-18,Summer,Kramer,Afreeca Freecs,ADC,45.0,6.9,71.1,356,5,2,1,2.0
-18,Summer,Kuro,Afreeca Freecs,Middle,57.0,5.1,72.4,453,2,2,2,2.0
-18,Summer,Kuzan,Hanwha Life Esports,Middle,0.0,2.0,40.0,325,5,5,4,4.0
-18,Summer,Lava,Hanwha Life Esports,Middle,56.0,3.5,74.9,450,4,2,3,3.0
-18,Summer,Lehends,Griffin,Support,68.0,5.9,74.1,178,2,2,1,1.0
-18,Summer,Leo,SK Telecom T1,ADC,33.0,4.8,73.1,475,4,2,2,2.0
-18,Summer,Lindarang,Hanwha Life Esports,Top,56.0,2.5,60.9,406,4,4,4,4.0
-18,Summer,MaHa,MVP,ADC,0.0,1.1,50.0,288,4,5,5,4.0
-18,Summer,MaHa,MVP,Top,0.0,0.7,40.0,210,5,5,5,5.0
-18,Summer,Mata,KT Rolster,Support,67.0,3.4,68.0,128,3,3,3,3.0
-18,Summer,Max,MVP,Support,27.0,2.1,67.6,151,3,3,4,3.0
-18,Summer,Max,MVP,Top,33.0,1.6,61.9,303,5,4,5,4.0
-18,Summer,Mightybear,Hanwha Life Esports,Jungle,0.0,5.0,100.0,300,3,1,2,2.0
-18,Summer,Motive,MVP,Support,25.0,1.8,79.2,138,4,1,4,3.0
+18,Summer,Mightybear,Hanwha Life Esports,Jungle,0.0,5.0,100.0,300,3,1,1,1.0
 18,Summer,Mowgli,Afreeca Freecs,Jungle,50.0,4.0,65.4,195,4,4,2,3.0
-18,Summer,Nova,Jin Air Green Wings,Support,31.0,2.3,63.7,115,3,4,4,3.0
-18,Summer,PawN,KT Rolster,Middle,0.0,1.0,71.4,368,5,2,5,4.0
-18,Summer,Peanut,Kingzone DragonX,Jungle,73.0,4.6,67.7,225,1,3,2,2.0
-18,Summer,Pilot,MVP,ADC,29.0,3.8,76.1,500,3,2,3,2.0
-18,Summer,Pirean,SK Telecom T1,Middle,53.0,3.2,67.5,419,3,3,3,3.0
-18,Summer,PraY,Kingzone DragonX,ADC,65.0,4.4,62.2,480,1,4,2,2.0
-18,Summer,Prince,bbq Olivers,ADC,0.0,1.1,55.2,343,1,5,5,3.0
-18,Summer,Rascal,Kingzone DragonX,Top,100.0,15.0,68.2,417,3,3,1,2.0
-18,Summer,Rather,Griffin,Middle,63.0,4.3,75.0,400,3,2,2,2.0
-18,Summer,Ruler,Gen.G,ADC,64.0,5.1,73.3,569,2,2,2,2.0
+18,Summer,Peanut,Kingzone DragonX,Jungle,73.0,4.6,67.7,225,2,2,1,1.0
 18,Summer,Rush,KT Rolster,Jungle,57.0,1.9,61.1,225,4,4,4,4.0
-18,Summer,Sangyoon,Hanwha Life Esports,ADC,56.0,5.5,69.0,511,2,3,1,2.0
-18,Summer,Score,KT Rolster,Jungle,69.0,3.7,72.7,222,1,2,3,2.0
+18,Summer,Score,KT Rolster,Jungle,69.0,3.7,72.7,222,1,2,2,1.0
 18,Summer,SeongHwan,Hanwha Life Esports,Jungle,56.0,3.1,72.3,182,3,2,3,2.0
-18,Summer,Smeb,KT Rolster,Top,69.0,4.7,64.4,476,2,4,2,2.0
-18,Summer,SoHwan,Jin Air Green Wings,Top,31.0,2.5,61.4,350,3,4,4,3.0
 18,Summer,Spirit,Afreeca Freecs,Jungle,58.0,4.1,71.4,207,2,2,2,2.0
-18,Summer,Sword,Griffin,Top,68.0,4.3,62.2,407,3,4,2,3.0
 18,Summer,Tarzan,Griffin,Jungle,68.0,6.5,77.3,231,4,1,1,2.0
+18,Summer,Trick,bbq Olivers,Jungle,25.0,2.4,77.9,187,4,3,4,3.0
+18,Summer,UmTi,Jin Air Green Wings,Jungle,34.0,2.5,74.2,212,3,3,3,3.0
+18,Summer,Aiming,Afreeca Freecs,ADC,60.0,5.1,71.4,419,5,2,3,3.0
+18,Summer,Bang,SK Telecom T1,ADC,46.0,4.9,70.1,566,4,2,1,2.0
+18,Summer,Clever,Hanwha Life Esports,ADC,0.0,4.0,80.0,421,2,2,4,2.0
+18,Summer,Deft,KT Rolster,ADC,67.0,4.4,65.8,576,2,3,1,2.0
+18,Summer,Ghost,bbq Olivers,ADC,23.0,2.1,65.4,382,4,4,5,4.0
+18,Summer,Kramer,Afreeca Freecs,ADC,45.0,6.9,71.1,356,5,2,3,3.0
+18,Summer,Leo,SK Telecom T1,ADC,33.0,4.8,73.1,475,5,2,2,3.0
+18,Summer,MaHa,MVP,ADC,0.0,1.1,50.0,288,5,5,5,5.0
+18,Summer,Pilot,MVP,ADC,29.0,3.8,76.1,500,3,2,3,2.0
+18,Summer,PraY,Kingzone DragonX,ADC,65.0,4.4,62.2,480,1,3,3,2.0
+18,Summer,Prince,bbq Olivers,ADC,0.0,1.1,55.2,343,1,5,5,3.0
+18,Summer,Ruler,Gen.G,ADC,64.0,5.1,73.3,569,2,1,1,1.0
+18,Summer,Sangyoon,Hanwha Life Esports,ADC,56.0,5.5,69.0,511,2,2,2,2.0
 18,Summer,Teddy,Jin Air Green Wings,ADC,31.0,3.1,70.1,498,3,3,3,3.0
-18,Summer,Tempt,bbq Olivers,Middle,21.0,3.1,75.3,405,2,2,3,2.0
-18,Summer,Thal,SK Telecom T1,Top,45.0,2.3,58.4,419,3,5,4,4.0
-18,Summer,Trick,bbq Olivers,Jungle,25.0,2.4,77.9,187,4,1,4,3.0
-18,Summer,TusiN,Afreeca Freecs,Support,57.0,3.6,71.6,130,2,2,3,2.0
-18,Summer,Ucal,KT Rolster,Middle,69.0,4.2,66.8,442,3,3,2,2.0
-18,Summer,UmTi,Jin Air Green Wings,Jungle,34.0,2.5,74.2,212,3,2,4,3.0
-18,Summer,Viper,Griffin,ADC,68.0,7.0,69.8,470,2,3,1,2.0
-18,Summer,Wolf,SK Telecom T1,Support,0.0,1.2,87.9,152,4,1,5,3.0
-18,Summer,Yaharong,Jin Air Green Wings,Middle,32.0,2.7,66.2,381,3,3,4,3.0
-19,Spring,Aiming,Afreeca Freecs,ADC,34.0,3.4,68.7,504,4,2,3,3.0
-19,Spring,ALL IN,Afreeca Freecs,Middle,40.0,2.3,63.5,331,5,3,4,4.0
+18,Summer,Viper,Griffin,ADC,68.0,7.0,69.8,470,2,2,1,1.0
+18,Summer,Asper,Hanwha Life Esports,Support,0.0,3.0,60.0,65,1,5,5,3.0
+18,Summer,CoreJJ,Gen.G,Support,64.0,3.9,73.8,125,3,1,2,2.0
+18,Summer,Effort,SK Telecom T1,Support,53.0,2.7,69.3,125,2,3,4,3.0
+18,Summer,GorillA,Kingzone DragonX,Support,65.0,3.3,62.9,118,2,4,3,3.0
+18,Summer,IgNar,bbq Olivers,Support,21.0,2.7,68.5,122,3,4,4,3.0
+18,Summer,Key,Hanwha Life Esports,Support,56.0,4.0,71.1,123,3,2,2,2.0
+18,Summer,Lehends,Griffin,Support,68.0,5.9,74.1,178,1,1,1,1.0
+18,Summer,Mata,KT Rolster,Support,67.0,3.4,68.0,128,3,3,3,3.0
+18,Summer,Max,MVP,Support,27.0,2.1,67.6,151,3,4,3,3.0
+18,Summer,Motive,MVP,Support,25.0,1.8,79.2,138,5,2,4,3.0
+18,Summer,Nova,Jin Air Green Wings,Support,31.0,2.3,63.7,115,4,5,4,4.0
+18,Summer,TusiN,Afreeca Freecs,Support,57.0,3.6,71.6,130,1,2,2,1.0
+18,Summer,Wolf,SK Telecom T1,Support,0.0,1.2,87.9,152,5,1,4,3.0
+18,Summer,ADD,MVP,Top,28.0,2.1,66.3,412,3,3,3,3.0
+18,Summer,Alphamong,Gen.G,Top,0.0,1.0,75.0,137,2,2,5,3.0
+18,Summer,Crazy,bbq Olivers,Top,21.0,2.2,60.3,343,3,4,3,3.0
+18,Summer,CuVee,Gen.G,Top,65.0,3.1,60.4,393,3,3,3,3.0
+18,Summer,Hoon,Hanwha Life Esports,Top,0.0,3.5,70.0,359,1,3,3,2.0
+18,Summer,Khan,Kingzone DragonX,Top,63.0,3.2,56.7,450,2,4,2,2.0
+18,Summer,Kiin,Afreeca Freecs,Top,57.0,3.9,62.1,450,2,3,2,2.0
+18,Summer,Kingen,KT Rolster,Top,0.0,1.0,100.0,141,5,1,5,3.0
+18,Summer,Lindarang,Hanwha Life Esports,Top,56.0,2.5,60.9,406,3,3,3,3.0
+18,Summer,MaHa,MVP,Top,0.0,0.7,40.0,210,5,5,5,5.0
+18,Summer,Max,MVP,Top,33.0,1.6,61.9,303,4,4,4,4.0
+18,Summer,Rascal,Kingzone DragonX,Top,100.0,15.0,68.2,417,3,1,1,1.0
+18,Summer,Smeb,KT Rolster,Top,69.0,4.7,64.4,476,2,2,1,1.0
+18,Summer,SoHwan,Jin Air Green Wings,Top,31.0,2.5,61.4,350,3,4,3,3.0
+18,Summer,Sword,Griffin,Top,68.0,4.3,62.2,407,3,2,2,2.0
+18,Summer,Thal,SK Telecom T1,Top,45.0,2.3,58.4,419,3,4,2,3.0
+19,Spring,ALL IN,Afreeca Freecs,Middle,40.0,2.3,63.5,331,4,4,4,4.0
 19,Spring,Bdd,KT Rolster,Middle,31.0,3.0,72.0,398,1,2,3,2.0
-19,Spring,BeryL,DWG KIA,Support,69.0,2.6,66.9,103,3,3,4,3.0
-19,Spring,bonO,Hanwha Life Esports,Jungle,47.0,2.4,69.8,188,3,2,4,3.0
-19,Spring,Canyon,DWG KIA,Jungle,57.0,3.4,70.4,251,4,2,3,3.0
 19,Spring,CheonGo,Jin Air Green Wings,Middle,0.0,0.5,52.6,245,5,5,5,5.0
-19,Spring,CheonGo,Jin Air Green Wings,Top,0.0,3.3,54.2,233,5,5,3,4.0
-19,Spring,Chovy,Griffin,Middle,79.0,10.7,64.7,463,1,3,1,1.0
-19,Spring,Clid,SK Telecom T1,Jungle,70.0,5.4,75.5,221,2,1,1,1.0
-19,Spring,Crush,Liiv SANDBOX,Jungle,0.0,1.0,50.0,175,5,5,5,5.0
-19,Spring,CuVee,Gen.G,Top,38.0,2.2,59.0,347,4,4,4,4.0
-19,Spring,Cuzz,Kingzone DragonX,Jungle,69.0,3.8,66.0,275,1,3,2,2.0
-19,Spring,Deft,Kingzone DragonX,ADC,69.0,5.1,72.5,636,1,2,1,1.0
-19,Spring,Dove,Liiv SANDBOX,Middle,64.0,4.4,70.2,433,2,2,2,2.0
-19,Spring,Dread,Afreeca Freecs,Jungle,37.0,2.4,71.3,214,3,2,4,3.0
-19,Spring,Faker,SK Telecom T1,Middle,70.0,4.0,62.0,434,2,4,2,2.0
-19,Spring,Flame,DWG KIA,Top,50.0,3.7,61.7,421,1,4,3,2.0
-19,Spring,Fly,Gen.G,Middle,33.0,2.4,65.2,361,4,3,4,3.0
-19,Spring,Gango,KT Rolster,ADC,25.0,2.4,65.1,420,4,3,4,3.0
-19,Spring,Ghost,Liiv SANDBOX,ADC,64.0,4.7,67.9,506,2,3,2,2.0
-19,Spring,Hoit,DWG KIA,Support,55.0,4.2,74.3,119,3,1,2,2.0
+19,Spring,Chovy,Griffin,Middle,79.0,10.7,64.7,463,1,2,1,1.0
+19,Spring,Dove,Liiv SANDBOX,Middle,64.0,4.4,70.2,433,2,1,2,1.0
+19,Spring,Faker,SK Telecom T1,Middle,70.0,4.0,62.0,434,2,3,2,2.0
+19,Spring,Fly,Gen.G,Middle,33.0,2.4,65.2,361,3,3,4,3.0
 19,Spring,Hoon,Afreeca Freecs,Middle,33.0,1.3,48.8,247,5,5,5,5.0
-19,Spring,Jelly,Afreeca Freecs,Support,30.0,2.0,67.3,115,3,3,4,3.0
-19,Spring,Joker,Liiv SANDBOX,Support,64.0,2.4,66.0,145,2,3,4,3.0
-19,Spring,Kellin,Jin Air Green Wings,Support,5.0,1.4,63.6,91,4,3,5,4.0
-19,Spring,Keshi,Afreeca Freecs,Support,33.0,1.9,65.8,124,2,3,4,3.0
-19,Spring,Key,Hanwha Life Esports,Support,49.0,2.8,72.6,113,1,2,4,2.0
-19,Spring,Khan,SK Telecom T1,Top,70.0,4.1,60.2,465,2,4,2,2.0
-19,Spring,Kiin,Afreeca Freecs,Top,33.0,2.5,61.0,426,1,4,4,3.0
-19,Spring,Kingen,KT Rolster,Top,38.0,2.6,60.5,409,2,4,4,3.0
 19,Spring,Lava,Hanwha Life Esports,Middle,41.0,2.9,73.6,380,4,1,3,2.0
-19,Spring,Lehends,Griffin,Support,79.0,8.3,70.1,161,1,2,1,1.0
-19,Spring,Life,Gen.G,Support,36.0,2.5,73.9,114,3,1,4,2.0
-19,Spring,Lindarang,Jin Air Green Wings,Top,11.0,1.3,56.6,310,3,5,5,4.0
-19,Spring,Malrang,Jin Air Green Wings,Jungle,4.0,3.1,77.4,166,5,1,3,3.0
-19,Spring,Mata,SK Telecom T1,Support,70.0,3.9,67.1,105,2,3,2,2.0
-19,Spring,MooJin,Hanwha Life Esports,Jungle,67.0,3.2,87.9,173,3,1,3,2.0
 19,Spring,Naehyun,Kingzone DragonX,Middle,33.0,3.4,73.0,351,5,2,3,3.0
-19,Spring,Nova,Jin Air Green Wings,Support,13.0,1.2,62.2,109,4,4,5,4.0
-19,Spring,Nuclear,DWG KIA,ADC,59.0,5.5,70.1,450,3,2,1,2.0
-19,Spring,Nuguri,DWG KIA,Top,63.0,2.8,64.6,535,1,3,4,2.0
-19,Spring,OnFleek,Liiv SANDBOX,Jungle,65.0,3.5,66.8,256,2,3,3,2.0
-19,Spring,PawN,Kingzone DragonX,Middle,72.0,4.4,62.6,379,3,4,2,3.0
-19,Spring,Peanut,Gen.G,Jungle,36.0,2.7,67.1,174,2,3,4,3.0
-19,Spring,Prince,DWG KIA,ADC,100.0,2.0,50.0,609,3,5,4,4.0
-19,Spring,Proud,Afreeca Freecs,Support,29.0,4.2,80.6,111,5,1,2,2.0
-19,Spring,Punch,DWG KIA,Jungle,64.0,4.3,75.7,180,2,1,2,1.0
-19,Spring,Rascal,Kingzone DragonX,Top,69.0,3.2,56.3,376,5,5,3,4.0
-19,Spring,Roach,Gen.G,Middle,60.0,3.9,59.6,264,5,4,2,3.0
-19,Spring,Roach,Gen.G,Top,35.0,3.6,69.7,330,2,2,3,2.0
-19,Spring,Route,Jin Air Green Wings,ADC,9.0,1.9,59.2,447,3,4,4,3.0
-19,Spring,Ruler,Gen.G,ADC,36.0,4.2,77.1,539,3,1,2,2.0
-19,Spring,Sangyoon,Hanwha Life Esports,ADC,49.0,4.1,71.6,460,3,2,2,2.0
-19,Spring,Score,KT Rolster,Jungle,32.0,2.7,73.0,223,3,2,4,3.0
-19,Spring,Seize,Jin Air Green Wings,Jungle,14.0,1.9,56.7,202,5,5,4,4.0
-19,Spring,ShowMaker,DWG KIA,Middle,60.0,4.5,70.6,439,2,2,2,2.0
-19,Spring,Smeb,KT Rolster,Top,28.0,2.0,60.9,412,4,4,4,4.0
-19,Spring,SnowFlower,KT Rolster,Support,31.0,2.4,69.9,126,4,2,4,3.0
-19,Spring,SoHwan,Hanwha Life Esports,Top,40.0,1.9,60.0,303,3,4,4,3.0
-19,Spring,Spirit,Afreeca Freecs,ADC,40.0,3.3,71.4,366,2,2,3,2.0
-19,Spring,Spirit,Afreeca Freecs,Jungle,0.0,0.8,68.4,222,2,2,5,3.0
-19,Spring,Spirit,Afreeca Freecs,Support,50.0,2.6,86.7,218,5,1,4,3.0
-19,Spring,SS,Afreeca Freecs,ADC,22.0,2.3,68.6,485,5,2,4,3.0
-19,Spring,Stitch,Jin Air Green Wings,ADC,0.0,0.5,33.3,288,5,5,5,5.0
-19,Spring,Summit,Liiv SANDBOX,Top,65.0,3.6,62.0,457,1,4,3,2.0
-19,Spring,Sword,Griffin,Top,79.0,3.9,47.4,345,3,5,2,3.0
-19,Spring,TaNa,Jin Air Green Wings,Top,0.0,1.8,71.4,411,4,2,4,3.0
-19,Spring,Tarzan,Griffin,Jungle,79.0,9.1,75.3,294,1,1,1,1.0
-19,Spring,Teddy,SK Telecom T1,ADC,70.0,7.4,66.7,570,3,3,1,2.0
-19,Spring,Tempt,Hanwha Life Esports,Middle,58.0,5.7,72.8,470,1,2,1,1.0
-19,Spring,Thal,Hanwha Life Esports,Top,50.0,3.1,62.3,349,3,4,3,3.0
-19,Spring,TusiN,Kingzone DragonX,Support,69.0,4.6,71.6,127,2,2,2,2.0
+19,Spring,PawN,Kingzone DragonX,Middle,72.0,4.4,62.6,379,3,3,3,3.0
+19,Spring,Roach,Gen.G,Middle,60.0,3.9,59.6,264,4,4,5,4.0
+19,Spring,ShowMaker,DWG KIA,Middle,60.0,4.5,70.6,439,2,1,2,1.0
+19,Spring,Tempt,Hanwha Life Esports,Middle,58.0,5.7,72.8,470,1,1,1,1.0
 19,Spring,Ucal,Afreeca Freecs,Middle,27.0,2.2,65.6,361,1,3,4,2.0
-19,Spring,UmTi,KT Rolster,Jungle,29.0,1.9,59.4,206,2,4,4,3.0
-19,Spring,Viper,Griffin,ADC,79.0,8.7,59.0,464,1,4,1,2.0
+19,Spring,Yaharong,Jin Air Green Wings,Middle,9.0,1.9,66.1,371,4,4,4,4.0
+19,Spring,bonO,Hanwha Life Esports,Jungle,47.0,2.4,69.8,188,3,3,4,3.0
+19,Spring,Canyon,DWG KIA,Jungle,57.0,3.4,70.4,251,4,2,2,2.0
+19,Spring,Clid,SK Telecom T1,Jungle,70.0,5.4,75.5,221,2,1,2,1.0
+19,Spring,Crush,Liiv SANDBOX,Jungle,0.0,1.0,50.0,175,5,5,5,5.0
+19,Spring,Cuzz,Kingzone DragonX,Jungle,69.0,3.8,66.0,275,1,3,1,1.0
+19,Spring,Dread,Afreeca Freecs,Jungle,37.0,2.4,71.3,214,3,3,3,3.0
+19,Spring,Malrang,Jin Air Green Wings,Jungle,4.0,3.1,77.4,166,5,3,4,4.0
+19,Spring,MooJin,Hanwha Life Esports,Jungle,67.0,3.2,87.9,173,3,1,4,2.0
+19,Spring,OnFleek,Liiv SANDBOX,Jungle,65.0,3.5,66.8,256,2,3,2,2.0
+19,Spring,Peanut,Gen.G,Jungle,36.0,2.7,67.1,174,2,4,4,3.0
+19,Spring,Punch,DWG KIA,Jungle,64.0,4.3,75.7,180,2,2,4,2.0
+19,Spring,Score,KT Rolster,Jungle,32.0,2.7,73.0,223,3,3,3,3.0
+19,Spring,Seize,Jin Air Green Wings,Jungle,14.0,1.9,56.7,202,5,5,4,4.0
+19,Spring,Spirit,Afreeca Freecs,Jungle,0.0,0.8,68.4,222,2,4,4,3.0
+19,Spring,Tarzan,Griffin,Jungle,79.0,9.1,75.3,294,1,1,1,1.0
+19,Spring,UmTi,KT Rolster,Jungle,29.0,1.9,59.4,206,2,5,4,3.0
+19,Spring,Aiming,Afreeca Freecs,ADC,34.0,3.4,68.7,504,4,3,3,3.0
+19,Spring,Deft,Kingzone DragonX,ADC,69.0,5.1,72.5,636,1,1,1,1.0
+19,Spring,Gango,KT Rolster,ADC,25.0,2.4,65.1,420,4,3,5,4.0
+19,Spring,Ghost,Liiv SANDBOX,ADC,64.0,4.7,67.9,506,2,2,2,2.0
+19,Spring,Nuclear,DWG KIA,ADC,59.0,5.5,70.1,450,3,2,3,2.0
+19,Spring,Prince,DWG KIA,ADC,100.0,2.0,50.0,609,3,4,2,3.0
+19,Spring,Route,Jin Air Green Wings,ADC,9.0,1.9,59.2,447,3,5,4,4.0
+19,Spring,Ruler,Gen.G,ADC,36.0,4.2,77.1,539,3,1,2,2.0
+19,Spring,Sangyoon,Hanwha Life Esports,ADC,49.0,4.1,71.6,460,4,2,3,3.0
+19,Spring,Spirit,Afreeca Freecs,ADC,40.0,3.3,71.4,366,2,2,5,3.0
+19,Spring,SS,Afreeca Freecs,ADC,22.0,2.3,68.6,485,5,3,4,4.0
+19,Spring,Stitch,Jin Air Green Wings,ADC,0.0,0.5,33.3,288,5,5,5,5.0
+19,Spring,Teddy,SK Telecom T1,ADC,70.0,7.4,66.7,570,2,2,1,1.0
+19,Spring,Viper,Griffin,ADC,79.0,8.7,59.0,464,1,3,1,1.0
+19,Spring,Zenit,KT Rolster,ADC,35.0,2.8,66.4,508,2,3,3,2.0
+19,Spring,BeryL,DWG KIA,Support,69.0,2.6,66.9,103,3,3,4,3.0
+19,Spring,Hoit,DWG KIA,Support,55.0,4.2,74.3,119,3,2,2,2.0
+19,Spring,Jelly,Afreeca Freecs,Support,30.0,2.0,67.3,115,3,4,4,3.0
+19,Spring,Joker,Liiv SANDBOX,Support,64.0,2.4,66.0,145,1,4,3,2.0
+19,Spring,Kellin,Jin Air Green Wings,Support,5.0,1.4,63.6,91,5,5,5,5.0
+19,Spring,Keshi,Afreeca Freecs,Support,33.0,1.9,65.8,124,2,5,4,3.0
+19,Spring,Key,Hanwha Life Esports,Support,49.0,2.8,72.6,113,1,2,4,2.0
+19,Spring,Lehends,Griffin,Support,79.0,8.3,70.1,161,1,2,1,1.0
+19,Spring,Life,Gen.G,Support,36.0,2.5,73.9,114,3,2,4,3.0
+19,Spring,Mata,SK Telecom T1,Support,70.0,3.9,67.1,105,2,3,3,2.0
+19,Spring,Nova,Jin Air Green Wings,Support,13.0,1.2,62.2,109,4,5,5,4.0
+19,Spring,Proud,Afreeca Freecs,Support,29.0,4.2,80.6,111,5,1,3,3.0
+19,Spring,SnowFlower,KT Rolster,Support,31.0,2.4,69.9,126,4,4,4,4.0
+19,Spring,Spirit,Afreeca Freecs,Support,50.0,2.6,86.7,218,5,1,1,2.0
+19,Spring,TusiN,Kingzone DragonX,Support,69.0,4.6,71.6,127,1,2,2,1.0
+19,Spring,CheonGo,Jin Air Green Wings,Top,0.0,3.3,54.2,233,5,5,4,4.0
+19,Spring,CuVee,Gen.G,Top,38.0,2.2,59.0,347,4,3,4,3.0
+19,Spring,Flame,DWG KIA,Top,50.0,3.7,61.7,421,1,2,1,1.0
+19,Spring,Khan,SK Telecom T1,Top,70.0,4.1,60.2,465,3,2,1,2.0
+19,Spring,Kiin,Afreeca Freecs,Top,33.0,2.5,61.0,426,1,3,3,2.0
+19,Spring,Kingen,KT Rolster,Top,38.0,2.6,60.5,409,3,3,3,3.0
+19,Spring,Lindarang,Jin Air Green Wings,Top,11.0,1.3,56.6,310,3,4,5,4.0
+19,Spring,Nuguri,DWG KIA,Top,63.0,2.8,64.6,535,2,1,1,1.0
+19,Spring,Rascal,Kingzone DragonX,Top,69.0,3.2,56.3,376,5,2,2,3.0
+19,Spring,Roach,Gen.G,Top,35.0,3.6,69.7,330,2,1,3,2.0
+19,Spring,Smeb,KT Rolster,Top,28.0,2.0,60.9,412,4,3,4,3.0
+19,Spring,SoHwan,Hanwha Life Esports,Top,40.0,1.9,60.0,303,4,3,5,4.0
+19,Spring,Summit,Liiv SANDBOX,Top,65.0,3.6,62.0,457,1,2,1,1.0
+19,Spring,Sword,Griffin,Top,79.0,3.9,47.4,345,3,4,2,3.0
+19,Spring,TaNa,Jin Air Green Wings,Top,0.0,1.8,71.4,411,4,2,4,3.0
+19,Spring,Thal,Hanwha Life Esports,Top,50.0,3.1,62.3,349,3,2,3,2.0
 19,Spring,Wizer,Liiv SANDBOX,Top,0.0,1.0,30.0,452,1,5,5,3.0
-19,Spring,Yaharong,Jin Air Green Wings,Middle,9.0,1.9,66.1,371,4,3,4,3.0
-19,Spring,Zenit,KT Rolster,ADC,35.0,2.8,66.4,508,2,3,4,3.0
-19,Summer,Aiming,Afreeca Freecs,ADC,57.0,5.2,70.7,566,2,2,1,1.0
-19,Summer,Bdd,KT Rolster,Middle,36.0,3.4,71.2,438,2,2,3,2.0
-19,Summer,BeryL,DWG KIA,Support,65.0,3.5,69.5,154,3,2,3,2.0
-19,Summer,bonO,Hanwha Life Esports,Jungle,41.0,3.0,72.7,185,4,2,3,3.0
-19,Summer,Canyon,DWG KIA,Jungle,65.0,4.0,74.0,274,3,2,2,2.0
+19,Summer,Bdd,KT Rolster,Middle,36.0,3.4,71.2,438,2,2,2,2.0
 19,Summer,CheonGo,Jin Air Green Wings,Middle,10.0,1.2,53.6,312,5,5,5,5.0
-19,Summer,Chovy,Griffin,Middle,69.0,5.9,59.8,378,2,4,1,2.0
-19,Summer,Clid,SK Telecom T1,Jungle,64.0,4.4,73.3,211,2,2,2,2.0
-19,Summer,CuVee,Gen.G,Top,52.0,2.5,62.8,379,4,3,4,3.0
-19,Summer,Cuzz,Kingzone DragonX,Jungle,50.0,3.3,72.0,276,2,2,3,2.0
-19,Summer,Deft,Kingzone DragonX,ADC,50.0,3.6,72.2,526,3,2,3,2.0
-19,Summer,Doran,Griffin,Top,68.0,3.2,56.0,419,3,4,3,3.0
-19,Summer,Dove,Liiv SANDBOX,Middle,60.0,4.5,67.1,451,2,3,2,2.0
-19,Summer,Dread,Afreeca Freecs,Jungle,57.0,2.8,66.7,225,2,3,4,3.0
-19,Summer,Effort,SK Telecom T1,Support,74.0,4.8,66.1,118,4,3,2,3.0
-19,Summer,Faker,SK Telecom T1,Middle,62.0,3.3,62.3,448,2,4,3,3.0
-19,Summer,Flame,DWG KIA,Top,0.0,0.4,40.0,345,1,5,5,3.0
-19,Summer,Fly,Gen.G,Middle,67.0,4.8,61.7,376,5,4,2,3.0
-19,Summer,Ghost,Liiv SANDBOX,ADC,60.0,4.0,71.1,420,3,2,2,2.0
+19,Summer,Chovy,Griffin,Middle,69.0,5.9,59.8,378,2,4,2,2.0
+19,Summer,Dove,Liiv SANDBOX,Middle,60.0,4.5,67.1,451,2,2,1,1.0
+19,Summer,Faker,SK Telecom T1,Middle,62.0,3.3,62.3,448,2,3,2,2.0
+19,Summer,Fly,Gen.G,Middle,67.0,4.8,61.7,376,5,3,2,3.0
 19,Summer,Gori,SK Telecom T1,Middle,0.0,1.0,75.0,228,1,2,5,2.0
-19,Summer,Haru,SK Telecom T1,Jungle,25.0,4.2,73.5,221,3,2,2,2.0
-19,Summer,Hoit,DWG KIA,Support,0.0,0.0,0.0,27,5,5,5,5.0
-19,Summer,Joker,Liiv SANDBOX,Support,60.0,2.6,69.6,150,3,2,4,3.0
-19,Summer,Kellin,Jin Air Green Wings,Support,6.0,1.5,67.3,166,4,3,5,4.0
-19,Summer,Keshi,Afreeca Freecs,Support,57.0,2.4,58.0,125,3,4,4,3.0
-19,Summer,Key,Hanwha Life Esports,Support,36.0,2.6,66.1,120,3,3,4,3.0
-19,Summer,Khan,SK Telecom T1,Top,60.0,2.6,59.1,419,3,4,4,3.0
-19,Summer,Kiin,Afreeca Freecs,Top,57.0,3.0,57.6,400,1,4,3,2.0
-19,Summer,Kingen,KT Rolster,Top,50.0,3.8,57.0,362,4,4,3,3.0
-19,Summer,Kuzan,Gen.G,Middle,47.0,4.8,67.3,358,4,3,2,3.0
+19,Summer,Kuzan,Gen.G,Middle,47.0,4.8,67.3,358,3,2,3,2.0
 19,Summer,Lava,Hanwha Life Esports,Middle,27.0,2.4,71.5,398,3,2,4,3.0
-19,Summer,Lehends,Griffin,Support,69.0,5.9,70.9,173,2,2,1,1.0
-19,Summer,Life,Gen.G,Support,55.0,5.0,74.4,167,2,2,1,1.0
-19,Summer,Lindarang,Jin Air Green Wings,Top,14.0,1.4,53.8,310,4,5,5,4.0
-19,Summer,Malrang,Jin Air Green Wings,Jungle,9.0,2.1,73.9,216,4,2,4,3.0
-19,Summer,Mata,SK Telecom T1,Support,38.0,3.3,65.4,130,4,3,3,3.0
-19,Summer,MooJin,Hanwha Life Esports,Jungle,0.0,2.3,95.8,137,5,1,4,3.0
-19,Summer,Naehyun,Kingzone DragonX,Middle,50.0,4.1,66.8,366,4,3,2,3.0
-19,Summer,Nova,Jin Air Green Wings,Support,22.0,2.1,78.6,163,2,1,4,2.0
-19,Summer,Nuclear,DWG KIA,ADC,64.0,6.2,66.9,457,4,3,1,2.0
-19,Summer,Nuguri,DWG KIA,Top,67.0,3.4,66.1,572,1,3,3,2.0
-19,Summer,OnFleek,Liiv SANDBOX,Jungle,60.0,3.3,71.3,211,2,2,3,2.0
-19,Summer,Peanut,Gen.G,Jungle,56.0,3.6,69.9,159,4,2,3,3.0
-19,Summer,PraY,KT Rolster,ADC,36.0,2.7,60.7,393,3,4,4,3.0
-19,Summer,Punch,DWG KIA,Jungle,0.0,1.0,100.0,146,1,1,5,2.0
-19,Summer,Rascal,Kingzone DragonX,Top,50.0,2.4,62.2,358,4,4,4,4.0
-19,Summer,Rich,Gen.G,Middle,40.0,1.4,58.1,314,5,4,5,4.0
-19,Summer,Roach,Gen.G,Middle,50.0,5.5,61.1,317,5,4,1,3.0
-19,Summer,Roach,Gen.G,Top,100.0,8.0,29.6,295,3,5,1,3.0
-19,Summer,Route,Jin Air Green Wings,ADC,10.0,2.2,73.8,437,3,2,4,3.0
-19,Summer,Ruler,Gen.G,ADC,55.0,5.3,76.6,489,3,1,1,1.0
-19,Summer,Sangyoon,Hanwha Life Esports,ADC,36.0,4.1,63.6,461,3,3,2,2.0
-19,Summer,Score,KT Rolster,Jungle,37.0,2.6,69.7,196,3,2,4,3.0
-19,Summer,Seize,Jin Air Green Wings,Jungle,20.0,1.4,72.4,265,5,2,5,4.0
-19,Summer,SeongHwan,Gen.G,Jungle,33.0,2.4,70.6,169,3,2,4,3.0
-19,Summer,ShowMaker,DWG KIA,Middle,64.0,7.2,70.7,444,1,2,1,1.0
-19,Summer,Smeb,KT Rolster,Top,20.0,1.4,51.3,324,4,5,5,4.0
-19,Summer,SnowFlower,KT Rolster,Support,36.0,2.1,62.1,149,3,4,4,3.0
-19,Summer,SoHwan,Hanwha Life Esports,Top,41.0,3.3,57.7,330,2,4,3,3.0
-19,Summer,Summit,Liiv SANDBOX,Top,60.0,2.6,65.8,439,1,3,4,2.0
-19,Summer,Sword,Griffin,Top,70.0,4.0,58.3,385,1,4,2,2.0
-19,Summer,TaNa,Jin Air Green Wings,Top,0.0,1.4,65.3,292,3,3,5,3.0
-19,Summer,Tarzan,Griffin,Jungle,69.0,6.2,72.0,230,1,2,1,1.0
-19,Summer,Teddy,SK Telecom T1,ADC,60.0,6.0,64.8,511,2,3,1,2.0
-19,Summer,Tempt,Hanwha Life Esports,Middle,45.0,5.0,72.6,476,2,2,1,1.0
-19,Summer,Thal,Hanwha Life Esports,Top,23.0,2.1,63.0,336,5,3,4,4.0
-19,Summer,TusiN,Kingzone DragonX,Support,50.0,2.9,67.8,150,2,3,4,3.0
+19,Summer,Naehyun,Kingzone DragonX,Middle,50.0,4.1,66.8,366,3,2,3,2.0
+19,Summer,Rich,Gen.G,Middle,40.0,1.4,58.1,314,5,5,5,5.0
+19,Summer,Roach,Gen.G,Middle,50.0,5.5,61.1,317,4,4,3,3.0
+19,Summer,ShowMaker,DWG KIA,Middle,64.0,7.2,70.7,444,1,1,1,1.0
+19,Summer,Tempt,Hanwha Life Esports,Middle,45.0,5.0,72.6,476,2,1,1,1.0
 19,Summer,Ucal,Afreeca Freecs,Middle,57.0,3.5,65.1,406,1,3,3,2.0
-19,Summer,UmTi,KT Rolster,Jungle,33.0,3.1,65.7,164,4,3,3,3.0
-19,Summer,Viper,Griffin,ADC,69.0,8.5,72.4,526,2,2,1,1.0
-19,Summer,Yaharong,Jin Air Green Wings,Middle,10.0,1.7,64.3,357,4,3,5,4.0
-20,Spring,Aiming,KT Rolster,ADC,52.0,5.3,81.4,578,2,1,1,1.0
-20,Spring,ALL IN,Afreeca Freecs,Middle,46.0,4.4,63.5,354,4,3,2,3.0
-20,Spring,Bdd,Gen.G,Middle,70.0,6.7,74.4,465,2,2,1,1.0
-20,Spring,Ben,Afreeca Freecs,Support,0.0,0.7,33.3,193,5,5,5,5.0
-20,Spring,BeryL,DAMWON Gaming,Support,57.0,3.5,68.9,157,2,2,3,2.0
-20,Spring,bonO,KT Rolster,Jungle,59.0,4.1,78.9,213,2,1,2,1.0
-20,Spring,Canna,T1,Top,70.0,6.2,69.1,379,3,2,1,2.0
-20,Spring,Canyon,DAMWON Gaming,Jungle,51.0,3.3,67.4,217,4,3,3,3.0
-20,Spring,Chovy,DRX,Middle,67.0,5.6,64.1,555,1,3,1,1.0
-20,Spring,Chovy,DRX,Top,67.0,5.0,37.5,467,1,5,1,2.0
-20,Spring,Clid,Gen.G,Jungle,70.0,5.1,72.9,227,2,2,1,1.0
-20,Spring,Cover,SeolHaeOne Prince,Middle,52.0,2.4,57.6,474,2,4,4,3.0
-20,Spring,CuVee,Hanwha Life Esports,Top,38.0,1.9,62.1,415,2,4,5,3.0
-20,Spring,Cuzz,T1,Jungle,69.0,6.1,74.3,261,2,2,1,1.0
-20,Spring,Deft,DRX,ADC,67.0,5.3,69.5,571,1,2,1,1.0
-20,Spring,Doran,DRX,Top,67.0,3.5,59.0,395,2,4,3,3.0
-20,Spring,Dove,SANDBOX Gaming,Middle,41.0,3.1,63.5,407,3,3,3,3.0
-20,Spring,Dread,Afreeca Freecs,Jungle,31.0,2.1,69.3,185,2,2,5,3.0
-20,Spring,Effort,T1,Support,68.0,3.6,69.8,106,4,2,3,3.0
-20,Spring,Ellim,T1,Jungle,67.0,6.3,79.8,192,2,1,1,1.0
-20,Spring,Faker,T1,Middle,68.0,5.6,66.5,462,2,3,1,2.0
-20,Spring,FATE,SANDBOX Gaming,Middle,14.0,3.3,70.9,552,2,2,3,2.0
-20,Spring,Flawless,SeolHaeOne Prince,Jungle,40.0,2.5,69.0,227,3,2,4,3.0
+19,Summer,Yaharong,Jin Air Green Wings,Middle,10.0,1.7,64.3,357,4,5,5,4.0
+19,Summer,bonO,Hanwha Life Esports,Jungle,41.0,3.0,72.7,185,4,3,4,3.0
+19,Summer,Canyon,DWG KIA,Jungle,65.0,4.0,74.0,274,3,2,1,2.0
+19,Summer,Clid,SK Telecom T1,Jungle,64.0,4.4,73.3,211,2,2,2,2.0
+19,Summer,Cuzz,Kingzone DragonX,Jungle,50.0,3.3,72.0,276,2,3,1,2.0
+19,Summer,Dread,Afreeca Freecs,Jungle,57.0,2.8,66.7,225,2,4,3,3.0
+19,Summer,Haru,SK Telecom T1,Jungle,25.0,4.2,73.5,221,3,4,2,3.0
+19,Summer,Malrang,Jin Air Green Wings,Jungle,9.0,2.1,73.9,216,3,5,4,4.0
+19,Summer,MooJin,Hanwha Life Esports,Jungle,0.0,2.3,95.8,137,5,1,5,3.0
+19,Summer,OnFleek,Liiv SANDBOX,Jungle,60.0,3.3,71.3,211,2,3,3,2.0
+19,Summer,Peanut,Gen.G,Jungle,56.0,3.6,69.9,159,4,3,4,3.0
+19,Summer,Punch,DWG KIA,Jungle,0.0,1.0,100.0,146,1,1,5,2.0
+19,Summer,Score,KT Rolster,Jungle,37.0,2.6,69.7,196,3,4,4,3.0
+19,Summer,Seize,Jin Air Green Wings,Jungle,20.0,1.4,72.4,265,5,4,3,4.0
+19,Summer,SeongHwan,Gen.G,Jungle,33.0,2.4,70.6,169,3,4,5,4.0
+19,Summer,Tarzan,Griffin,Jungle,69.0,6.2,72.0,230,1,2,1,1.0
+19,Summer,UmTi,KT Rolster,Jungle,33.0,3.1,65.7,164,4,5,4,4.0
+19,Summer,Aiming,Afreeca Freecs,ADC,57.0,5.2,70.7,566,1,2,1,1.0
+19,Summer,Deft,Kingzone DragonX,ADC,50.0,3.6,72.2,526,3,2,3,2.0
+19,Summer,Ghost,Liiv SANDBOX,ADC,60.0,4.0,71.1,420,4,2,5,3.0
+19,Summer,Nuclear,DWG KIA,ADC,64.0,6.2,66.9,457,5,3,3,3.0
+19,Summer,PraY,KT Rolster,ADC,36.0,2.7,60.7,393,3,5,5,4.0
+19,Summer,Route,Jin Air Green Wings,ADC,10.0,2.2,73.8,437,4,3,5,4.0
+19,Summer,Ruler,Gen.G,ADC,55.0,5.3,76.6,489,4,1,2,2.0
+19,Summer,Sangyoon,Hanwha Life Esports,ADC,36.0,4.1,63.6,461,3,5,4,4.0
+19,Summer,Teddy,SK Telecom T1,ADC,60.0,6.0,64.8,511,1,4,2,2.0
+19,Summer,Viper,Griffin,ADC,69.0,8.5,72.4,526,2,1,1,1.0
+19,Summer,BeryL,DWG KIA,Support,65.0,3.5,69.5,154,2,2,2,2.0
+19,Summer,Effort,SK Telecom T1,Support,74.0,4.8,66.1,118,5,2,2,3.0
+19,Summer,Hoit,DWG KIA,Support,0.0,0.0,0.0,27,5,5,5,5.0
+19,Summer,Joker,Liiv SANDBOX,Support,60.0,2.6,69.6,150,4,2,3,3.0
+19,Summer,Kellin,Jin Air Green Wings,Support,6.0,1.5,67.3,166,4,4,3,3.0
+19,Summer,Keshi,Afreeca Freecs,Support,57.0,2.4,58.0,125,3,3,4,3.0
+19,Summer,Key,Hanwha Life Esports,Support,36.0,2.6,66.1,120,3,3,4,3.0
+19,Summer,Lehends,Griffin,Support,69.0,5.9,70.9,173,1,2,1,1.0
+19,Summer,Life,Gen.G,Support,55.0,5.0,74.4,167,1,2,1,1.0
+19,Summer,Mata,SK Telecom T1,Support,38.0,3.3,65.4,130,5,3,3,3.0
+19,Summer,Nova,Jin Air Green Wings,Support,22.0,2.1,78.6,163,2,2,3,2.0
+19,Summer,SnowFlower,KT Rolster,Support,36.0,2.1,62.1,149,2,3,3,2.0
+19,Summer,TusiN,Kingzone DragonX,Support,50.0,2.9,67.8,150,2,2,3,2.0
+19,Summer,CuVee,Gen.G,Top,52.0,2.5,62.8,379,4,2,3,3.0
+19,Summer,Doran,Griffin,Top,68.0,3.2,56.0,419,3,2,2,2.0
+19,Summer,Flame,DWG KIA,Top,0.0,0.4,40.0,345,1,5,5,3.0
+19,Summer,Khan,SK Telecom T1,Top,60.0,2.6,59.1,419,3,2,2,2.0
+19,Summer,Kiin,Afreeca Freecs,Top,57.0,3.0,57.6,400,1,2,2,1.0
+19,Summer,Kingen,KT Rolster,Top,50.0,3.8,57.0,362,4,3,2,3.0
+19,Summer,Lindarang,Jin Air Green Wings,Top,14.0,1.4,53.8,310,4,4,5,4.0
+19,Summer,Nuguri,DWG KIA,Top,67.0,3.4,66.1,572,2,1,1,1.0
+19,Summer,Rascal,Kingzone DragonX,Top,50.0,2.4,62.2,358,4,2,4,3.0
+19,Summer,Roach,Gen.G,Top,100.0,8.0,29.6,295,3,5,1,3.0
+19,Summer,Smeb,KT Rolster,Top,20.0,1.4,51.3,324,4,5,5,4.0
+19,Summer,SoHwan,Hanwha Life Esports,Top,41.0,3.3,57.7,330,2,3,4,3.0
+19,Summer,Summit,Liiv SANDBOX,Top,60.0,2.6,65.8,439,1,1,2,1.0
+19,Summer,Sword,Griffin,Top,70.0,4.0,58.3,385,1,2,2,1.0
+19,Summer,TaNa,Jin Air Green Wings,Top,0.0,1.4,65.3,292,3,3,5,3.0
+19,Summer,Thal,Hanwha Life Esports,Top,23.0,2.1,63.0,336,5,2,4,3.0
+20,Spring,ALL IN,Afreeca Freecs,Middle,46.0,4.4,63.5,354,4,3,4,3.0
+20,Spring,Bdd,Gen.G,Middle,70.0,6.7,74.4,465,2,1,1,1.0
+20,Spring,Chovy,DRX,Middle,67.0,5.6,64.1,555,1,2,1,1.0
+20,Spring,Cover,SeolHaeOne Prince,Middle,52.0,2.4,57.6,474,2,3,3,2.0
+20,Spring,Dove,SANDBOX Gaming,Middle,41.0,3.1,63.5,407,3,3,4,3.0
+20,Spring,Faker,T1,Middle,68.0,5.6,66.5,462,3,2,2,2.0
+20,Spring,FATE,SANDBOX Gaming,Middle,14.0,3.3,70.9,552,1,3,2,2.0
 20,Spring,Fly,Afreeca Freecs,Middle,39.0,2.8,66.9,377,5,3,4,4.0
-20,Spring,Ghost,DAMWON Gaming,ADC,65.0,4.7,69.6,514,4,2,2,2.0
-20,Spring,GorillA,SANDBOX Gaming,Support,39.0,2.9,70.6,125,3,2,4,3.0
-20,Spring,Haru,Hanwha Life Esports,Jungle,38.0,2.6,75.0,233,2,2,4,2.0
-20,Spring,Hoit,DAMWON Gaming,Support,38.0,2.7,66.7,159,2,3,4,3.0
-20,Spring,Hoya,Griffin,Top,13.0,1.5,50.0,348,4,5,5,4.0
-20,Spring,HyBriD,SeolHaeOne Prince,ADC,43.0,3.6,71.0,616,4,2,3,3.0
-20,Spring,ikssu,SeolHaeOne Prince,Top,40.0,2.1,62.8,422,3,4,5,4.0
-20,Spring,Jelly,Afreeca Freecs,Support,43.0,2.7,68.4,156,2,3,4,3.0
-20,Spring,Joker,SANDBOX Gaming,Support,17.0,1.8,54.2,106,3,5,5,4.0
-20,Spring,Kabbie,Griffin,Support,36.0,2.3,65.9,113,3,3,4,3.0
 20,Spring,Keine,SeolHaeOne Prince,Middle,22.0,2.2,57.5,434,2,4,4,3.0
-20,Spring,Kellin,Gen.G,Support,64.0,4.6,68.0,72,3,3,2,2.0
-20,Spring,Keria,DRX,Support,67.0,4.8,74.6,181,3,2,1,2.0
-20,Spring,Kiin,Afreeca Freecs,Top,41.0,2.5,64.7,471,1,3,4,2.0
-20,Spring,Kuro,KT Rolster,Middle,52.0,4.7,72.2,431,2,2,2,2.0
-20,Spring,Lava,Hanwha Life Esports,ADC,60.0,3.0,65.9,412,5,3,4,4.0
-20,Spring,Lava,Hanwha Life Esports,Middle,33.0,2.3,66.7,527,3,3,4,3.0
-20,Spring,Lehends,Hanwha Life Esports,Support,38.0,2.7,79.0,165,3,1,4,2.0
-20,Spring,Leo,SANDBOX Gaming,ADC,42.0,4.1,65.8,411,3,3,2,2.0
-20,Spring,Life,Gen.G,Support,73.0,5.5,66.7,158,1,3,1,1.0
-20,Spring,Lonely,SANDBOX Gaming,Top,42.0,2.6,73.6,398,4,2,4,3.0
-20,Spring,Malrang,KT Rolster,Jungle,0.0,1.9,82.6,146,5,1,5,3.0
-20,Spring,Mia,SeolHaeOne Prince,Support,50.0,2.8,60.8,163,5,4,4,4.0
-20,Spring,Mystic,Afreeca Freecs,ADC,43.0,2.8,69.1,494,3,2,4,3.0
+20,Spring,Kuro,KT Rolster,Middle,52.0,4.7,72.2,431,1,2,2,1.0
+20,Spring,Lava,Hanwha Life Esports,Middle,33.0,2.3,66.7,527,3,3,3,3.0
 20,Spring,Naehyun,Griffin,Middle,0.0,0.0,0.0,172,5,5,5,5.0
-20,Spring,Nuclear,DAMWON Gaming,ADC,42.0,3.8,64.4,402,5,3,3,3.0
-20,Spring,Nuguri,DAMWON Gaming,Top,51.0,2.4,65.6,511,2,3,4,3.0
-20,Spring,OnFleek,SANDBOX Gaming,Jungle,31.0,2.7,72.5,219,2,2,4,2.0
-20,Spring,Punch,SANDBOX Gaming,Jungle,47.0,4.0,79.3,196,4,1,2,2.0
-20,Spring,Pyosik,DRX,Jungle,67.0,5.2,72.4,269,2,2,1,1.0
-20,Spring,Rascal,Gen.G,Top,70.0,4.0,60.4,366,2,4,2,2.0
-20,Spring,Ray,KT Rolster,Top,33.0,1.8,55.6,269,5,5,5,5.0
-20,Spring,Roach,T1,Top,50.0,2.1,57.4,320,5,4,5,4.0
-20,Spring,Route,SANDBOX Gaming,ADC,32.0,3.6,75.8,460,2,1,3,2.0
-20,Spring,Ruler,Gen.G,ADC,70.0,7.0,67.0,537,2,3,1,2.0
-20,Spring,Secret,SeolHaeOne Prince,Support,38.0,2.3,70.5,129,3,2,4,3.0
-20,Spring,ShowMaker,DAMWON Gaming,Middle,51.0,4.9,70.0,467,2,2,1,1.0
-20,Spring,SoHwan,KT Rolster,Top,55.0,2.5,52.9,353,3,5,4,4.0
-20,Spring,SOLKA,DRX,Middle,67.0,5.8,72.5,449,5,2,1,2.0
-20,Spring,Spirit,Afreeca Freecs,Jungle,45.0,3.5,73.4,253,4,2,3,3.0
-20,Spring,SS,Afreeca Freecs,ADC,25.0,2.6,52.9,534,5,5,4,4.0
-20,Spring,Summit,SANDBOX Gaming,Top,34.0,2.1,63.8,431,1,3,5,3.0
-20,Spring,Sword,Griffin,Top,36.0,2.0,58.1,312,5,4,5,4.0
-20,Spring,Tarzan,Griffin,Jungle,36.0,3.1,70.2,201,3,2,3,2.0
-20,Spring,Teddy,T1,ADC,68.0,7.1,74.0,550,2,2,1,1.0
-20,Spring,Tempt,Hanwha Life Esports,Middle,38.0,2.9,68.5,450,3,3,4,3.0
-20,Spring,Trigger,SeolHaeOne Prince,ADC,17.0,1.5,55.8,420,1,5,5,3.0
-20,Spring,TusiN,KT Rolster,Support,52.0,3.5,75.2,140,2,2,3,2.0
+20,Spring,ShowMaker,DAMWON Gaming,Middle,51.0,4.9,70.0,467,2,2,2,2.0
+20,Spring,SOLKA,DRX,Middle,67.0,5.8,72.5,449,5,2,2,3.0
+20,Spring,Tempt,Hanwha Life Esports,Middle,38.0,2.9,68.5,450,3,3,3,3.0
 20,Spring,Ucal,Griffin,Middle,36.0,3.0,68.7,383,3,3,4,3.0
-20,Spring,Untara,Griffin,Top,56.0,2.2,51.2,365,3,5,4,4.0
-20,Spring,Viper,Griffin,ADC,36.0,3.9,72.2,509,1,2,2,1.0
-20,Spring,Vsta,Hanwha Life Esports,ADC,37.0,3.4,70.9,433,5,2,3,3.0
-20,Spring,Zenit,Hanwha Life Esports,ADC,20.0,1.6,69.2,473,1,2,5,2.0
-20,Summer,Aiming,KT Rolster,ADC,42.0,4.5,73.4,608,2,1,2,1.0
+20,Spring,bonO,KT Rolster,Jungle,59.0,4.1,78.9,213,1,1,3,1.0
+20,Spring,Canyon,DAMWON Gaming,Jungle,51.0,3.3,67.4,217,4,5,3,4.0
+20,Spring,Clid,Gen.G,Jungle,70.0,5.1,72.9,227,2,3,2,2.0
+20,Spring,Cuzz,T1,Jungle,69.0,6.1,74.3,261,2,2,1,1.0
+20,Spring,Dread,Afreeca Freecs,Jungle,31.0,2.1,69.3,185,2,5,5,4.0
+20,Spring,Ellim,T1,Jungle,67.0,6.3,79.8,192,2,1,2,1.0
+20,Spring,Flawless,SeolHaeOne Prince,Jungle,40.0,2.5,69.0,227,4,5,4,4.0
+20,Spring,Haru,Hanwha Life Esports,Jungle,38.0,2.6,75.0,233,2,3,4,3.0
+20,Spring,Malrang,KT Rolster,Jungle,0.0,1.9,82.6,146,5,2,5,4.0
+20,Spring,OnFleek,SANDBOX Gaming,Jungle,31.0,2.7,72.5,219,2,4,4,3.0
+20,Spring,Punch,SANDBOX Gaming,Jungle,47.0,4.0,79.3,196,4,1,3,2.0
+20,Spring,Pyosik,DRX,Jungle,67.0,5.2,72.4,269,1,3,1,1.0
+20,Spring,Spirit,Afreeca Freecs,Jungle,45.0,3.5,73.4,253,5,3,2,3.0
+20,Spring,Tarzan,Griffin,Jungle,36.0,3.1,70.2,201,3,5,4,4.0
+20,Spring,Aiming,KT Rolster,ADC,52.0,5.3,81.4,578,2,1,1,1.0
+20,Spring,Deft,DRX,ADC,67.0,5.3,69.5,571,1,2,1,1.0
+20,Spring,Ghost,DAMWON Gaming,ADC,65.0,4.7,69.6,514,4,2,2,2.0
+20,Spring,HyBriD,SeolHaeOne Prince,ADC,43.0,3.6,71.0,616,4,2,1,2.0
+20,Spring,Lava,Hanwha Life Esports,ADC,60.0,3.0,65.9,412,5,3,5,4.0
+20,Spring,Leo,SANDBOX Gaming,ADC,42.0,4.1,65.8,411,3,4,4,3.0
+20,Spring,Mystic,Afreeca Freecs,ADC,43.0,2.8,69.1,494,3,3,4,3.0
+20,Spring,Nuclear,DAMWON Gaming,ADC,42.0,3.8,64.4,402,5,4,5,4.0
+20,Spring,Route,SANDBOX Gaming,ADC,32.0,3.6,75.8,460,3,2,4,3.0
+20,Spring,Ruler,Gen.G,ADC,70.0,7.0,67.0,537,2,2,1,1.0
+20,Spring,SS,Afreeca Freecs,ADC,25.0,2.6,52.9,534,5,5,3,4.0
+20,Spring,Teddy,T1,ADC,68.0,7.1,74.0,550,2,1,1,1.0
+20,Spring,Trigger,SeolHaeOne Prince,ADC,17.0,1.5,55.8,420,1,5,5,3.0
+20,Spring,Viper,Griffin,ADC,36.0,3.9,72.2,509,1,3,3,2.0
+20,Spring,Vsta,Hanwha Life Esports,ADC,37.0,3.4,70.9,433,5,3,4,4.0
+20,Spring,Zenit,Hanwha Life Esports,ADC,20.0,1.6,69.2,473,1,4,5,3.0
+20,Spring,Ben,Afreeca Freecs,Support,0.0,0.7,33.3,193,5,5,3,4.0
+20,Spring,BeryL,DAMWON Gaming,Support,57.0,3.5,68.9,157,1,2,2,1.0
+20,Spring,Effort,T1,Support,68.0,3.6,69.8,106,4,2,4,3.0
+20,Spring,GorillA,SANDBOX Gaming,Support,39.0,2.9,70.6,125,3,3,4,3.0
+20,Spring,Hoit,DAMWON Gaming,Support,38.0,2.7,66.7,159,2,3,3,2.0
+20,Spring,Jelly,Afreeca Freecs,Support,43.0,2.7,68.4,156,2,3,3,2.0
+20,Spring,Joker,SANDBOX Gaming,Support,17.0,1.8,54.2,106,3,5,5,4.0
+20,Spring,Kabbie,Griffin,Support,36.0,2.3,65.9,113,3,3,5,3.0
+20,Spring,Kellin,Gen.G,Support,64.0,4.6,68.0,72,3,2,4,3.0
+20,Spring,Keria,DRX,Support,67.0,4.8,74.6,181,3,1,1,1.0
+20,Spring,Lehends,Hanwha Life Esports,Support,38.0,2.7,79.0,165,3,2,2,2.0
+20,Spring,Life,Gen.G,Support,73.0,5.5,66.7,158,1,2,1,1.0
+20,Spring,Mia,SeolHaeOne Prince,Support,50.0,2.8,60.8,163,5,4,2,3.0
+20,Spring,Secret,SeolHaeOne Prince,Support,38.0,2.3,70.5,129,3,3,4,3.0
+20,Spring,TusiN,KT Rolster,Support,52.0,3.5,75.2,140,2,2,3,2.0
+20,Spring,Canna,T1,Top,70.0,6.2,69.1,379,3,1,1,1.0
+20,Spring,Chovy,DRX,Top,67.0,5.0,37.5,467,1,5,1,2.0
+20,Spring,CuVee,Hanwha Life Esports,Top,38.0,1.9,62.1,415,2,3,3,2.0
+20,Spring,Doran,DRX,Top,67.0,3.5,59.0,395,2,2,2,2.0
+20,Spring,Hoya,Griffin,Top,13.0,1.5,50.0,348,4,5,5,4.0
+20,Spring,ikssu,SeolHaeOne Prince,Top,40.0,2.1,62.8,422,3,3,3,3.0
+20,Spring,Kiin,Afreeca Freecs,Top,41.0,2.5,64.7,471,1,2,2,1.0
+20,Spring,Lonely,SANDBOX Gaming,Top,42.0,2.6,73.6,398,4,1,3,2.0
+20,Spring,Nuguri,DAMWON Gaming,Top,51.0,2.4,65.6,511,2,2,1,1.0
+20,Spring,Rascal,Gen.G,Top,70.0,4.0,60.4,366,2,2,2,2.0
+20,Spring,Ray,KT Rolster,Top,33.0,1.8,55.6,269,5,4,5,4.0
+20,Spring,Roach,T1,Top,50.0,2.1,57.4,320,5,3,5,4.0
+20,Spring,SoHwan,KT Rolster,Top,55.0,2.5,52.9,353,3,4,4,3.0
+20,Spring,Summit,SANDBOX Gaming,Top,34.0,2.1,63.8,431,2,3,3,2.0
+20,Spring,Sword,Griffin,Top,36.0,2.0,58.1,312,4,4,5,4.0
+20,Spring,Untara,Griffin,Top,56.0,2.2,51.2,365,3,4,4,3.0
 20,Summer,Bdd,Gen.G,Middle,72.0,6.2,64.3,522,2,3,1,2.0
-20,Summer,Ben,Afreeca Freecs,Support,54.0,3.3,66.1,141,4,3,3,3.0
-20,Summer,BeryL,DAMWON Gaming,Support,87.0,5.2,60.1,222,1,4,2,2.0
-20,Summer,Beyond,Team Dynamics,Jungle,36.0,2.5,69.9,208,4,2,4,3.0
-20,Summer,bonO,KT Rolster,Jungle,42.0,3.0,68.4,210,3,2,3,2.0
-20,Summer,CaD,Hanwha Life Esports,Jungle,25.0,2.0,75.7,204,5,1,4,3.0
-20,Summer,Canna,T1,Top,67.0,5.2,61.9,470,2,4,2,2.0
-20,Summer,Canyon,DAMWON Gaming,Jungle,87.0,7.0,66.6,329,1,2,1,1.0
 20,Summer,Chovy,DRX,Middle,71.0,4.2,64.5,532,1,3,2,2.0
-20,Summer,Clid,Gen.G,Jungle,72.0,5.3,65.0,280,3,3,2,2.0
-20,Summer,Clozer,T1,Middle,86.0,6.1,55.1,482,1,5,1,2.0
-20,Summer,CuVee,Hanwha Life Esports,Top,9.0,1.1,58.1,358,5,5,5,5.0
-20,Summer,Cuzz,T1,Jungle,69.0,4.9,63.0,264,1,3,2,2.0
-20,Summer,Deft,DRX,ADC,71.0,4.8,67.4,565,1,2,2,1.0
-20,Summer,deokdam,Team Dynamics,ADC,36.0,3.2,68.8,461,5,2,3,3.0
-20,Summer,Doran,DRX,Top,71.0,2.8,57.5,435,2,5,4,3.0
-20,Summer,Dove,SANDBOX Gaming,Middle,11.0,1.7,64.5,410,3,3,4,3.0
-20,Summer,Dread,Afreeca Freecs,Jungle,0.0,2.0,80.0,412,5,1,4,3.0
-20,Summer,DuDu,Hanwha Life Esports,Top,23.0,1.6,60.5,405,3,4,4,3.0
-20,Summer,Effort,T1,Support,68.0,4.0,64.0,123,2,3,3,2.0
-20,Summer,Ellim,T1,Jungle,57.0,7.1,60.7,217,2,4,1,2.0
-20,Summer,Faker,T1,Middle,57.0,4.4,64.4,480,2,3,2,2.0
+20,Summer,Clozer,T1,Middle,86.0,6.1,55.1,482,1,5,2,2.0
+20,Summer,Dove,SANDBOX Gaming,Middle,11.0,1.7,64.5,410,3,4,5,4.0
+20,Summer,Faker,T1,Middle,57.0,4.4,64.4,480,3,3,3,3.0
 20,Summer,FATE,SANDBOX Gaming,Middle,48.0,4.4,71.5,536,2,1,2,1.0
-20,Summer,Flawless,SeolHaeOne Prince,Jungle,19.0,1.6,65.2,244,5,3,4,4.0
-20,Summer,Fly,Afreeca Freecs,Middle,51.0,3.8,70.0,429,4,2,3,3.0
-20,Summer,Ghost,DAMWON Gaming,ADC,87.0,7.3,62.7,460,5,4,1,3.0
-20,Summer,GorillA,SANDBOX Gaming,Support,43.0,2.3,65.0,126,4,3,4,3.0
-20,Summer,GuGer,Team Dynamics,Support,36.0,2.3,65.7,194,3,3,4,3.0
-20,Summer,Haru,Hanwha Life Esports,Jungle,19.0,1.5,64.2,213,3,3,5,3.0
-20,Summer,HyBriD,SeolHaeOne Prince,ADC,18.0,1.7,59.7,409,4,4,4,4.0
-20,Summer,ikssu,SeolHaeOne Prince,Top,15.0,1.1,61.5,393,5,4,5,4.0
+20,Summer,Fly,Afreeca Freecs,Middle,51.0,3.8,70.0,429,4,1,4,3.0
+20,Summer,Keine,SeolHaeOne Prince,Middle,13.0,2.4,62.5,475,5,5,3,4.0
+20,Summer,Kuro,KT Rolster,Middle,44.0,3.6,65.0,411,4,3,4,3.0
+20,Summer,Kuzan,Team Dynamics,Middle,36.0,3.6,67.8,451,3,2,4,3.0
+20,Summer,Lava,Hanwha Life Esports,Middle,7.0,1.9,64.4,424,5,5,4,4.0
+20,Summer,Mickey,SeolHaeOne Prince,Middle,15.0,1.6,66.3,406,4,4,5,4.0
+20,Summer,Mireu,Hanwha Life Esports,Middle,25.0,2.0,65.0,394,5,4,5,4.0
+20,Summer,ShowMaker,DAMWON Gaming,Middle,87.0,16.0,71.5,561,1,1,1,1.0
+20,Summer,Ucal,KT Rolster,Middle,39.0,3.0,64.7,484,3,4,3,3.0
+20,Summer,Beyond,Team Dynamics,Jungle,36.0,2.5,69.9,208,3,2,4,3.0
+20,Summer,bonO,KT Rolster,Jungle,42.0,3.0,68.4,210,2,3,4,3.0
+20,Summer,CaD,Hanwha Life Esports,Jungle,25.0,2.0,75.7,204,4,1,5,3.0
+20,Summer,Canyon,DAMWON Gaming,Jungle,87.0,7.0,66.6,329,1,2,1,1.0
+20,Summer,Clid,Gen.G,Jungle,72.0,5.3,65.0,280,2,3,1,2.0
+20,Summer,Cuzz,T1,Jungle,69.0,4.9,63.0,264,1,4,2,2.0
+20,Summer,Dread,Afreeca Freecs,Jungle,0.0,2.0,80.0,412,5,1,1,2.0
+20,Summer,Ellim,T1,Jungle,57.0,7.1,60.7,217,2,5,1,2.0
+20,Summer,Flawless,SeolHaeOne Prince,Jungle,19.0,1.6,65.2,244,4,5,4,4.0
+20,Summer,Haru,Hanwha Life Esports,Jungle,19.0,1.5,64.2,213,3,5,5,4.0
+20,Summer,Kuma,SeolHaeOne Prince,Jungle,0.0,1.5,66.7,298,2,5,4,3.0
+20,Summer,Malrang,KT Rolster,Jungle,40.0,2.0,63.1,282,4,5,4,4.0
+20,Summer,OnFleek,SANDBOX Gaming,Jungle,40.0,3.1,72.6,221,4,1,4,3.0
+20,Summer,Pyosik,DRX,Jungle,71.0,4.3,72.1,326,1,1,1,1.0
+20,Summer,Spirit,Afreeca Freecs,Jungle,54.0,3.5,70.6,256,3,2,3,2.0
+20,Summer,YoungJae,Hanwha Life Esports,Jungle,10.0,1.4,67.4,202,5,4,5,4.0
+20,Summer,Aiming,KT Rolster,ADC,42.0,4.5,73.4,608,3,1,2,2.0
+20,Summer,Deft,DRX,ADC,71.0,4.8,67.4,565,1,2,2,1.0
+20,Summer,deokdam,Team Dynamics,ADC,36.0,3.2,68.8,461,5,3,4,4.0
+20,Summer,Ghost,DAMWON Gaming,ADC,87.0,7.3,62.7,460,5,3,2,3.0
+20,Summer,HyBriD,SeolHaeOne Prince,ADC,18.0,1.7,59.7,409,5,5,5,5.0
+20,Summer,Mystic,Afreeca Freecs,ADC,51.0,3.3,71.1,600,2,1,2,1.0
+20,Summer,Route,SANDBOX Gaming,ADC,40.0,3.2,65.4,462,4,4,4,4.0
+20,Summer,Ruler,Gen.G,ADC,72.0,6.6,68.1,641,1,2,1,1.0
+20,Summer,Teddy,T1,ADC,67.0,7.8,70.6,564,2,1,1,1.0
+20,Summer,Trigger,SeolHaeOne Prince,ADC,8.0,1.6,59.8,453,3,5,5,4.0
+20,Summer,Viper,Hanwha Life Esports,ADC,19.0,3.0,65.8,526,3,4,4,3.0
+20,Summer,Ben,Afreeca Freecs,Support,54.0,3.3,66.1,141,4,2,3,3.0
+20,Summer,BeryL,DAMWON Gaming,Support,87.0,5.2,60.1,222,1,2,1,1.0
+20,Summer,Effort,T1,Support,68.0,4.0,64.0,123,2,2,3,2.0
+20,Summer,GorillA,SANDBOX Gaming,Support,43.0,2.3,65.0,126,4,2,4,3.0
+20,Summer,GuGer,Team Dynamics,Support,36.0,2.3,65.7,194,3,2,3,2.0
 20,Summer,Jelly,Afreeca Freecs,Support,0.0,0.6,43.8,172,5,5,5,5.0
-20,Summer,Kabbie,SANDBOX Gaming,Support,0.0,0.8,63.6,85,4,3,5,4.0
-20,Summer,Keine,SeolHaeOne Prince,Middle,13.0,2.4,62.5,475,5,4,4,4.0
+20,Summer,Kabbie,SANDBOX Gaming,Support,0.0,0.8,63.6,85,3,4,5,4.0
 20,Summer,Kellin,Gen.G,Support,57.0,4.1,68.1,160,5,2,2,3.0
 20,Summer,Keria,DRX,Support,71.0,5.5,72.3,192,2,1,1,1.0
-20,Summer,Kiin,Afreeca Freecs,Top,51.0,2.7,58.5,451,1,5,4,3.0
-20,Summer,Kuma,SeolHaeOne Prince,Jungle,0.0,1.5,66.7,298,3,2,5,3.0
-20,Summer,Kuri,T1,Support,50.0,1.3,31.0,94,4,5,5,4.0
-20,Summer,Kuro,KT Rolster,Middle,44.0,3.6,65.0,411,4,3,3,3.0
-20,Summer,Kuzan,Team Dynamics,Middle,36.0,3.6,67.8,451,3,2,3,2.0
-20,Summer,Lava,Hanwha Life Esports,Middle,7.0,1.9,64.4,424,5,3,4,4.0
+20,Summer,Kuri,T1,Support,50.0,1.3,31.0,94,5,5,5,5.0
 20,Summer,Lehends,Hanwha Life Esports,Support,19.0,2.4,69.1,137,2,2,4,2.0
-20,Summer,Life,Gen.G,Support,75.0,4.1,60.4,141,4,4,2,3.0
-20,Summer,Malrang,KT Rolster,Jungle,40.0,2.0,63.1,282,4,3,4,3.0
-20,Summer,Mia,SeolHaeOne Prince,Support,8.0,1.1,56.1,209,4,5,5,4.0
-20,Summer,Mickey,SeolHaeOne Prince,Middle,15.0,1.6,66.3,406,4,2,4,3.0
-20,Summer,Mireu,Hanwha Life Esports,Middle,25.0,2.0,65.0,394,5,3,4,4.0
-20,Summer,Mystic,Afreeca Freecs,ADC,51.0,3.3,71.1,600,2,1,3,2.0
-20,Summer,Nuguri,DAMWON Gaming,Top,87.0,5.2,58.6,571,1,5,2,2.0
-20,Summer,OnFleek,SANDBOX Gaming,Jungle,40.0,3.1,72.6,221,4,1,3,2.0
-20,Summer,Pyosik,DRX,Jungle,71.0,4.3,72.1,326,1,1,2,1.0
-20,Summer,Rascal,Gen.G,Top,72.0,4.0,58.9,409,1,4,3,2.0
-20,Summer,Rich,Team Dynamics,Top,36.0,2.0,66.7,497,4,2,4,3.0
-20,Summer,Route,SANDBOX Gaming,ADC,40.0,3.2,65.4,462,4,3,3,3.0
-20,Summer,Ruler,Gen.G,ADC,72.0,6.6,68.1,641,1,2,1,1.0
+20,Summer,Life,Gen.G,Support,75.0,4.1,60.4,141,5,2,2,3.0
+20,Summer,Mia,SeolHaeOne Prince,Support,8.0,1.1,56.1,209,4,5,4,4.0
 20,Summer,Secret,SeolHaeOne Prince,Support,18.0,1.6,62.5,153,4,4,4,4.0
-20,Summer,ShowMaker,DAMWON Gaming,Middle,87.0,16.0,71.5,561,1,1,1,1.0
-20,Summer,Smeb,KT Rolster,Support,40.0,2.3,62.7,330,1,4,4,3.0
-20,Summer,Smeb,KT Rolster,Top,44.0,2.7,64.4,469,4,3,4,3.0
-20,Summer,SoHwan,KT Rolster,Top,39.0,3.1,66.3,428,4,2,3,3.0
-20,Summer,Spirit,Afreeca Freecs,Jungle,54.0,3.5,70.6,256,4,1,3,2.0
-20,Summer,Summit,SANDBOX Gaming,Top,40.0,1.8,60.1,473,3,4,4,3.0
-20,Summer,Teddy,T1,ADC,67.0,7.8,70.6,564,2,1,1,1.0
-20,Summer,Trigger,SeolHaeOne Prince,ADC,8.0,1.6,59.8,453,3,4,4,3.0
-20,Summer,TusiN,KT Rolster,Support,42.0,2.6,71.4,152,2,1,4,2.0
-20,Summer,Ucal,KT Rolster,Middle,39.0,3.0,64.7,484,3,3,3,3.0
-20,Summer,Viper,Hanwha Life Esports,ADC,19.0,3.0,65.8,526,3,3,3,3.0
-20,Summer,YoungJae,Hanwha Life Esports,Jungle,10.0,1.4,67.4,202,5,2,5,4.0
-21,Spring,Arthur,Hanwha Life Esports,Jungle,52.0,3.5,66.4,312,2,3,3,2.0
-21,Spring,Bang,Afreeca Freecs,ADC,38.0,3.2,59.3,411,3,4,3,3.0
-21,Spring,BAO,DRX,ADC,45.0,3.2,63.9,431,5,3,3,3.0
-21,Spring,Bay,Nongshim RedForce,Middle,43.0,2.9,63.0,416,5,3,4,4.0
-21,Spring,Bdd,Gen.G,Middle,68.0,5.2,63.6,508,1,3,1,1.0
-21,Spring,Becca,DRX,Support,45.0,2.3,67.2,130,3,2,4,3.0
-21,Spring,BeryL,DWG KIA,Support,77.0,2.9,67.7,219,1,2,4,2.0
-21,Spring,Blank,KT Rolster,Jungle,53.0,3.9,63.4,275,4,3,2,3.0
-21,Spring,Bonnie,KT Rolster,Jungle,33.0,1.9,56.9,254,5,4,5,4.0
-21,Spring,Canna,T1,Top,60.0,3.1,59.6,435,3,4,3,3.0
-21,Spring,Canyon,DWG KIA,Jungle,77.0,4.6,68.9,422,1,2,1,1.0
-21,Spring,Chieftain,Fredit BRION,Jungle,0.0,1.3,100.0,281,3,1,5,3.0
-21,Spring,Chieftain,Fredit BRION,Middle,0.0,0.3,50.0,362,5,5,5,5.0
+20,Summer,Smeb,KT Rolster,Support,40.0,2.3,62.7,330,1,3,1,1.0
+20,Summer,TusiN,KT Rolster,Support,42.0,2.6,71.4,152,1,2,3,2.0
+20,Summer,Canna,T1,Top,67.0,5.2,61.9,470,3,2,1,2.0
+20,Summer,CuVee,Hanwha Life Esports,Top,9.0,1.1,58.1,358,5,5,5,5.0
+20,Summer,Doran,DRX,Top,71.0,2.8,57.5,435,2,4,3,3.0
+20,Summer,DuDu,Hanwha Life Esports,Top,23.0,1.6,60.5,405,3,4,5,4.0
+20,Summer,ikssu,SeolHaeOne Prince,Top,15.0,1.1,61.5,393,5,4,5,4.0
+20,Summer,Kiin,Afreeca Freecs,Top,51.0,2.7,58.5,451,1,4,3,2.0
+20,Summer,Nuguri,DAMWON Gaming,Top,87.0,5.2,58.6,571,1,3,1,1.0
+20,Summer,Rascal,Gen.G,Top,72.0,4.0,58.9,409,1,3,3,2.0
+20,Summer,Rich,Team Dynamics,Top,36.0,2.0,66.7,497,4,1,3,2.0
+20,Summer,Smeb,KT Rolster,Top,44.0,2.7,64.4,469,4,1,3,2.0
+20,Summer,SoHwan,KT Rolster,Top,39.0,3.1,66.3,428,4,1,3,2.0
+20,Summer,Summit,SANDBOX Gaming,Top,40.0,1.8,60.1,473,3,4,3,3.0
+21,Spring,Bay,Nongshim RedForce,Middle,43.0,2.9,63.0,416,4,3,4,3.0
+21,Spring,Bdd,Gen.G,Middle,68.0,5.2,63.6,508,1,2,2,1.0
+21,Spring,Chieftain,Fredit BRION,Middle,0.0,0.3,50.0,362,4,5,5,4.0
 21,Spring,Chovy,Hanwha Life Esports,Middle,59.0,5.4,68.9,589,1,2,1,1.0
-21,Spring,Clid,Gen.G,Jungle,67.0,4.4,68.9,306,3,2,1,2.0
-21,Spring,Clozer,T1,Middle,57.0,3.7,63.5,472,1,3,2,2.0
-21,Spring,Croco,Liiv SANDBOX,Jungle,42.0,3.2,70.9,295,2,2,3,2.0
-21,Spring,Cuzz,T1,Jungle,77.0,6.8,69.0,381,2,2,1,1.0
-21,Spring,Deft,Hanwha Life Esports,ADC,59.0,3.8,65.1,571,2,3,2,2.0
-21,Spring,Delight,Fredit BRION,Support,31.0,2.5,77.3,122,3,1,4,2.0
-21,Spring,deokdam,Nongshim RedForce,ADC,43.0,3.6,68.1,452,1,2,3,2.0
-21,Spring,Doran,KT Rolster,Top,40.0,2.5,60.2,483,2,4,4,3.0
-21,Spring,Dove,KT Rolster,Middle,47.0,3.3,59.7,423,3,4,3,3.0
-21,Spring,Dread,Afreeca Freecs,Jungle,38.0,3.6,73.1,359,2,2,3,2.0
-21,Spring,DuDu,Hanwha Life Esports,Top,13.0,2.3,55.6,497,2,4,4,3.0
-21,Spring,Effort,Liiv SANDBOX,Support,38.0,2.0,61.9,121,3,3,5,3.0
-21,Spring,Ellim,T1,Jungle,55.0,5.1,67.5,253,2,2,1,1.0
-21,Spring,Faker,T1,Middle,65.0,5.7,68.8,464,2,2,1,1.0
-21,Spring,FATE,Liiv SANDBOX,Middle,38.0,5.0,73.8,527,3,1,1,1.0
-21,Spring,Flawless,Gen.G,Jungle,60.0,4.4,59.3,277,4,4,1,3.0
-21,Spring,Fly,Afreeca Freecs,Middle,38.0,2.7,64.2,423,4,3,4,3.0
-21,Spring,Ghost,DWG KIA,ADC,77.0,5.7,66.3,486,4,3,1,2.0
-21,Spring,GIDEON,KT Rolster,Jungle,32.0,2.6,68.6,238,4,2,4,3.0
-21,Spring,Gumayusi,T1,ADC,48.0,4.3,71.1,405,1,2,2,1.0
-21,Spring,Hena,Fredit BRION,ADC,31.0,3.5,77.0,394,3,1,3,2.0
-21,Spring,Hoya,Fredit BRION,Top,31.0,2.1,58.4,350,5,4,5,4.0
-21,Spring,HyBriD,KT Rolster,ADC,40.0,3.1,61.4,370,2,4,3,3.0
-21,Spring,Karis,Gen.G,Middle,33.0,1.7,45.5,278,5,5,5,5.0
-21,Spring,Kellin,Nongshim RedForce,Support,43.0,2.6,70.0,150,3,2,4,3.0
-21,Spring,Keria,T1,Support,61.0,3.5,69.0,179,1,2,3,2.0
-21,Spring,Khan,DWG KIA,Top,77.0,4.0,60.4,502,3,4,2,3.0
-21,Spring,Kiin,Afreeca Freecs,Top,38.0,2.4,58.5,489,1,4,4,3.0
-21,Spring,Kingen,DRX,Top,45.0,2.8,65.8,466,1,3,4,2.0
-21,Spring,Lava,Fredit BRION,Middle,29.0,3.2,75.2,438,4,1,3,2.0
-21,Spring,Lehends,Afreeca Freecs,Support,39.0,2.5,66.3,157,3,3,4,3.0
-21,Spring,Leo,Liiv SANDBOX,ADC,33.0,2.4,50.4,346,5,5,4,4.0
-21,Spring,Life,Gen.G,Support,66.0,3.2,60.0,130,3,4,3,3.0
-21,Spring,MapSSi,Afreeca Freecs,Support,0.0,2.4,63.2,301,5,3,4,4.0
-21,Spring,Morgan,Hanwha Life Esports,Top,69.0,4.1,58.3,416,4,4,2,3.0
-21,Spring,Noah,KT Rolster,ADC,40.0,2.9,71.6,410,5,2,4,3.0
-21,Spring,Oner,T1,Jungle,56.0,3.6,74.8,390,2,1,3,2.0
-21,Spring,OnFleek,Liiv SANDBOX,Jungle,0.0,1.9,56.8,228,4,4,5,4.0
-21,Spring,Peanut,Nongshim RedForce,Jungle,43.0,3.4,71.8,379,3,2,3,2.0
-21,Spring,Prince,Liiv SANDBOX,ADC,45.0,3.3,61.3,464,4,4,3,3.0
-21,Spring,Pyosik,DRX,Jungle,45.0,3.0,71.6,397,3,2,4,3.0
-21,Spring,Rascal,Gen.G,Top,66.0,3.1,59.2,396,2,4,3,3.0
-21,Spring,Rich,Nongshim RedForce,Top,43.0,2.3,60.1,482,5,4,4,4.0
-21,Spring,Route,Liiv SANDBOX,ADC,27.0,2.9,60.5,341,3,4,4,3.0
-21,Spring,Ruler,Gen.G,ADC,66.0,4.7,61.1,455,1,4,1,2.0
+21,Spring,Clozer,T1,Middle,57.0,3.7,63.5,472,1,2,3,2.0
+21,Spring,Dove,KT Rolster,Middle,47.0,3.3,59.7,423,3,3,3,3.0
+21,Spring,Faker,T1,Middle,65.0,5.7,68.8,464,2,2,2,2.0
+21,Spring,FATE,Liiv SANDBOX,Middle,38.0,5.0,73.8,527,2,2,2,2.0
+21,Spring,Fly,Afreeca Freecs,Middle,38.0,2.7,64.2,423,3,3,4,3.0
+21,Spring,Karis,Gen.G,Middle,33.0,1.7,45.5,278,5,4,5,4.0
+21,Spring,Lava,Fredit BRION,Middle,29.0,3.2,75.2,438,3,2,3,2.0
 21,Spring,ShowMaker,DWG KIA,Middle,77.0,6.5,67.9,552,2,2,1,1.0
 21,Spring,SOLKA,DRX,Middle,45.0,3.4,67.6,474,3,2,3,2.0
-21,Spring,Summit,Liiv SANDBOX,Top,38.0,2.3,62.9,490,2,3,4,3.0
-21,Spring,Teddy,T1,ADC,74.0,5.8,70.5,577,2,2,1,1.0
-21,Spring,Ucal,KT Rolster,Middle,36.0,3.2,64.8,544,3,3,3,3.0
-21,Spring,UmTi,Fredit BRION,Jungle,32.0,3.2,77.2,309,2,1,3,2.0
+21,Spring,Ucal,KT Rolster,Middle,36.0,3.2,64.8,544,3,3,2,2.0
 21,Spring,UmTi,Fredit BRION,Middle,0.0,0.0,0.0,160,5,5,5,5.0
-21,Spring,Vsta,Hanwha Life Esports,Support,59.0,3.0,65.8,177,2,3,4,3.0
-21,Spring,Yaharong,Fredit BRION,Middle,44.0,4.6,73.1,453,4,2,1,2.0
+21,Spring,Yaharong,Fredit BRION,Middle,44.0,4.6,73.1,453,3,2,2,2.0
+21,Spring,Arthur,Hanwha Life Esports,Jungle,52.0,3.5,66.4,312,2,3,3,2.0
+21,Spring,Blank,KT Rolster,Jungle,53.0,3.9,63.4,275,5,4,4,4.0
+21,Spring,Bonnie,KT Rolster,Jungle,33.0,1.9,56.9,254,5,5,5,5.0
+21,Spring,Canyon,DWG KIA,Jungle,77.0,4.6,68.9,422,1,2,1,1.0
+21,Spring,Chieftain,Fredit BRION,Jungle,0.0,1.3,100.0,281,3,1,5,3.0
+21,Spring,Clid,Gen.G,Jungle,67.0,4.4,68.9,306,3,2,3,2.0
+21,Spring,Croco,Liiv SANDBOX,Jungle,42.0,3.2,70.9,295,2,3,4,3.0
+21,Spring,Cuzz,T1,Jungle,77.0,6.8,69.0,381,2,2,1,1.0
+21,Spring,Dread,Afreeca Freecs,Jungle,38.0,3.6,73.1,359,2,3,2,2.0
+21,Spring,Ellim,T1,Jungle,55.0,5.1,67.5,253,2,3,3,2.0
+21,Spring,Flawless,Gen.G,Jungle,60.0,4.4,59.3,277,5,4,3,4.0
+21,Spring,GIDEON,KT Rolster,Jungle,32.0,2.6,68.6,238,5,4,5,4.0
+21,Spring,Oner,T1,Jungle,56.0,3.6,74.8,390,1,2,1,1.0
+21,Spring,OnFleek,Liiv SANDBOX,Jungle,0.0,1.9,56.8,228,4,5,5,4.0
+21,Spring,Peanut,Nongshim RedForce,Jungle,43.0,3.4,71.8,379,4,3,2,3.0
+21,Spring,Pyosik,DRX,Jungle,45.0,3.0,71.6,397,3,3,2,2.0
+21,Spring,UmTi,Fredit BRION,Jungle,32.0,3.2,77.2,309,2,2,3,2.0
 21,Spring,yoHan,Hanwha Life Esports,Jungle,71.0,3.1,63.3,329,3,3,3,3.0
-21,Spring,Zeus,T1,Top,63.0,3.1,59.3,421,2,4,3,3.0
-21,Spring,Zzus,KT Rolster,Support,40.0,2.3,66.0,98,4,3,4,3.0
+21,Spring,Bang,Afreeca Freecs,ADC,38.0,3.2,59.3,411,3,5,4,4.0
+21,Spring,BAO,DRX,ADC,45.0,3.2,63.9,431,5,3,4,4.0
+21,Spring,Deft,Hanwha Life Esports,ADC,59.0,3.8,65.1,571,2,2,1,1.0
+21,Spring,deokdam,Nongshim RedForce,ADC,43.0,3.6,68.1,452,1,2,3,2.0
+21,Spring,Ghost,DWG KIA,ADC,77.0,5.7,66.3,486,4,1,1,2.0
+21,Spring,Gumayusi,T1,ADC,48.0,4.3,71.1,405,1,2,3,2.0
+21,Spring,Hena,Fredit BRION,ADC,31.0,3.5,77.0,394,3,1,4,2.0
+21,Spring,HyBriD,KT Rolster,ADC,40.0,3.1,61.4,370,2,4,5,3.0
+21,Spring,Leo,Liiv SANDBOX,ADC,33.0,2.4,50.4,346,5,5,5,5.0
+21,Spring,Noah,KT Rolster,ADC,40.0,2.9,71.6,410,5,2,4,3.0
+21,Spring,Prince,Liiv SANDBOX,ADC,45.0,3.3,61.3,464,4,4,3,3.0
+21,Spring,Route,Liiv SANDBOX,ADC,27.0,2.9,60.5,341,3,5,5,4.0
+21,Spring,Ruler,Gen.G,ADC,66.0,4.7,61.1,455,1,3,2,2.0
+21,Spring,Teddy,T1,ADC,74.0,5.8,70.5,577,2,1,1,1.0
+21,Spring,Becca,DRX,Support,45.0,2.3,67.2,130,4,3,5,4.0
+21,Spring,BeryL,DWG KIA,Support,77.0,2.9,67.7,219,1,2,1,1.0
+21,Spring,Delight,Fredit BRION,Support,31.0,2.5,77.3,122,4,1,4,3.0
+21,Spring,Effort,Liiv SANDBOX,Support,38.0,2.0,61.9,121,2,5,5,4.0
+21,Spring,Kellin,Nongshim RedForce,Support,43.0,2.6,70.0,150,3,2,3,2.0
+21,Spring,Keria,T1,Support,61.0,3.5,69.0,179,1,2,1,1.0
+21,Spring,Lehends,Afreeca Freecs,Support,39.0,2.5,66.3,157,3,3,4,3.0
+21,Spring,Life,Gen.G,Support,66.0,3.2,60.0,130,4,5,2,3.0
+21,Spring,MapSSi,Afreeca Freecs,Support,0.0,2.4,63.2,301,5,5,1,3.0
+21,Spring,Vsta,Hanwha Life Esports,Support,59.0,3.0,65.8,177,2,3,2,2.0
+21,Spring,Zzus,KT Rolster,Support,40.0,2.3,66.0,98,5,4,5,4.0
+21,Spring,Canna,T1,Top,60.0,3.1,59.6,435,3,3,3,3.0
+21,Spring,Doran,KT Rolster,Top,40.0,2.5,60.2,483,2,3,3,2.0
+21,Spring,DuDu,Hanwha Life Esports,Top,13.0,2.3,55.6,497,2,5,3,3.0
+21,Spring,Hoya,Fredit BRION,Top,31.0,2.1,58.4,350,5,5,5,5.0
+21,Spring,Khan,DWG KIA,Top,77.0,4.0,60.4,502,3,2,1,2.0
+21,Spring,Kiin,Afreeca Freecs,Top,38.0,2.4,58.5,489,1,4,3,2.0
+21,Spring,Kingen,DRX,Top,45.0,2.8,65.8,466,1,1,3,1.0
+21,Spring,Morgan,Hanwha Life Esports,Top,69.0,4.1,58.3,416,5,3,1,3.0
+21,Spring,Rascal,Gen.G,Top,66.0,3.1,59.2,396,2,3,4,3.0
+21,Spring,Rich,Nongshim RedForce,Top,43.0,2.3,60.1,482,5,3,3,3.0
+21,Spring,Summit,Liiv SANDBOX,Top,38.0,2.3,62.9,490,2,2,3,2.0
+21,Spring,Zeus,T1,Top,63.0,3.1,59.3,421,2,3,3,2.0
