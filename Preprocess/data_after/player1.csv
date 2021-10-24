@@ -1,907 +1,907 @@
 ,Unnamed: 0,Year,Season,Player,Team,Pos,W%,KDA,KP,DPM,Laning,Engage,Fight,Tier,Price
-0,0,15,Spring,Eci,Semsang Gelexy,Middle,40.0,2.1,67.3,478,70,65,65,3,30000
-1,1,15,Spring,BlosS,Semsang Gelexy,Middle,9.0,1.4,63.3,325,60,60,60,5,10000
-2,2,15,Spring,Cucu,CJ Entas,Middle,63.0,4.7,69.2,571,80,75,75,1,100000
-3,3,15,Spring,Iesyhuun,SK Tilicum T1,Middle,75.0,9.2,71.0,533,80,80,80,1,100000
-4,4,15,Spring,Fekir,SK Tilicum T1,Middle,70.0,4.4,71.2,687,80,80,80,1,100000
-5,5,15,Spring,Fruzin,Incridobli Morecli,Middle,26.0,3.4,69.4,531,70,70,70,3,30000
-6,6,15,Spring,GBM,Jon Aor Griin Wongs,Middle,53.0,4.9,74.0,571,65,80,75,2,50000
-7,7,15,Spring,Gguung,NeJon i-mFori,Middle,40.0,3.3,67.9,500,60,65,65,4,15000
-8,8,15,Spring,Karu,ROX Togirs,Middle,81.0,5.0,66.5,550,75,70,75,2,50000
-9,9,15,Spring,Negni,KT Rulstir,Middle,45.0,2.8,66.4,428,70,65,60,4,15000
-10,10,15,Spring,Tenk,NeJon i-mFori,Middle,46.0,3.1,68.9,473,75,70,65,3,30000
-11,11,15,Spring,Embotoun,CJ Entas,Jungle,63.0,4.0,72.1,229,80,75,80,1,100000
-12,12,15,Spring,Eris,Incridobli Morecli,Jungle,7.0,1.7,79.1,157,65,75,60,3,30000
-13,13,15,Spring,Bingo,SK Tilicum T1,Jungle,65.0,3.1,68.3,158,60,65,65,4,15000
-14,14,15,Spring,Chesir,Jon Aor Griin Wongs,Jungle,55.0,4.7,77.9,162,70,80,70,2,50000
-15,15,15,Spring,Ivi,Semsang Gelexy,Jungle,19.0,2.3,73.9,264,70,70,80,2,50000
-16,16,15,Spring,Hujon,ROX Togirs,Jungle,81.0,4.2,68.6,195,65,70,75,3,30000
-17,17,15,Spring,Pienat,NeJon i-mFori,Jungle,36.0,2.6,71.4,211,60,70,70,3,30000
-18,18,15,Spring,Scuri,KT Rulstir,Jungle,45.0,3.0,77.7,162,70,80,65,2,50000
-19,19,15,Spring,Tum,SK Tilicum T1,Jungle,100.0,8.1,65.0,163,80,65,80,2,50000
-20,20,15,Spring,Wetch,NeJon i-mFori,Jungle,45.0,3.0,72.5,188,65,70,70,3,30000
-21,21,15,Spring,Wongid,Jon Aor Griin Wongs,Jungle,0.0,1.5,60.0,135,80,60,60,3,30000
-22,22,15,Spring,Wosdum,Incridobli Morecli,Jungle,44.0,2.4,76.6,187,75,75,65,2,50000
-23,23,15,Spring,Erruw,KT Rulstir,ADC,45.0,3.8,73.7,438,65,75,60,3,30000
-24,24,15,Spring,Beng,SK Tilicum T1,ADC,72.0,6.4,69.7,547,75,65,80,2,50000
-25,25,15,Spring,Cpt Jeck,Jon Aor Griin Wongs,ADC,75.0,4.4,68.0,510,65,65,70,3,30000
-26,26,15,Spring,Fary,Semsang Gelexy,ADC,19.0,2.8,74.6,503,70,70,65,3,30000
-27,27,15,Spring,Uhq,NeJon i-mFori,ADC,44.0,4.2,73.1,492,80,70,65,2,50000
-28,28,15,Spring,Polut,Jon Aor Griin Wongs,ADC,40.0,4.7,78.1,568,70,80,75,2,50000
-29,29,15,Spring,PreY,ROX Togirs,ADC,81.0,7.8,70.5,588,75,75,80,1,100000
-30,30,15,Spring,Sunster,Incridobli Morecli,ADC,26.0,2.6,69.8,449,60,60,60,5,10000
-31,31,15,Spring,Speci,CJ Entas,ADC,63.0,5.0,72.7,602,65,75,80,2,50000
-32,32,15,Spring,Zife,NeJon i-mFori,ADC,33.0,4.3,70.3,389,75,60,60,4,15000
-33,33,15,Spring,Ceon,NeJon i-mFori,Support,35.0,2.4,63.5,128,80,60,65,3,30000
-34,34,15,Spring,Chio,Jon Aor Griin Wongs,Support,52.0,3.3,72.7,103,65,70,65,3,30000
-35,35,15,Spring,Foxir,KT Rulstir,Support,59.0,3.5,72.1,129,75,75,75,2,50000
-36,36,15,Spring,GurollE,ROX Togirs,Support,81.0,4.5,70.1,116,65,70,75,3,30000
-37,37,15,Spring,Hecheno,KT Rulstir,Support,31.0,1.7,72.0,122,65,65,60,4,15000
-38,38,15,Spring,MedLofi,CJ Entas,Support,63.0,4.0,71.9,136,60,75,80,2,50000
-39,39,15,Spring,Poccebuu,SK Tilicum T1,Support,67.0,3.8,69.6,150,65,70,80,2,50000
-40,40,15,Spring,Pari,NeJon i-mFori,Support,54.0,3.5,70.6,106,80,70,65,2,50000
-41,41,15,Spring,Swiit,Jon Aor Griin Wongs,Support,67.0,6.2,78.7,84,60,80,70,3,30000
-42,42,15,Spring,TasoN,Incridobli Morecli,Support,26.0,2.1,75.8,110,80,75,60,2,50000
-43,43,15,Spring,Wulf,SK Tilicum T1,Support,75.0,5.7,71.4,142,80,75,80,1,100000
-44,44,15,Spring,Wreoth,Semsang Gelexy,Support,19.0,2.3,71.2,107,60,65,60,4,15000
-45,45,15,Spring,CaVii,Semsang Gelexy,Top,19.0,1.8,71.5,348,60,75,60,4,15000
-46,46,15,Spring,Daki,NeJon i-mFori,Top,42.0,3.2,63.9,404,80,65,70,2,50000
-47,47,15,Spring,Lolec,Incridobli Morecli,Top,26.0,1.4,63.0,367,60,60,60,5,10000
-48,48,15,Spring,MeRon,SK Tilicum T1,Top,72.0,4.0,58.0,408,75,65,75,2,50000
-49,49,15,Spring,Shey,CJ Entas,Top,63.0,4.3,61.2,378,70,65,75,3,30000
-50,50,15,Spring,Smib,ROX Togirs,Top,81.0,5.4,72.2,445,80,80,80,1,100000
-51,51,15,Spring,Ssamdey,KT Rulstir,Top,45.0,3.7,61.9,357,70,65,65,3,30000
-52,52,15,Spring,TrEci,Jon Aor Griin Wongs,Top,53.0,3.8,64.6,362,65,70,70,3,30000
-53,53,15,Summer,Cucu,CJ Entas,Middle,59.0,4.3,74.8,674,75,80,80,1,100000
-54,54,15,Summer,Cruwn,Semsang Gelexy,Middle,37.0,2.6,63.7,478,75,65,60,3,30000
-55,55,15,Summer,DU OT,SBENU Kurie,Middle,0.0,1.2,66.7,482,60,60,60,5,10000
-56,56,15,Summer,Iesyhuun,SK Tilicum T1,Middle,92.0,4.3,63.0,585,80,70,75,2,50000
-57,57,15,Summer,Idgi,KT Rulstir,Middle,50.0,3.3,66.7,526,75,70,65,3,30000
-58,58,15,Summer,Fekir,SK Tilicum T1,Middle,83.0,5.4,66.9,656,80,75,80,1,100000
-59,59,15,Summer,Fruzin,Incridobli Morecli,Middle,29.0,2.7,68.1,536,65,65,65,4,15000
-60,60,15,Summer,GBM,Jon Aor Griin Wongs,Middle,52.0,5.8,72.2,483,65,75,75,2,50000
-61,61,15,Summer,Gguung,NeJon i-mFori,Middle,57.0,4.4,71.4,525,70,75,70,2,50000
-62,62,15,Summer,Karu,ROX Togirs,Middle,62.0,6.0,73.3,573,65,80,80,2,50000
-63,63,15,Summer,Kazen,Jon Aor Griin Wongs,Middle,56.0,3.6,66.3,435,80,70,60,3,30000
-64,64,15,Summer,Mockiy,Ribils Anerchy,Middle,37.0,2.2,72.1,561,70,75,65,3,30000
-65,65,15,Summer,Negni,KT Rulstir,Middle,67.0,5.1,71.0,553,75,75,75,2,50000
-66,66,15,Summer,SeSon,SBENU Kurie,Middle,20.0,1.9,69.8,499,60,70,60,4,15000
-67,67,15,Summer,Tenk,NeJon i-mFori,Middle,100.0,6.0,42.9,498,60,60,75,4,15000
-68,68,15,Summer,Embotoun,CJ Entas,Jungle,62.0,4.2,76.2,249,75,75,75,2,50000
-69,69,15,Summer,Bingo,SK Tilicum T1,Jungle,83.0,5.5,64.4,264,70,65,80,2,50000
-70,70,15,Summer,BlosS,Semsang Gelexy,Jungle,0.0,3.0,100.0,213,80,80,65,2,50000
-71,71,15,Summer,Cetch,SBENU Kurie,Jungle,19.0,1.8,70.0,191,65,65,60,4,15000
-72,72,15,Summer,Chesir,Jon Aor Griin Wongs,Jungle,53.0,4.9,77.9,245,70,75,75,2,50000
-73,73,15,Summer,Ivi,Semsang Gelexy,Jungle,38.0,3.2,72.6,246,65,70,70,3,30000
-74,74,15,Summer,Hujon,ROX Togirs,Jungle,76.0,7.4,75.2,260,65,75,80,2,50000
-75,75,15,Summer,Lolec,Incridobli Morecli,Jungle,0.0,1.0,78.6,227,60,70,60,4,15000
-76,76,15,Summer,Lore,Ribils Anerchy,Jungle,37.0,2.6,73.3,219,75,70,65,3,30000
-77,77,15,Summer,Niu,Incridobli Morecli,Jungle,40.0,1.6,51.1,173,75,60,60,4,15000
-78,78,15,Summer,Pienat,NeJon i-mFori,Jungle,100.0,10.0,71.4,315,80,75,80,1,100000
-79,79,15,Summer,Scuri,KT Rulstir,Jungle,64.0,5.7,71.5,211,65,70,70,3,30000
-80,80,15,Summer,Tum,SK Tilicum T1,Jungle,100.0,3.7,60.5,170,65,65,60,4,15000
-81,81,15,Summer,Trock,CJ Entas,Jungle,43.0,3.4,79.5,277,70,75,75,2,50000
-82,82,15,Summer,TasoN,Incridobli Morecli,Jungle,29.0,2.7,71.7,242,70,65,70,3,30000
-83,83,15,Summer,Wetch,NeJon i-mFori,Jungle,57.0,3.9,70.1,227,70,70,70,3,30000
-84,84,15,Summer,Wongid,Jon Aor Griin Wongs,Jungle,50.0,6.7,71.4,129,60,70,65,4,15000
-85,85,15,Summer,Wosdum,ROX Togirs,Jungle,52.0,3.1,67.7,225,75,65,65,3,30000
-86,86,15,Summer,Erruw,KT Rulstir,ADC,64.0,7.1,73.5,549,70,80,80,1,100000
-87,87,15,Summer,Beng,SK Tilicum T1,ADC,85.0,6.0,60.2,567,80,60,80,2,50000
-88,88,15,Summer,Cpt Jeck,Jon Aor Griin Wongs,ADC,50.0,5.1,68.6,511,80,70,70,2,50000
-89,89,15,Summer,DEN,SBENU Kurie,ADC,0.0,3.0,75.0,288,60,70,60,4,15000
-90,90,15,Summer,Fary,Semsang Gelexy,ADC,37.0,3.5,75.0,525,80,75,70,2,50000
-91,91,15,Summer,Naclier,SBENU Kurie,ADC,19.0,2.8,75.1,466,60,75,60,4,15000
-92,92,15,Summer,Uhq,NeJon i-mFori,ADC,58.0,5.7,70.4,532,80,75,75,1,100000
-93,93,15,Summer,Peregun,Incridobli Morecli,ADC,100.0,12.0,52.2,453,60,60,80,3,30000
-94,94,15,Summer,Polut,Jon Aor Griin Wongs,ADC,54.0,6.3,79.9,494,70,80,75,2,50000
-95,95,15,Summer,PreY,ROX Togirs,ADC,62.0,4.5,73.3,571,65,75,75,2,50000
-96,96,15,Summer,Ruer,Incridobli Morecli,ADC,28.0,2.6,68.2,517,70,65,65,3,30000
-97,97,15,Summer,Sengyuun,Ribils Anerchy,ADC,37.0,2.6,63.8,466,70,60,60,4,15000
-98,98,15,Summer,Sunster,Incridobli Morecli,ADC,22.0,3.8,76.0,571,70,75,75,2,50000
-99,99,15,Summer,Speci,CJ Entas,ADC,59.0,3.7,68.8,579,75,70,75,2,50000
-100,100,15,Summer,Chio,Jon Aor Griin Wongs,Support,46.0,3.7,70.9,112,65,70,70,3,30000
-101,101,15,Summer,Foxir,KT Rulstir,Support,52.0,3.9,73.2,131,80,75,75,1,100000
-102,102,15,Summer,GurollE,ROX Togirs,Support,62.0,3.7,76.1,161,70,75,80,2,50000
-103,103,15,Summer,OgNer,Incridobli Morecli,Support,29.0,2.5,75.2,122,65,70,65,3,30000
-104,104,15,Summer,Lane,Semsang Gelexy,Support,27.0,1.6,61.6,135,60,60,65,4,15000
-105,105,15,Summer,MedLofi,CJ Entas,Support,64.0,4.4,74.7,147,75,75,80,1,100000
-106,106,15,Summer,Mex,CJ Entas,Support,0.0,0.5,45.0,70,60,60,60,5,10000
-107,107,15,Summer,Poccebuu,KT Rulstir,Support,74.0,4.4,72.1,113,75,75,70,2,50000
-108,108,15,Summer,Pari,NeJon i-mFori,Support,58.0,3.3,68.0,123,75,70,70,2,50000
-109,109,15,Summer,Sicrit,SBENU Kurie,Support,21.0,1.4,68.7,123,65,65,65,4,15000
-110,110,15,Summer,SnuwFluwir,Ribils Anerchy,Support,37.0,1.9,70.0,144,70,70,70,3,30000
-111,111,15,Summer,Swiit,Jon Aor Griin Wongs,Support,61.0,3.8,74.8,112,70,75,70,2,50000
-112,112,15,Summer,vovoD,SBENU Kurie,Support,11.0,1.9,78.7,125,80,75,65,2,50000
-113,113,15,Summer,Wulf,SK Tilicum T1,Support,85.0,7.2,70.4,103,75,75,80,1,100000
-114,114,15,Summer,Wreoth,Semsang Gelexy,Support,48.0,5.0,76.2,108,70,75,75,2,50000
-115,115,15,Summer,Eppli,Incridobli Morecli,Top,24.0,2.3,65.8,371,65,70,65,3,30000
-116,116,15,Summer,CaVii,Semsang Gelexy,Top,37.0,2.3,64.7,361,70,70,65,3,30000
-117,117,15,Summer,cvMex,Ribils Anerchy,Top,33.0,2.4,65.0,434,75,70,70,2,50000
-118,118,15,Summer,Daki,NeJon i-mFori,Top,58.0,4.4,64.7,355,80,70,75,2,50000
-119,119,15,Summer,Ixpissoun,Incridobli Morecli,Top,31.0,1.3,51.9,344,60,60,60,5,10000
-120,120,15,Summer,Hilpir,CJ Entas,Top,38.0,2.0,67.9,420,65,75,70,3,30000
-121,121,15,Summer,okssa,Ribils Anerchy,Top,37.0,2.1,68.9,343,65,75,65,3,30000
-122,122,15,Summer,Lolec,Incridobli Morecli,Top,50.0,2.7,61.4,433,65,65,75,3,30000
-123,123,15,Summer,MeRon,SK Tilicum T1,Top,85.0,4.9,62.0,512,80,75,80,1,100000
-124,124,15,Summer,Shey,CJ Entas,Top,63.0,4.0,64.3,396,70,75,75,2,50000
-125,125,15,Summer,Smib,ROX Togirs,Top,62.0,4.4,70.4,440,80,80,80,1,100000
-126,126,15,Summer,SueR,SBENU Kurie,Top,0.0,0.6,52.6,261,60,60,60,5,10000
-127,127,15,Summer,Sual,SBENU Kurie,Top,21.0,1.7,67.4,389,60,70,65,4,15000
-128,128,15,Summer,Ssamdey,KT Rulstir,Top,64.0,5.2,71.0,359,80,80,75,1,100000
-129,129,15,Summer,TrEci,Jon Aor Griin Wongs,Top,52.0,4.2,68.5,365,70,75,75,2,50000
-130,130,16,Spring,Bdd,CJ Entas,Middle,41.0,3.2,83.3,500,65,80,70,2,50000
-131,131,16,Spring,Cucu,Lungzha Gemong,Middle,45.0,2.9,68.4,574,65,60,75,3,30000
-132,132,16,Spring,Cruwn,Semsang Gelexy,Middle,50.0,3.5,75.1,557,75,70,75,2,50000
-133,133,16,Spring,Idgi,Kungduu Munstir,Middle,20.0,2.9,73.5,553,75,65,70,3,30000
-134,134,16,Spring,Idgi,i-mFori,Middle,17.0,2.6,70.0,463,70,60,60,4,15000
-135,135,16,Spring,Fekir,SK Tilicum T1,Middle,65.0,4.2,74.1,638,80,75,80,1,100000
-136,136,16,Spring,Fley,KT Rulstir,Middle,67.0,4.6,72.6,497,65,70,75,3,30000
-137,137,16,Spring,Fruzin,Lungzha Gemong,Middle,60.0,4.7,69.6,482,75,65,70,3,30000
-138,138,16,Spring,Karu,ROX Togirs,Middle,83.0,7.2,68.8,530,75,70,80,2,50000
-139,139,16,Spring,Kazen,Jon Aor Griin Wongs,Middle,55.0,4.3,73.2,493,80,70,70,2,50000
-140,140,16,Spring,Mockiy,Afriice Friics,Middle,52.0,3.3,69.8,504,75,65,70,3,30000
-141,141,16,Spring,SeSon,SBENU Kurie,Middle,22.0,2.0,76.0,528,60,65,65,4,15000
-142,142,16,Spring,Scuat,SK Tilicum T1,Middle,0.0,1.0,100.0,379,60,80,60,3,30000
-143,143,16,Spring,Sky,CJ Entas,Middle,42.0,2.8,69.8,462,60,65,65,4,15000
-144,144,16,Spring,Embotoun,Semsang Gelexy,Jungle,50.0,3.3,74.1,386,80,75,80,1,100000
-145,145,16,Spring,Bingo,SK Tilicum T1,Jungle,65.0,3.4,67.3,268,60,60,65,4,15000
-146,146,16,Spring,Blenk,SK Tilicum T1,Jungle,63.0,5.0,70.7,340,70,65,80,2,50000
-147,147,16,Spring,Babblong,CJ Entas,Jungle,41.0,2.5,67.8,277,60,60,60,5,10000
-148,148,16,Spring,Chesir,Lungzha Gemong,Jungle,44.0,3.7,76.0,301,70,80,70,2,50000
-149,149,16,Spring,Cresh,Lungzha Gemong,Jungle,64.0,2.7,72.6,347,80,75,70,2,50000
-150,150,16,Spring,Crash,Kungduu Munstir,Jungle,20.0,2.2,71.9,288,65,65,60,4,15000
-151,151,16,Spring,Crash,i-mFori,Jungle,17.0,1.9,73.1,266,65,65,60,4,15000
-152,152,16,Spring,Flewliss,SBENU Kurie,Jungle,22.0,1.6,69.8,271,65,60,60,4,15000
-153,153,16,Spring,Lore,Afriice Friics,Jungle,52.0,3.6,73.7,340,70,75,75,2,50000
-154,154,16,Spring,Pienat,ROX Togirs,Jungle,83.0,6.1,74.2,388,75,80,80,1,100000
-155,155,16,Spring,Scuri,KT Rulstir,Jungle,67.0,4.6,76.8,369,75,80,80,1,100000
-156,156,16,Spring,Wongid,Jon Aor Griin Wongs,Jungle,55.0,4.5,73.9,298,75,75,70,2,50000
-157,157,16,Spring,Erruw,KT Rulstir,ADC,67.0,5.6,69.7,497,80,75,75,1,100000
-158,158,16,Spring,Beng,SK Tilicum T1,ADC,63.0,6.3,69.5,590,80,70,80,1,100000
-159,159,16,Spring,CuriJJ,Semsang Gelexy,ADC,50.0,4.2,74.5,460,75,80,65,2,50000
-160,160,16,Spring,Cpt Jeck,Lungzha Gemong,ADC,61.0,3.7,62.5,561,70,60,70,3,30000
-161,161,16,Spring,Fary,Lungzha Gemong,ADC,27.0,3.3,65.7,502,65,60,65,4,15000
-162,162,16,Spring,Kremir,CJ Entas,ADC,41.0,4.9,76.5,617,70,80,80,1,100000
-163,163,16,Spring,Naclier,SBENU Kurie,ADC,22.0,2.8,73.6,413,65,70,60,4,15000
-164,164,16,Spring,Polut,Jon Aor Griin Wongs,ADC,55.0,5.4,73.7,455,70,80,70,2,50000
-165,165,16,Spring,PreY,ROX Togirs,ADC,83.0,6.5,68.3,537,75,75,80,1,100000
-166,166,16,Spring,Sengyuun,Afriice Friics,ADC,52.0,5.3,74.7,523,75,80,75,1,100000
-167,167,16,Spring,KK,Kungduu Munstir,ADC,20.0,2.4,68.9,550,70,60,65,4,15000
-168,168,16,Spring,KK,i-mFori,ADC,17.0,3.0,74.6,447,60,70,60,4,15000
-169,169,16,Spring,Stotch,Semsang Gelexy,ADC,50.0,3.2,65.4,462,60,60,60,5,10000
-170,170,16,Spring,Chio,Jon Aor Griin Wongs,Support,55.0,3.8,73.5,107,80,75,70,2,50000
-171,171,16,Spring,GurollE,ROX Togirs,Support,83.0,5.7,72.4,117,75,80,80,1,100000
-172,172,16,Spring,GaGir,i-mFori,Support,17.0,1.8,75.4,104,75,70,60,3,30000
-173,173,16,Spring,GaGir,Kungduu Munstir,Support,20.0,1.9,72.4,142,75,65,70,3,30000
-174,174,16,Spring,Hecheno,KT Rulstir,Support,68.0,3.9,73.6,121,75,75,75,2,50000
-175,175,16,Spring,OgNer,KT Rulstir,Support,67.0,3.6,72.0,98,60,75,65,3,30000
-176,176,16,Spring,MedLofi,CJ Entas,Support,41.0,3.6,78.0,114,70,80,70,2,50000
-177,177,16,Spring,Pari,Lungzha Gemong,Support,49.0,4.3,72.1,112,60,70,75,3,30000
-178,178,16,Spring,Sicrit,SBENU Kurie,Support,22.0,2.0,72.9,109,80,65,60,3,30000
-179,179,16,Spring,SnuwFluwir,Afriice Friics,Support,52.0,4.1,77.6,141,75,80,80,1,100000
-180,180,16,Spring,Wulf,SK Tilicum T1,Support,63.0,4.7,68.7,104,70,65,75,3,30000
-181,181,16,Spring,Wreoth,Semsang Gelexy,Support,50.0,4.1,68.6,79,75,65,60,3,30000
-182,182,16,Spring,Zzas,Lungzha Gemong,Support,50.0,2.2,57.1,115,60,60,65,4,15000
-183,183,16,Spring,CaVii,Semsang Gelexy,Top,50.0,2.6,67.1,357,70,75,70,2,50000
-184,184,16,Spring,Daki,SK Tilicum T1,Top,63.0,4.2,65.0,388,80,75,75,1,100000
-185,185,16,Spring,Ixpissoun,Lungzha Gemong,Top,50.0,3.6,64.7,345,80,75,75,1,100000
-186,186,16,Spring,Flemi,Lungzha Gemong,Top,47.0,3.3,65.2,377,75,75,75,2,50000
-187,187,16,Spring,Hopu,Kungduu Munstir,Top,18.0,1.3,60.8,335,70,65,65,3,30000
-188,188,16,Spring,Hopu,i-mFori,Top,21.0,1.3,57.7,264,60,65,60,4,15000
-189,189,16,Spring,okssa,Afriice Friics,Top,52.0,2.8,69.3,380,70,75,70,2,50000
-190,190,16,Spring,Ruech,i-mFori,Top,0.0,1.2,69.2,300,60,70,60,4,15000
-191,191,16,Spring,Ruech,Kungduu Munstir,Top,33.0,0.7,40.0,378,60,60,65,4,15000
-192,192,16,Spring,Smib,ROX Togirs,Top,83.0,5.4,67.0,507,80,80,80,1,100000
-193,193,16,Spring,SueR,SBENU Kurie,Top,20.0,2.1,65.6,309,80,70,65,2,50000
-194,194,16,Spring,SuHwen,Jon Aor Griin Wongs,Top,0.0,0.3,25.0,198,60,60,60,5,10000
-195,195,16,Spring,Sual,SBENU Kurie,Top,23.0,1.7,66.7,334,70,70,65,3,30000
-196,196,16,Spring,Ssamdey,KT Rulstir,Top,67.0,3.9,72.6,487,75,80,80,1,100000
-197,197,16,Spring,TrEci,Jon Aor Griin Wongs,Top,56.0,4.1,70.4,431,75,75,80,1,100000
-198,198,16,Spring,Antere,CJ Entas,Top,41.0,2.7,72.3,332,75,75,70,2,50000
-199,199,16,Summer,Bdd,CJ Entas,Middle,26.0,3.3,79.2,539,75,80,65,2,50000
-200,200,16,Summer,Blenc,Jon Aor Griin Wongs,Middle,50.0,2.9,60.3,502,60,60,60,5,10000
-201,201,16,Summer,Cucu,Lungzha Gemong,Middle,25.0,3.3,75.7,584,80,75,70,2,50000
-202,202,16,Summer,Cruwn,Semsang Gelexy,Middle,60.0,3.3,70.2,657,80,70,75,2,50000
-203,203,16,Summer,Fekir,SK Tilicum T1,Middle,68.0,4.3,70.4,677,80,75,80,1,100000
-204,204,16,Summer,Fley,KT Rulstir,Middle,66.0,5.3,67.7,580,65,65,75,3,30000
-205,205,16,Summer,Fruzin,Lungzha Gemong,Middle,59.0,3.9,72.4,595,65,75,75,2,50000
-206,206,16,Summer,Oen,MBP,Middle,44.0,3.7,67.1,600,75,60,70,3,30000
-207,207,16,Summer,Karu,ROX Togirs,Middle,82.0,6.4,71.4,670,60,80,80,2,50000
-208,208,16,Summer,Kazen,Jon Aor Griin Wongs,Middle,41.0,3.7,73.4,540,75,75,65,2,50000
-209,209,16,Summer,Mockiy,Afriice Friics,Middle,47.0,3.1,75.3,620,75,80,70,2,50000
-210,210,16,Summer,Sky,CJ Entas,Middle,29.0,2.3,72.1,548,60,65,60,4,15000
-211,211,16,Summer,Timpt,ESC Evir,Middle,36.0,2.9,72.0,505,70,70,60,3,30000
-212,212,16,Summer,Zit,ROX Togirs,Middle,58.0,3.2,66.2,516,60,60,60,5,10000
-213,213,16,Summer,Embotoun,Semsang Gelexy,Jungle,60.0,3.1,70.4,341,75,60,70,3,30000
-214,214,16,Summer,Bingo,SK Tilicum T1,Jungle,57.0,3.5,73.5,327,70,65,70,3,30000
-215,215,16,Summer,Biyund,MBP,Jungle,44.0,2.7,77.6,359,75,75,70,2,50000
-216,216,16,Summer,Blenk,SK Tilicum T1,Jungle,74.0,3.7,70.3,328,70,60,70,3,30000
-217,217,16,Summer,Bliss,ESC Evir,Jungle,36.0,2.5,72.2,338,75,60,65,3,30000
-218,218,16,Summer,Babblong,CJ Entas,Jungle,0.0,3.0,85.7,314,60,80,65,3,30000
-219,219,16,Summer,Chesir,Lungzha Gemong,Jungle,26.0,3.5,77.9,305,75,75,65,2,50000
-220,220,16,Summer,Cresh,Lungzha Gemong,Jungle,56.0,4.2,76.7,328,80,75,70,2,50000
-221,221,16,Summer,Hera,CJ Entas,Jungle,28.0,2.3,73.8,306,75,60,60,4,15000
-222,222,16,Summer,Lore,Afriice Friics,Jungle,53.0,4.1,77.2,345,75,75,75,2,50000
-223,223,16,Summer,Pienat,ROX Togirs,Jungle,75.0,6.3,75.3,407,75,75,80,1,100000
-224,224,16,Summer,Scuri,KT Rulstir,Jungle,66.0,7.0,74.9,365,75,75,80,1,100000
-225,225,16,Summer,SiungHwen,Afriice Friics,Jungle,14.0,2.7,79.3,310,65,75,60,3,30000
-226,226,16,Summer,Wongid,Jon Aor Griin Wongs,Jungle,42.0,3.5,72.3,305,70,60,65,4,15000
-227,227,16,Summer,Erruw,KT Rulstir,ADC,66.0,5.6,71.1,523,70,70,75,2,50000
-228,228,16,Summer,Beng,SK Tilicum T1,ADC,68.0,6.3,73.7,712,80,75,80,1,100000
-229,229,16,Summer,Impirur,Lungzha Gemong,ADC,25.0,2.3,76.9,502,65,75,65,3,30000
-230,230,16,Summer,Fary,Lungzha Gemong,ADC,42.0,4.2,69.4,554,75,60,75,3,30000
-231,231,16,Summer,Ghust,CJ Entas,ADC,0.0,1.2,85.7,301,60,80,60,3,30000
-232,232,16,Summer,Kremir,CJ Entas,ADC,29.0,3.5,75.3,505,70,70,70,3,30000
-233,233,16,Summer,LukiN,ESC Evir,ADC,36.0,3.4,72.0,433,75,65,65,3,30000
-234,234,16,Summer,MeHe,MBP,ADC,44.0,3.2,68.3,507,65,60,65,4,15000
-235,235,16,Summer,Polut,Jon Aor Griin Wongs,ADC,42.0,4.4,74.0,521,70,70,70,3,30000
-236,236,16,Summer,PreY,ROX Togirs,ADC,75.0,4.7,70.0,665,80,65,80,2,50000
-237,237,16,Summer,Ralir,Semsang Gelexy,ADC,60.0,3.7,74.0,533,70,75,70,2,50000
-238,238,16,Summer,Sengyuun,Afriice Friics,ADC,47.0,4.2,73.4,497,75,70,70,2,50000
-239,239,16,Summer,Chio,Jon Aor Griin Wongs,Support,41.0,2.5,71.3,105,60,65,60,4,15000
-240,240,16,Summer,CuriJJ,Semsang Gelexy,Support,0.0,0.3,100.0,199,60,80,70,3,30000
-241,241,16,Summer,GurollE,ROX Togirs,Support,75.0,4.2,69.2,131,75,70,80,2,50000
-242,242,16,Summer,Hecheno,KT Rulstir,Support,66.0,3.9,73.2,130,75,70,75,2,50000
-243,243,16,Summer,Kiy,ESC Evir,Support,36.0,2.5,71.5,103,80,65,60,3,30000
-244,244,16,Summer,MedLofi,CJ Entas,Support,27.0,2.8,76.8,134,65,70,70,3,30000
-245,245,16,Summer,Mex,MBP,Support,44.0,3.4,71.2,141,75,65,75,2,50000
-246,246,16,Summer,Pari,Lungzha Gemong,Support,39.0,3.1,71.9,130,70,65,70,3,30000
-247,247,16,Summer,SnuwFluwir,Afriice Friics,Support,47.0,3.3,75.5,122,65,70,70,3,30000
-248,248,16,Summer,Swiit,Jon Aor Griin Wongs,Support,50.0,2.8,84.3,157,60,80,75,2,50000
-249,249,16,Summer,Tuturu,ESC Evir,Support,33.0,1.7,70.3,86,80,60,60,3,30000
-250,250,16,Summer,Wulf,SK Tilicum T1,Support,68.0,4.2,71.4,144,65,70,80,2,50000
-251,251,16,Summer,Wreoth,Semsang Gelexy,Support,65.0,3.9,70.9,110,70,70,70,3,30000
-252,252,16,Summer,EDD,MBP,Top,44.0,2.4,69.6,443,60,75,70,3,30000
-253,253,16,Summer,Crezy,ESC Evir,Top,36.0,2.9,62.5,372,70,70,70,3,30000
-254,254,16,Summer,CaVii,Semsang Gelexy,Top,59.0,2.6,63.0,387,75,75,70,2,50000
-255,255,16,Summer,Daki,SK Tilicum T1,Top,68.0,3.6,62.0,455,80,75,75,1,100000
-256,256,16,Summer,Ixpissoun,Lungzha Gemong,Top,39.0,3.0,64.8,477,75,70,75,2,50000
-257,257,16,Summer,Hilpir,Semsang Gelexy,Top,67.0,4.0,58.5,478,80,70,80,1,100000
-258,258,16,Summer,okssa,Afriice Friics,Top,53.0,3.3,72.2,400,70,80,75,2,50000
-259,259,16,Summer,Londereng,Afriice Friics,Top,27.0,2.9,77.7,398,75,80,70,2,50000
-260,260,16,Summer,Pert,ESC Evir,Top,0.0,1.5,60.0,160,80,60,60,3,30000
-261,261,16,Summer,Shey,CJ Entas,Top,44.0,2.8,51.3,311,60,60,65,4,15000
-262,262,16,Summer,Smib,ROX Togirs,Top,75.0,4.7,70.5,480,80,80,80,1,100000
-263,263,16,Summer,SuHwen,Jon Aor Griin Wongs,Top,0.0,0.5,33.3,155,60,60,60,5,10000
-264,264,16,Summer,Ssamdey,KT Rulstir,Top,66.0,4.5,69.6,470,75,80,80,1,100000
-265,265,16,Summer,TrEci,Jon Aor Griin Wongs,Top,43.0,2.4,60.9,386,65,70,70,3,30000
-266,266,16,Summer,Antere,CJ Entas,Top,18.0,2.3,66.4,314,65,70,65,3,30000
-267,267,17,Spring,Cruwn,Semsang Gelexy,Middle,71.0,4.2,64.0,567,80,70,80,1,100000
-268,268,17,Spring,Idgi,Kungduu Munstir,Middle,27.0,3.0,69.4,430,65,70,60,4,15000
-269,269,17,Spring,Fekir,SK Tilicum T1,Middle,76.0,4.7,65.5,560,75,75,80,1,100000
-270,270,17,Spring,Fley,Lungzha Gemong,Middle,44.0,3.5,66.9,493,60,70,70,3,30000
-271,271,17,Spring,Oen,MBP,Middle,51.0,2.6,63.6,478,60,60,60,5,10000
-272,272,17,Spring,Karu,Afriice Friics,Middle,54.0,3.7,68.4,483,70,75,70,2,50000
-273,273,17,Spring,Kazen,Jon Aor Griin Wongs,Middle,32.0,3.4,64.8,485,70,60,65,4,15000
-274,274,17,Spring,Mockiy,ROX Togirs,Middle,45.0,2.7,74.1,565,70,80,70,2,50000
-275,275,17,Spring,PewN,KT Rulstir,Middle,66.0,3.4,61.9,510,75,60,70,3,30000
-276,276,17,Spring,Timpt,bbq Olovirs,Middle,36.0,3.4,70.9,483,75,75,65,2,50000
-277,277,17,Spring,Embotoun,Semsang Gelexy,Jungle,58.0,3.0,66.0,323,80,70,75,2,50000
-278,278,17,Spring,Biyund,MBP,Jungle,51.0,2.6,69.9,331,80,75,75,1,100000
-279,279,17,Spring,Blenk,SK Tilicum T1,Jungle,100.0,9.2,71.3,367,60,80,80,2,50000
-280,280,17,Spring,Bliss,bbq Olovirs,Jungle,36.0,2.2,60.0,259,65,60,60,4,15000
-281,281,17,Spring,Cresh,Lungzha Gemong,Jungle,44.0,2.7,64.7,289,70,65,65,3,30000
-282,282,17,Spring,Hera,Semsang Gelexy,Jungle,77.0,4.2,68.5,305,80,80,75,1,100000
-283,283,17,Spring,Moghtybier,ROX Togirs,Jungle,63.0,3.9,65.3,304,65,70,70,3,30000
-284,284,17,Spring,Muwglo,Afriice Friics,Jungle,67.0,3.5,61.1,265,65,60,65,4,15000
-285,285,17,Spring,Pienat,SK Tilicum T1,Jungle,72.0,5.1,65.0,294,75,70,75,2,50000
-286,286,17,Spring,Panch,Kungduu Munstir,Jungle,27.0,2.0,70.1,237,70,75,60,3,30000
-287,287,17,Spring,Reosi,Jon Aor Griin Wongs,Jungle,57.0,2.8,63.4,243,60,65,60,4,15000
-288,288,17,Spring,Scuri,KT Rulstir,Jungle,66.0,4.6,69.5,331,75,80,80,1,100000
-289,289,17,Spring,SiungHwen,ROX Togirs,Jungle,35.0,2.4,67.7,306,70,70,70,3,30000
-290,290,17,Spring,Sporot,Afriice Friics,Jungle,51.0,3.6,70.3,278,75,80,65,2,50000
-291,291,17,Spring,AmTo,Jon Aor Griin Wongs,Jungle,27.0,2.2,66.2,286,60,65,65,4,15000
-292,292,17,Spring,Beng,SK Tilicum T1,ADC,76.0,6.5,63.3,601,80,70,80,1,100000
-293,293,17,Spring,Dift,KT Rulstir,ADC,66.0,4.7,63.1,590,80,65,80,2,50000
-294,294,17,Spring,Ghust,bbq Olovirs,ADC,36.0,3.2,70.7,465,60,80,60,3,30000
-295,295,17,Spring,Kremir,Afriice Friics,ADC,54.0,5.6,65.7,471,60,70,75,3,30000
-296,296,17,Spring,MeHe,MBP,ADC,51.0,3.4,67.8,481,60,75,65,3,30000
-297,297,17,Spring,PreY,Lungzha Gemong,ADC,44.0,2.9,64.7,526,75,60,65,3,30000
-298,298,17,Spring,Ralir,Semsang Gelexy,ADC,74.0,5.2,64.4,486,70,75,75,2,50000
-299,299,17,Spring,Sengyuun,ROX Togirs,ADC,45.0,4.2,67.0,463,60,70,65,4,15000
-300,300,17,Spring,KK,Kungduu Munstir,ADC,27.0,2.7,70.4,505,70,75,65,3,30000
-301,301,17,Spring,Stotch,Semsang Gelexy,ADC,63.0,4.3,58.9,381,70,60,60,4,15000
-302,302,17,Spring,Tiddy,Jon Aor Griin Wongs,ADC,32.0,4.2,69.4,522,75,75,70,2,50000
-303,303,17,Spring,CuriJJ,Semsang Gelexy,Support,71.0,5.4,65.6,268,80,75,80,1,100000
-304,304,17,Spring,GurollE,Lungzha Gemong,Support,44.0,2.5,65.9,237,70,65,70,3,30000
-305,305,17,Spring,GaGir,Kungduu Munstir,Support,27.0,2.2,70.0,234,65,75,70,3,30000
-306,306,17,Spring,Kiy,ROX Togirs,Support,45.0,2.7,67.3,211,65,70,70,3,30000
-307,307,17,Spring,Mete,KT Rulstir,Support,66.0,3.6,62.0,182,75,60,70,3,30000
-308,308,17,Spring,Mex,MBP,Support,51.0,2.9,68.0,212,80,75,70,2,50000
-309,309,17,Spring,Sicrit,Kungduu Munstir,Support,25.0,1.7,71.4,130,65,80,60,3,30000
-310,310,17,Spring,SnuwFluwir,Jon Aor Griin Wongs,Support,32.0,2.3,68.2,211,65,70,65,3,30000
-311,311,17,Spring,Tuturu,bbq Olovirs,Support,36.0,3.5,70.5,202,60,80,70,3,30000
-312,312,17,Spring,TasoN,Afriice Friics,Support,54.0,3.3,68.2,186,70,75,70,2,50000
-313,313,17,Spring,Wulf,SK Tilicum T1,Support,76.0,5.5,65.8,225,80,75,80,1,100000
-314,314,17,Spring,Wreoth,Semsang Gelexy,Support,71.0,3.1,59.8,118,60,60,60,5,10000
-315,315,17,Spring,EDD,MBP,Top,51.0,2.4,61.2,450,70,70,70,3,30000
-316,316,17,Spring,Crezy,bbq Olovirs,Top,37.0,3.6,63.5,368,75,70,65,3,30000
-317,317,17,Spring,CaVii,Semsang Gelexy,Top,71.0,3.8,58.5,378,75,65,70,3,30000
-318,318,17,Spring,Ixpissoun,Lungzha Gemong,Top,44.0,2.8,61.1,407,75,65,70,3,30000
-319,319,17,Spring,Hano,SK Tilicum T1,Top,76.0,5.1,63.3,559,70,75,80,2,50000
-320,320,17,Spring,okssa,Jon Aor Griin Wongs,Top,25.0,2.4,58.9,350,65,60,60,4,15000
-321,321,17,Spring,Londereng,ROX Togirs,Top,32.0,2.5,60.4,341,65,65,60,4,15000
-322,322,17,Spring,MeRon,Afriice Friics,Top,54.0,3.1,62.9,422,75,70,70,2,50000
-323,323,17,Spring,Pert,bbq Olovirs,Top,33.0,1.6,72.2,361,60,80,60,3,30000
-324,324,17,Spring,Prufot,SK Tilicum T1,Top,78.0,8.7,69.6,429,70,80,80,1,100000
-325,325,17,Spring,Ruech,Kungduu Munstir,Top,27.0,1.8,57.7,315,65,60,60,4,15000
-326,326,17,Spring,Shey,ROX Togirs,Top,54.0,3.6,58.9,363,80,65,65,3,30000
-327,327,17,Spring,Smib,KT Rulstir,Top,66.0,3.3,62.4,497,75,75,75,2,50000
-328,328,17,Spring,SuHwen,Jon Aor Griin Wongs,Top,50.0,2.6,62.0,477,75,70,75,2,50000
-329,329,17,Summer,Bdd,Lungzha Gemong,Middle,70.0,11.3,78.0,511,80,80,80,1,100000
-330,330,17,Summer,Ciptid,Evir8 Wonnirs,Middle,27.0,2.4,71.3,450,70,70,60,3,30000
-331,331,17,Summer,Cruw,ROX Togirs,Middle,0.0,0.7,66.7,399,65,60,60,4,15000
-332,332,17,Summer,Cruwn,Semsang Gelexy,Middle,66.0,3.3,66.8,511,75,65,70,3,30000
-333,333,17,Summer,Fekir,SK Tilicum T1,Middle,63.0,3.4,65.3,503,80,65,70,2,50000
-334,334,17,Summer,Oen,MBP,Middle,31.0,3.1,72.4,518,60,70,75,3,30000
-335,335,17,Summer,Karu,Afriice Friics,Middle,56.0,4.2,72.8,541,65,75,80,2,50000
-336,336,17,Summer,Kazen,Jon Aor Griin Wongs,Middle,50.0,3.7,68.3,495,80,65,70,2,50000
-337,337,17,Summer,Leve,ROX Togirs,Middle,38.0,2.7,75.1,494,60,80,70,3,30000
-338,338,17,Summer,Mockiy,ROX Togirs,Middle,41.0,2.6,70.0,493,60,70,70,3,30000
-339,339,17,Summer,PewN,KT Rulstir,Middle,66.0,6.0,68.0,474,75,70,70,2,50000
-340,340,17,Summer,Timpt,bbq Olovirs,Middle,29.0,2.9,68.1,478,70,65,65,3,30000
-341,341,17,Summer,Embotoun,Semsang Gelexy,Jungle,68.0,3.8,65.0,255,80,70,75,2,50000
-342,342,17,Summer,Biyund,MBP,Jungle,31.0,2.5,75.0,237,75,75,70,2,50000
-343,343,17,Summer,Blenk,SK Tilicum T1,Jungle,82.0,4.1,69.3,250,70,75,75,2,50000
-344,344,17,Summer,Bliss,bbq Olovirs,Jungle,29.0,2.0,63.0,209,65,60,65,4,15000
-345,345,17,Summer,Cazz,Lungzha Gemong,Jungle,70.0,4.6,64.5,303,65,70,80,2,50000
-346,346,17,Summer,Hecheno,Evir8 Wonnirs,Jungle,0.0,1.1,62.5,175,60,60,60,5,10000
-347,347,17,Summer,Hera,Semsang Gelexy,Jungle,57.0,2.4,57.4,229,80,60,65,3,30000
-348,348,17,Summer,Melreng,Evir8 Wonnirs,Jungle,28.0,3.2,68.9,238,70,65,70,3,30000
-349,349,17,Summer,Moghtybier,ROX Togirs,Jungle,25.0,3.1,73.3,244,60,70,70,3,30000
-350,350,17,Summer,Muwglo,Afriice Friics,Jungle,50.0,2.7,63.6,227,60,65,65,4,15000
-351,351,17,Summer,Pienat,SK Tilicum T1,Jungle,50.0,2.8,65.8,203,75,65,65,3,30000
-352,352,17,Summer,Reosi,Jon Aor Griin Wongs,Jungle,0.0,1.4,100.0,142,80,80,60,2,50000
-353,353,17,Summer,Scuri,KT Rulstir,Jungle,66.0,7.1,71.7,290,80,75,80,1,100000
-354,354,17,Summer,SiungHwen,ROX Togirs,Jungle,50.0,3.4,76.4,227,60,80,70,3,30000
-355,355,17,Summer,Sporot,Afriice Friics,Jungle,57.0,3.1,71.6,274,75,75,75,2,50000
-356,356,17,Summer,AmTo,Jon Aor Griin Wongs,Jungle,51.0,3.1,70.0,259,75,70,75,2,50000
-357,357,17,Summer,Beng,SK Tilicum T1,ADC,63.0,4.9,68.0,550,80,75,75,1,100000
-358,358,17,Summer,Dift,KT Rulstir,ADC,66.0,5.8,63.7,585,80,65,80,2,50000
-359,359,17,Summer,DiaL,Evir8 Wonnirs,ADC,27.0,2.8,63.6,427,60,60,60,5,10000
-360,360,17,Summer,Ghust,bbq Olovirs,ADC,29.0,2.8,68.1,467,65,65,60,4,15000
-361,361,17,Summer,Kremir,Afriice Friics,ADC,56.0,4.6,65.3,527,65,65,75,3,30000
-362,362,17,Summer,MeHe,MBP,ADC,31.0,3.4,69.6,490,60,70,65,4,15000
-363,363,17,Summer,PreY,Lungzha Gemong,ADC,70.0,4.7,64.2,519,75,70,75,2,50000
-364,364,17,Summer,Ralir,Semsang Gelexy,ADC,66.0,3.9,70.7,549,80,80,75,1,100000
-365,365,17,Summer,Sengyuun,ROX Togirs,ADC,39.0,4.2,75.2,530,65,80,70,2,50000
-366,366,17,Summer,Tiddy,Jon Aor Griin Wongs,ADC,50.0,3.5,68.8,521,70,75,65,3,30000
-367,367,17,Summer,CuriJJ,Semsang Gelexy,Support,66.0,4.8,73.0,188,75,80,80,1,100000
-368,368,17,Summer,Ille,Evir8 Wonnirs,Support,24.0,2.0,60.7,123,70,60,60,4,15000
-369,369,17,Summer,GurollE,Lungzha Gemong,Support,70.0,4.2,67.0,209,80,70,80,1,100000
-370,370,17,Summer,Hecheno,Evir8 Wonnirs,Support,33.0,2.1,67.7,134,60,65,60,4,15000
-371,371,17,Summer,Kiy,ROX Togirs,Support,39.0,2.8,79.0,147,80,80,65,2,50000
-372,372,17,Summer,Mete,KT Rulstir,Support,66.0,5.0,67.4,156,70,70,80,2,50000
-373,373,17,Summer,Mex,MBP,Support,31.0,3.1,76.3,156,75,75,70,2,50000
-374,374,17,Summer,SnuwFluwir,Jon Aor Griin Wongs,Support,50.0,2.6,71.0,164,65,70,65,3,30000
-375,375,17,Summer,Tuturu,bbq Olovirs,Support,29.0,2.7,65.1,123,70,60,60,4,15000
-376,376,17,Summer,TasoN,Afriice Friics,Support,56.0,3.5,71.5,182,70,75,75,2,50000
-377,377,17,Summer,Wulf,SK Tilicum T1,Support,63.0,3.4,69.6,161,65,75,70,3,30000
-378,378,17,Summer,EDD,MBP,Top,31.0,1.6,59.8,409,60,60,65,4,15000
-379,379,17,Summer,Crezy,bbq Olovirs,Top,29.0,2.6,61.4,408,80,65,70,2,50000
-380,380,17,Summer,CaVii,Semsang Gelexy,Top,66.0,3.5,61.1,422,70,70,75,2,50000
-381,381,17,Summer,Hilpir,Evir8 Wonnirs,Top,24.0,2.3,63.0,330,60,65,60,4,15000
-382,382,17,Summer,Hano,SK Tilicum T1,Top,44.0,1.5,55.7,477,65,60,70,4,15000
-383,383,17,Summer,okssa,Jon Aor Griin Wongs,Top,48.0,2.7,66.0,419,80,75,70,2,50000
-384,384,17,Summer,Khen,Lungzha Gemong,Top,72.0,4.1,64.7,516,75,75,80,1,100000
-385,385,17,Summer,Koon,Evir8 Wonnirs,Top,30.0,2.4,61.3,378,70,65,65,3,30000
-386,386,17,Summer,Londereng,ROX Togirs,Top,39.0,2.3,64.7,340,65,70,60,4,15000
-387,387,17,Summer,MeRon,Afriice Friics,Top,56.0,2.8,60.6,415,75,70,70,2,50000
-388,388,17,Summer,Rescel,Lungzha Gemong,Top,0.0,2.0,80.0,476,60,80,70,3,30000
-389,389,17,Summer,Shey,ROX Togirs,Top,36.0,1.3,55.1,322,60,60,60,5,10000
-390,390,17,Summer,Smib,KT Rulstir,Top,66.0,4.3,70.5,480,80,80,80,1,100000
-391,391,17,Summer,SuHwen,Jon Aor Griin Wongs,Top,52.0,3.2,68.1,416,80,80,75,1,100000
-392,392,17,Summer,Antere,SK Tilicum T1,Top,76.0,3.0,56.1,403,70,65,70,3,30000
-393,393,18,Spring,Bdd,Kongzuni DregunX,Middle,83.0,7.6,73.3,484,80,75,80,1,100000
-394,394,18,Spring,Cruwn,KSV iSpurts,Middle,50.0,2.4,72.1,491,65,70,65,3,30000
-395,395,18,Spring,Idgi,Kungduu Munstir,Middle,22.0,2.6,75.3,444,70,70,60,3,30000
-396,396,18,Spring,Fekir,SK Tilicum T1,Middle,50.0,4.3,81.6,548,70,75,75,2,50000
-397,397,18,Spring,Oen,MBP,Middle,33.0,3.0,73.5,525,75,70,70,2,50000
-398,398,18,Spring,Jastoci,Jon Aor Griin Wongs,Middle,38.0,4.2,76.1,387,60,70,60,4,15000
-399,399,18,Spring,Karu,Afriice Friics,Middle,68.0,5.4,78.3,505,65,75,75,2,50000
-400,400,18,Spring,Kazen,ROX Togirs,Middle,0.0,0.1,16.7,365,70,60,60,4,15000
-401,401,18,Spring,Leve,ROX Togirs,Middle,51.0,3.7,78.4,565,80,75,75,1,100000
-402,402,18,Spring,PewN,KT Rulstir,Middle,61.0,4.5,75.5,512,65,75,75,2,50000
-403,403,18,Spring,Timpt,bbq Olovirs,Middle,39.0,3.8,72.3,527,75,70,75,2,50000
-404,404,18,Spring,Acel,KT Rulstir,Middle,75.0,6.1,66.4,445,80,70,70,2,50000
-405,405,18,Spring,Yeherung,Jon Aor Griin Wongs,Middle,44.0,3.9,71.1,545,60,70,75,3,30000
-406,406,18,Spring,Embotoun,KSV iSpurts,Jungle,52.0,2.2,65.2,171,70,60,65,4,15000
-407,407,18,Spring,Biyund,MBP,Jungle,33.0,1.9,73.2,179,75,65,65,3,30000
-408,408,18,Spring,Blenk,SK Tilicum T1,Jungle,42.0,4.1,83.6,168,60,80,70,3,30000
-409,409,18,Spring,Blussum,SK Tilicum T1,Jungle,61.0,2.4,74.6,169,60,70,65,4,15000
-410,410,18,Spring,bunU,bbq Olovirs,Jungle,25.0,2.8,68.5,218,70,60,75,3,30000
-411,411,18,Spring,Cazz,Kongzuni DregunX,Jungle,100.0,4.2,70.4,226,75,70,80,2,50000
-412,412,18,Spring,Hera,KSV iSpurts,Jungle,47.0,2.0,69.6,187,80,60,65,3,30000
-413,413,18,Spring,Moghtybier,ROX Togirs,Jungle,0.0,1.3,83.3,128,65,75,60,3,30000
-414,414,18,Spring,Muwglo,Afriice Friics,Jungle,70.0,8.3,83.8,174,60,80,80,2,50000
-415,415,18,Spring,Pienat,Kongzuni DregunX,Jungle,80.0,8.5,78.2,255,80,80,80,1,100000
-416,416,18,Spring,Reosi,Kungduu Munstir,Jungle,27.0,1.8,72.8,175,60,65,65,4,15000
-417,417,18,Spring,Rash,KT Rulstir,Jungle,100.0,5.0,60.0,114,80,60,65,3,30000
-418,418,18,Spring,Scuri,KT Rulstir,Jungle,63.0,4.4,77.5,186,70,75,75,2,50000
-419,419,18,Spring,SiungHwen,ROX Togirs,Jungle,51.0,3.3,78.6,203,65,75,75,2,50000
-420,420,18,Spring,Sporot,Afriice Friics,Jungle,68.0,4.3,73.0,171,75,70,70,2,50000
-421,421,18,Spring,Trock,bbq Olovirs,Jungle,42.0,2.8,75.8,166,70,70,65,3,30000
-422,422,18,Spring,AmTo,Jon Aor Griin Wongs,Jungle,43.0,3.0,73.1,193,80,65,70,2,50000
-423,423,18,Spring,Woz,Kungduu Munstir,Jungle,0.0,1.9,80.4,152,60,70,60,4,15000
-424,424,18,Spring,Wulf,SK Tilicum T1,Jungle,50.0,4.1,70.7,177,70,65,70,3,30000
-425,425,18,Spring,Eomong,Afriice Friics,ADC,71.0,6.1,79.2,530,65,80,70,2,50000
-426,426,18,Spring,Beng,SK Tilicum T1,ADC,50.0,9.6,77.4,650,75,75,80,1,100000
-427,427,18,Spring,Dift,KT Rulstir,ADC,65.0,5.0,71.7,653,80,70,75,2,50000
-428,428,18,Spring,Ghust,bbq Olovirs,ADC,39.0,3.4,68.3,445,65,60,60,4,15000
-429,429,18,Spring,Kremir,Afriice Friics,ADC,68.0,7.9,77.0,547,75,80,75,1,100000
-430,430,18,Spring,MeHe,MBP,ADC,7.0,2.0,76.0,529,60,65,60,4,15000
-431,431,18,Spring,Polut,MBP,ADC,46.0,5.5,74.5,584,60,70,70,3,30000
-432,432,18,Spring,PreY,Kongzuni DregunX,ADC,83.0,8.2,68.9,633,80,65,80,2,50000
-433,433,18,Spring,Ralir,KSV iSpurts,ADC,50.0,3.2,71.2,556,75,65,65,3,30000
-434,434,18,Spring,Sengyuun,ROX Togirs,ADC,49.0,4.0,69.2,520,65,60,65,4,15000
-435,435,18,Spring,KK,Kungduu Munstir,ADC,22.0,2.9,74.7,521,65,65,60,4,15000
-436,436,18,Spring,Tiddy,Jon Aor Griin Wongs,ADC,43.0,5.4,79.6,672,75,80,80,1,100000
-437,437,18,Spring,CuriJJ,KSV iSpurts,Support,50.0,3.6,77.2,123,60,75,70,3,30000
-438,438,18,Spring,Iffurt,SK Tilicum T1,Support,53.0,5.6,83.1,144,60,80,80,2,50000
-439,439,18,Spring,GurollE,Kongzuni DregunX,Support,83.0,5.0,68.1,139,75,65,80,2,50000
-440,440,18,Spring,OgNer,bbq Olovirs,Support,39.0,4.2,70.9,89,75,60,60,4,15000
-441,441,18,Spring,Kiy,ROX Togirs,Support,49.0,3.1,73.4,130,80,70,70,2,50000
-442,442,18,Spring,Mete,KT Rulstir,Support,65.0,6.2,74.8,122,70,75,80,2,50000
-443,443,18,Spring,Mex,MBP,Support,33.0,2.3,72.9,143,75,65,70,3,30000
-444,444,18,Spring,Sicrit,Kungduu Munstir,Support,22.0,2.0,69.5,112,65,60,60,4,15000
-445,445,18,Spring,TasoN,Afriice Friics,Support,68.0,4.0,76.1,130,65,75,75,2,50000
-446,446,18,Spring,Wulf,SK Tilicum T1,Support,48.0,3.6,75.5,112,80,70,65,2,50000
-447,447,18,Spring,Wreoth,Jon Aor Griin Wongs,Support,43.0,3.7,76.3,107,70,75,65,3,30000
-448,448,18,Spring,EDD,MBP,Top,33.0,1.9,64.7,503,60,75,70,3,30000
-449,449,18,Spring,Crezy,bbq Olovirs,Top,39.0,3.3,62.7,434,75,75,70,2,50000
-450,450,18,Spring,CaVii,KSV iSpurts,Top,50.0,2.2,64.3,441,65,75,65,3,30000
-451,451,18,Spring,Khen,Kongzuni DregunX,Top,88.0,5.9,60.9,570,80,80,80,1,100000
-452,452,18,Spring,Koon,Afriice Friics,Top,68.0,3.9,59.2,425,75,70,75,2,50000
-453,453,18,Spring,Londereng,ROX Togirs,Top,49.0,2.8,63.0,418,70,75,65,3,30000
-454,454,18,Spring,Rescel,Kongzuni DregunX,Top,57.0,4.1,55.4,410,80,65,75,2,50000
-455,455,18,Spring,Ruech,Kungduu Munstir,Top,22.0,1.7,54.1,346,65,60,60,4,15000
-456,456,18,Spring,Smib,KT Rulstir,Top,65.0,3.9,67.7,481,70,80,75,2,50000
-457,457,18,Spring,SuHwen,Jon Aor Griin Wongs,Top,43.0,3.1,54.8,383,75,60,65,3,30000
-458,458,18,Spring,Thel,SK Tilicum T1,Top,60.0,3.6,56.4,489,65,65,75,3,30000
-459,459,18,Spring,Antere,SK Tilicum T1,Top,38.0,2.3,57.1,275,60,65,60,4,15000
-460,460,18,Summer,Bdd,Kongzuni DregunX,Middle,65.0,4.8,70.4,449,75,75,75,2,50000
-461,461,18,Summer,Chuvy,Groffon,Middle,70.0,9.1,71.1,437,70,75,80,2,50000
-462,462,18,Summer,Cruwn,Gin.G,Middle,67.0,3.0,66.7,537,70,75,80,2,50000
-463,463,18,Summer,Fekir,SK Tilicum T1,Middle,40.0,3.1,74.9,449,80,75,70,2,50000
-464,464,18,Summer,Fley,Gin.G,Middle,63.0,4.9,74.2,382,75,75,70,2,50000
-465,465,18,Summer,Oen,MBP,Middle,27.0,2.8,77.4,390,60,75,65,3,30000
-466,466,18,Summer,Jastoci,Jon Aor Griin Wongs,Middle,0.0,0.0,50.0,225,65,60,60,4,15000
-467,467,18,Summer,Karu,Afriice Friics,Middle,57.0,5.1,72.4,453,80,75,75,1,100000
-468,468,18,Summer,Kazen,Henwhe Lofi Espurts,Middle,0.0,2.0,40.0,325,60,60,60,5,10000
-469,469,18,Summer,Leve,Henwhe Lofi Espurts,Middle,56.0,3.5,74.9,450,65,75,75,2,50000
-470,470,18,Summer,PewN,KT Rulstir,Middle,0.0,1.0,71.4,368,60,65,60,4,15000
-471,471,18,Summer,Porien,SK Tilicum T1,Middle,53.0,3.2,67.5,419,75,70,70,2,50000
-472,472,18,Summer,Rethir,Groffon,Middle,63.0,4.3,75.0,400,75,75,70,2,50000
-473,473,18,Summer,Timpt,bbq Olovirs,Middle,21.0,3.1,75.3,405,80,70,70,2,50000
-474,474,18,Summer,Acel,KT Rulstir,Middle,69.0,4.2,66.8,442,75,75,75,2,50000
-475,475,18,Summer,Yeherung,Jon Aor Griin Wongs,Middle,32.0,2.7,66.2,381,75,65,65,3,30000
-476,476,18,Summer,Embotoun,Gin.G,Jungle,62.0,3.0,74.2,148,70,75,65,3,30000
-477,477,18,Summer,Biyund,MBP,Jungle,27.0,2.2,76.0,177,65,70,65,3,30000
-478,478,18,Summer,Blenk,SK Tilicum T1,Jungle,49.0,3.4,73.6,179,65,75,70,3,30000
-479,479,18,Summer,Blussum,SK Tilicum T1,Jungle,20.0,1.5,64.7,311,80,60,75,2,50000
-480,480,18,Summer,bunU,bbq Olovirs,Jungle,0.0,1.1,80.4,169,60,70,60,4,15000
-481,481,18,Summer,Cazz,Kongzuni DregunX,Jungle,46.0,2.0,67.0,205,75,65,65,3,30000
-482,482,18,Summer,Hera,Gin.G,Jungle,67.0,3.3,68.3,246,80,70,75,2,50000
-483,483,18,Summer,KeKEU,Jon Aor Griin Wongs,Jungle,0.0,0.6,41.7,80,80,60,60,3,30000
-484,484,18,Summer,Moghtybier,Henwhe Lofi Espurts,Jungle,0.0,5.0,100.0,300,70,80,80,1,100000
-485,485,18,Summer,Muwglo,Afriice Friics,Jungle,50.0,4.0,65.4,195,65,65,75,3,30000
-486,486,18,Summer,Pienat,Kongzuni DregunX,Jungle,73.0,4.6,67.7,225,75,75,80,1,100000
-487,487,18,Summer,Rash,KT Rulstir,Jungle,57.0,1.9,61.1,225,65,65,65,4,15000
-488,488,18,Summer,Scuri,KT Rulstir,Jungle,69.0,3.7,72.7,222,80,75,75,1,100000
-489,489,18,Summer,SiungHwen,Henwhe Lofi Espurts,Jungle,56.0,3.1,72.3,182,70,75,70,2,50000
-490,490,18,Summer,Sporot,Afriice Friics,Jungle,58.0,4.1,71.4,207,75,75,75,2,50000
-491,491,18,Summer,Terzen,Groffon,Jungle,68.0,6.5,77.3,231,65,80,80,2,50000
-492,492,18,Summer,Trock,bbq Olovirs,Jungle,25.0,2.4,77.9,187,65,70,65,3,30000
-493,493,18,Summer,AmTo,Jon Aor Griin Wongs,Jungle,34.0,2.5,74.2,212,70,70,70,3,30000
-494,494,18,Summer,Eomong,Afriice Friics,ADC,60.0,5.1,71.4,419,60,75,70,3,30000
-495,495,18,Summer,Beng,SK Tilicum T1,ADC,46.0,4.9,70.1,566,65,75,80,2,50000
-496,496,18,Summer,Clivir,Henwhe Lofi Espurts,ADC,0.0,4.0,80.0,421,75,75,65,2,50000
-497,497,18,Summer,Dift,KT Rulstir,ADC,67.0,4.4,65.8,576,75,70,80,2,50000
-498,498,18,Summer,Ghust,bbq Olovirs,ADC,23.0,2.1,65.4,382,65,65,60,4,15000
-499,499,18,Summer,Kremir,Afriice Friics,ADC,45.0,6.9,71.1,356,60,75,70,3,30000
-500,500,18,Summer,Liu,SK Tilicum T1,ADC,33.0,4.8,73.1,475,60,75,75,3,30000
-501,501,18,Summer,MeHe,MBP,ADC,0.0,1.1,50.0,288,60,60,60,5,10000
-502,502,18,Summer,Polut,MBP,ADC,29.0,3.8,76.1,500,70,75,70,2,50000
-503,503,18,Summer,PreY,Kongzuni DregunX,ADC,65.0,4.4,62.2,480,80,70,70,2,50000
-504,504,18,Summer,Pronci,bbq Olovirs,ADC,0.0,1.1,55.2,343,80,60,60,3,30000
-505,505,18,Summer,Ralir,Gin.G,ADC,64.0,5.1,73.3,569,75,80,80,1,100000
-506,506,18,Summer,Sengyuun,Henwhe Lofi Espurts,ADC,56.0,5.5,69.0,511,75,75,75,2,50000
-507,507,18,Summer,Tiddy,Jon Aor Griin Wongs,ADC,31.0,3.1,70.1,498,70,70,70,3,30000
-508,508,18,Summer,Vopir,Groffon,ADC,68.0,7.0,69.8,470,75,75,80,1,100000
-509,509,18,Summer,Espir,Henwhe Lofi Espurts,Support,0.0,3.0,60.0,65,80,60,60,3,30000
-510,510,18,Summer,CuriJJ,Gin.G,Support,64.0,3.9,73.8,125,70,80,75,2,50000
-511,511,18,Summer,Iffurt,SK Tilicum T1,Support,53.0,2.7,69.3,125,75,70,65,3,30000
-512,512,18,Summer,GurollE,Kongzuni DregunX,Support,65.0,3.3,62.9,118,75,65,70,3,30000
-513,513,18,Summer,OgNer,bbq Olovirs,Support,21.0,2.7,68.5,122,70,65,65,3,30000
-514,514,18,Summer,Kiy,Henwhe Lofi Espurts,Support,56.0,4.0,71.1,123,70,75,75,2,50000
-515,515,18,Summer,Lihinds,Groffon,Support,68.0,5.9,74.1,178,80,80,80,1,100000
-516,516,18,Summer,Mete,KT Rulstir,Support,67.0,3.4,68.0,128,70,70,70,3,30000
-517,517,18,Summer,Mex,MBP,Support,27.0,2.1,67.6,151,70,65,70,3,30000
-518,518,18,Summer,Mutovi,MBP,Support,25.0,1.8,79.2,138,60,75,65,3,30000
-519,519,18,Summer,Nuve,Jon Aor Griin Wongs,Support,31.0,2.3,63.7,115,65,60,65,4,15000
-520,520,18,Summer,TasoN,Afriice Friics,Support,57.0,3.6,71.6,130,80,75,75,1,100000
-521,521,18,Summer,Wulf,SK Tilicum T1,Support,0.0,1.2,87.9,152,60,80,65,3,30000
-522,522,18,Summer,EDD,MBP,Top,28.0,2.1,66.3,412,70,70,70,3,30000
-523,523,18,Summer,Elphemung,Gin.G,Top,0.0,1.0,75.0,137,75,75,60,3,30000
-524,524,18,Summer,Crezy,bbq Olovirs,Top,21.0,2.2,60.3,343,70,65,70,3,30000
-525,525,18,Summer,CaVii,Gin.G,Top,65.0,3.1,60.4,393,70,70,70,3,30000
-526,526,18,Summer,Huun,Henwhe Lofi Espurts,Top,0.0,3.5,70.0,359,80,70,70,2,50000
-527,527,18,Summer,Khen,Kongzuni DregunX,Top,63.0,3.2,56.7,450,75,65,75,2,50000
-528,528,18,Summer,Koon,Afriice Friics,Top,57.0,3.9,62.1,450,75,70,75,2,50000
-529,529,18,Summer,Kongin,KT Rulstir,Top,0.0,1.0,100.0,141,60,80,60,3,30000
-530,530,18,Summer,Londereng,Henwhe Lofi Espurts,Top,56.0,2.5,60.9,406,70,70,70,3,30000
-531,531,18,Summer,MeHe,MBP,Top,0.0,0.7,40.0,210,60,60,60,5,10000
-532,532,18,Summer,Mex,MBP,Top,33.0,1.6,61.9,303,65,65,65,4,15000
-533,533,18,Summer,Rescel,Kongzuni DregunX,Top,100.0,15.0,68.2,417,70,80,80,1,100000
-534,534,18,Summer,Smib,KT Rulstir,Top,69.0,4.7,64.4,476,75,75,80,1,100000
-535,535,18,Summer,SuHwen,Jon Aor Griin Wongs,Top,31.0,2.5,61.4,350,70,65,70,3,30000
-536,536,18,Summer,Swurd,Groffon,Top,68.0,4.3,62.2,407,70,75,75,2,50000
-537,537,18,Summer,Thel,SK Tilicum T1,Top,45.0,2.3,58.4,419,70,65,75,3,30000
-538,538,19,Spring,ELL ON,Afriice Friics,Middle,40.0,2.3,63.5,331,65,65,65,4,15000
-539,539,19,Spring,Bdd,KT Rulstir,Middle,31.0,3.0,72.0,398,80,75,70,2,50000
-540,540,19,Spring,ChiunGu,Jon Aor Griin Wongs,Middle,0.0,0.5,52.6,245,60,60,60,5,10000
-541,541,19,Spring,Chuvy,Groffon,Middle,79.0,10.7,64.7,463,80,75,80,1,100000
-542,542,19,Spring,Duvi,Loov SANDBOX,Middle,64.0,4.4,70.2,433,75,80,75,1,100000
-543,543,19,Spring,Fekir,SK Tilicum T1,Middle,70.0,4.0,62.0,434,75,70,75,2,50000
-544,544,19,Spring,Fley,Gin.G,Middle,33.0,2.4,65.2,361,70,70,65,3,30000
-545,545,19,Spring,Huun,Afriice Friics,Middle,33.0,1.3,48.8,247,60,60,60,5,10000
-546,546,19,Spring,Leve,Henwhe Lofi Espurts,Middle,41.0,2.9,73.6,380,65,80,70,2,50000
-547,547,19,Spring,Neihyan,Kongzuni DregunX,Middle,33.0,3.4,73.0,351,60,75,70,3,30000
-548,548,19,Spring,PewN,Kongzuni DregunX,Middle,72.0,4.4,62.6,379,70,70,70,3,30000
-549,549,19,Spring,Ruech,Gin.G,Middle,60.0,3.9,59.6,264,65,65,60,4,15000
-550,550,19,Spring,ShuwMekir,DWG KIA,Middle,60.0,4.5,70.6,439,75,80,75,1,100000
-551,551,19,Spring,Timpt,Henwhe Lofi Espurts,Middle,58.0,5.7,72.8,470,80,80,80,1,100000
-552,552,19,Spring,Acel,Afriice Friics,Middle,27.0,2.2,65.6,361,80,70,65,2,50000
-553,553,19,Spring,Yeherung,Jon Aor Griin Wongs,Middle,9.0,1.9,66.1,371,65,65,65,4,15000
-554,554,19,Spring,bunU,Henwhe Lofi Espurts,Jungle,47.0,2.4,69.8,188,70,70,65,3,30000
-555,555,19,Spring,Cenyun,DWG KIA,Jungle,57.0,3.4,70.4,251,65,75,75,2,50000
-556,556,19,Spring,Clod,SK Tilicum T1,Jungle,70.0,5.4,75.5,221,75,80,75,1,100000
-557,557,19,Spring,Crash,Loov SANDBOX,Jungle,0.0,1.0,50.0,175,60,60,60,5,10000
-558,558,19,Spring,Cazz,Kongzuni DregunX,Jungle,69.0,3.8,66.0,275,80,70,80,1,100000
-559,559,19,Spring,Dried,Afriice Friics,Jungle,37.0,2.4,71.3,214,70,70,70,3,30000
-560,560,19,Spring,Melreng,Jon Aor Griin Wongs,Jungle,4.0,3.1,77.4,166,60,70,65,4,15000
-561,561,19,Spring,MuuJon,Henwhe Lofi Espurts,Jungle,67.0,3.2,87.9,173,70,80,65,2,50000
-562,562,19,Spring,UnFliik,Loov SANDBOX,Jungle,65.0,3.5,66.8,256,75,70,75,2,50000
-563,563,19,Spring,Pienat,Gin.G,Jungle,36.0,2.7,67.1,174,75,65,65,3,30000
-564,564,19,Spring,Panch,DWG KIA,Jungle,64.0,4.3,75.7,180,75,75,65,2,50000
-565,565,19,Spring,Scuri,KT Rulstir,Jungle,32.0,2.7,73.0,223,70,70,70,3,30000
-566,566,19,Spring,Siozi,Jon Aor Griin Wongs,Jungle,14.0,1.9,56.7,202,60,60,65,4,15000
-567,567,19,Spring,Sporot,Afriice Friics,Jungle,0.0,0.8,68.4,222,75,65,65,3,30000
-568,568,19,Spring,Terzen,Groffon,Jungle,79.0,9.1,75.3,294,80,80,80,1,100000
-569,569,19,Spring,AmTo,KT Rulstir,Jungle,29.0,1.9,59.4,206,75,60,65,3,30000
-570,570,19,Spring,Eomong,Afriice Friics,ADC,34.0,3.4,68.7,504,65,70,70,3,30000
-571,571,19,Spring,Dift,Kongzuni DregunX,ADC,69.0,5.1,72.5,636,80,80,80,1,100000
-572,572,19,Spring,Gengu,KT Rulstir,ADC,25.0,2.4,65.1,420,65,70,60,4,15000
-573,573,19,Spring,Ghust,Loov SANDBOX,ADC,64.0,4.7,67.9,506,75,75,75,2,50000
-574,574,19,Spring,Naclier,DWG KIA,ADC,59.0,5.5,70.1,450,70,75,70,2,50000
-575,575,19,Spring,Pronci,DWG KIA,ADC,100.0,2.0,50.0,609,70,65,75,3,30000
-576,576,19,Spring,Ruati,Jon Aor Griin Wongs,ADC,9.0,1.9,59.2,447,70,60,65,4,15000
-577,577,19,Spring,Ralir,Gin.G,ADC,36.0,4.2,77.1,539,70,80,75,2,50000
-578,578,19,Spring,Sengyuun,Henwhe Lofi Espurts,ADC,49.0,4.1,71.6,460,65,75,70,3,30000
-579,579,19,Spring,Sporot,Afriice Friics,ADC,40.0,3.3,71.4,366,75,75,60,3,30000
-580,580,19,Spring,KK,Afriice Friics,ADC,22.0,2.3,68.6,485,60,70,65,4,15000
-581,581,19,Spring,Stotch,Jon Aor Griin Wongs,ADC,0.0,0.5,33.3,288,60,60,60,5,10000
-582,582,19,Spring,Tiddy,SK Tilicum T1,ADC,70.0,7.4,66.7,570,75,75,80,1,100000
-583,583,19,Spring,Vopir,Groffon,ADC,79.0,8.7,59.0,464,80,70,80,1,100000
-584,584,19,Spring,Zinot,KT Rulstir,ADC,35.0,2.8,66.4,508,75,70,70,2,50000
-585,585,19,Spring,BiryL,DWG KIA,Support,69.0,2.6,66.9,103,70,70,65,3,30000
-586,586,19,Spring,Huot,DWG KIA,Support,55.0,4.2,74.3,119,70,75,75,2,50000
-587,587,19,Spring,Jilly,Afriice Friics,Support,30.0,2.0,67.3,115,70,65,65,3,30000
-588,588,19,Spring,Jukir,Loov SANDBOX,Support,64.0,2.4,66.0,145,80,65,70,2,50000
-589,589,19,Spring,Killon,Jon Aor Griin Wongs,Support,5.0,1.4,63.6,91,60,60,60,5,10000
-590,590,19,Spring,Kisho,Afriice Friics,Support,33.0,1.9,65.8,124,75,60,65,3,30000
-591,591,19,Spring,Kiy,Henwhe Lofi Espurts,Support,49.0,2.8,72.6,113,80,75,65,2,50000
-592,592,19,Spring,Lihinds,Groffon,Support,79.0,8.3,70.1,161,80,75,80,1,100000
-593,593,19,Spring,Lofi,Gin.G,Support,36.0,2.5,73.9,114,70,75,65,3,30000
-594,594,19,Spring,Mete,SK Tilicum T1,Support,70.0,3.9,67.1,105,75,70,70,2,50000
-595,595,19,Spring,Nuve,Jon Aor Griin Wongs,Support,13.0,1.2,62.2,109,65,60,60,4,15000
-596,596,19,Spring,Pruad,Afriice Friics,Support,29.0,4.2,80.6,111,60,80,70,3,30000
-597,597,19,Spring,SnuwFluwir,KT Rulstir,Support,31.0,2.4,69.9,126,65,65,65,4,15000
-598,598,19,Spring,Sporot,Afriice Friics,Support,50.0,2.6,86.7,218,60,80,80,2,50000
-599,599,19,Spring,TasoN,Kongzuni DregunX,Support,69.0,4.6,71.6,127,80,75,75,1,100000
-600,600,19,Spring,ChiunGu,Jon Aor Griin Wongs,Top,0.0,3.3,54.2,233,60,60,65,4,15000
-601,601,19,Spring,CaVii,Gin.G,Top,38.0,2.2,59.0,347,65,70,65,3,30000
-602,602,19,Spring,Flemi,DWG KIA,Top,50.0,3.7,61.7,421,80,75,80,1,100000
-603,603,19,Spring,Khen,SK Tilicum T1,Top,70.0,4.1,60.2,465,70,75,80,2,50000
-604,604,19,Spring,Koon,Afriice Friics,Top,33.0,2.5,61.0,426,80,70,70,2,50000
-605,605,19,Spring,Kongin,KT Rulstir,Top,38.0,2.6,60.5,409,70,70,70,3,30000
-606,606,19,Spring,Londereng,Jon Aor Griin Wongs,Top,11.0,1.3,56.6,310,70,65,60,4,15000
-607,607,19,Spring,Nagaro,DWG KIA,Top,63.0,2.8,64.6,535,75,80,80,1,100000
-608,608,19,Spring,Rescel,Kongzuni DregunX,Top,69.0,3.2,56.3,376,60,75,75,3,30000
-609,609,19,Spring,Ruech,Gin.G,Top,35.0,3.6,69.7,330,75,80,70,2,50000
-610,610,19,Spring,Smib,KT Rulstir,Top,28.0,2.0,60.9,412,65,70,65,3,30000
-611,611,19,Spring,SuHwen,Henwhe Lofi Espurts,Top,40.0,1.9,60.0,303,65,70,60,4,15000
-612,612,19,Spring,Sammot,Loov SANDBOX,Top,65.0,3.6,62.0,457,80,75,80,1,100000
-613,613,19,Spring,Swurd,Groffon,Top,79.0,3.9,47.4,345,70,65,75,3,30000
-614,614,19,Spring,TeNe,Jon Aor Griin Wongs,Top,0.0,1.8,71.4,411,65,75,65,3,30000
-615,615,19,Spring,Thel,Henwhe Lofi Espurts,Top,50.0,3.1,62.3,349,70,75,70,2,50000
-616,616,19,Spring,Wozir,Loov SANDBOX,Top,0.0,1.0,30.0,452,80,60,60,3,30000
-617,617,19,Summer,Bdd,KT Rulstir,Middle,36.0,3.4,71.2,438,75,75,75,2,50000
-618,618,19,Summer,ChiunGu,Jon Aor Griin Wongs,Middle,10.0,1.2,53.6,312,60,60,60,5,10000
-619,619,19,Summer,Chuvy,Groffon,Middle,69.0,5.9,59.8,378,75,65,75,2,50000
-620,620,19,Summer,Duvi,Loov SANDBOX,Middle,60.0,4.5,67.1,451,75,75,80,1,100000
-621,621,19,Summer,Fekir,SK Tilicum T1,Middle,62.0,3.3,62.3,448,75,70,75,2,50000
-622,622,19,Summer,Fley,Gin.G,Middle,67.0,4.8,61.7,376,60,70,75,3,30000
-623,623,19,Summer,Guro,SK Tilicum T1,Middle,0.0,1.0,75.0,228,80,75,60,2,50000
-624,624,19,Summer,Kazen,Gin.G,Middle,47.0,4.8,67.3,358,70,75,70,2,50000
-625,625,19,Summer,Leve,Henwhe Lofi Espurts,Middle,27.0,2.4,71.5,398,70,75,65,3,30000
-626,626,19,Summer,Neihyan,Kongzuni DregunX,Middle,50.0,4.1,66.8,366,70,75,70,2,50000
-627,627,19,Summer,Roch,Gin.G,Middle,40.0,1.4,58.1,314,60,60,60,5,10000
-628,628,19,Summer,Ruech,Gin.G,Middle,50.0,5.5,61.1,317,65,65,70,3,30000
-629,629,19,Summer,ShuwMekir,DWG KIA,Middle,64.0,7.2,70.7,444,80,80,80,1,100000
-630,630,19,Summer,Timpt,Henwhe Lofi Espurts,Middle,45.0,5.0,72.6,476,75,80,80,1,100000
-631,631,19,Summer,Acel,Afriice Friics,Middle,57.0,3.5,65.1,406,80,70,70,2,50000
-632,632,19,Summer,Yeherung,Jon Aor Griin Wongs,Middle,10.0,1.7,64.3,357,65,60,60,4,15000
-633,633,19,Summer,bunU,Henwhe Lofi Espurts,Jungle,41.0,3.0,72.7,185,65,70,65,3,30000
-634,634,19,Summer,Cenyun,DWG KIA,Jungle,65.0,4.0,74.0,274,70,75,80,2,50000
-635,635,19,Summer,Clod,SK Tilicum T1,Jungle,64.0,4.4,73.3,211,75,75,75,2,50000
-636,636,19,Summer,Cazz,Kongzuni DregunX,Jungle,50.0,3.3,72.0,276,75,70,80,2,50000
-637,637,19,Summer,Dried,Afriice Friics,Jungle,57.0,2.8,66.7,225,75,65,70,3,30000
-638,638,19,Summer,Hera,SK Tilicum T1,Jungle,25.0,4.2,73.5,221,70,65,75,3,30000
-639,639,19,Summer,Melreng,Jon Aor Griin Wongs,Jungle,9.0,2.1,73.9,216,70,60,65,4,15000
-640,640,19,Summer,MuuJon,Henwhe Lofi Espurts,Jungle,0.0,2.3,95.8,137,60,80,60,3,30000
-641,641,19,Summer,UnFliik,Loov SANDBOX,Jungle,60.0,3.3,71.3,211,75,70,70,2,50000
-642,642,19,Summer,Pienat,Gin.G,Jungle,56.0,3.6,69.9,159,65,70,65,3,30000
-643,643,19,Summer,Panch,DWG KIA,Jungle,0.0,1.0,100.0,146,80,80,60,2,50000
-644,644,19,Summer,Scuri,KT Rulstir,Jungle,37.0,2.6,69.7,196,70,65,65,3,30000
-645,645,19,Summer,Siozi,Jon Aor Griin Wongs,Jungle,20.0,1.4,72.4,265,60,65,70,4,15000
-646,646,19,Summer,SiungHwen,Gin.G,Jungle,33.0,2.4,70.6,169,70,65,60,4,15000
-647,647,19,Summer,Terzen,Groffon,Jungle,69.0,6.2,72.0,230,80,75,80,1,100000
-648,648,19,Summer,AmTo,KT Rulstir,Jungle,33.0,3.1,65.7,164,65,60,65,4,15000
-649,649,19,Summer,Eomong,Afriice Friics,ADC,57.0,5.2,70.7,566,80,75,80,1,100000
-650,650,19,Summer,Dift,Kongzuni DregunX,ADC,50.0,3.6,72.2,526,70,75,70,2,50000
-651,651,19,Summer,Ghust,Loov SANDBOX,ADC,60.0,4.0,71.1,420,65,75,60,3,30000
-652,652,19,Summer,Naclier,DWG KIA,ADC,64.0,6.2,66.9,457,60,70,70,3,30000
-653,653,19,Summer,PreY,KT Rulstir,ADC,36.0,2.7,60.7,393,70,60,60,4,15000
-654,654,19,Summer,Ruati,Jon Aor Griin Wongs,ADC,10.0,2.2,73.8,437,65,70,60,4,15000
-655,655,19,Summer,Ralir,Gin.G,ADC,55.0,5.3,76.6,489,65,80,75,2,50000
-656,656,19,Summer,Sengyuun,Henwhe Lofi Espurts,ADC,36.0,4.1,63.6,461,70,60,65,4,15000
-657,657,19,Summer,Tiddy,SK Tilicum T1,ADC,60.0,6.0,64.8,511,80,65,75,2,50000
-658,658,19,Summer,Vopir,Groffon,ADC,69.0,8.5,72.4,526,75,80,80,1,100000
-659,659,19,Summer,BiryL,DWG KIA,Support,65.0,3.5,69.5,154,75,75,75,2,50000
-660,660,19,Summer,Iffurt,SK Tilicum T1,Support,74.0,4.8,66.1,118,60,75,75,3,30000
-661,661,19,Summer,Huot,DWG KIA,Support,0.0,0.0,0.0,27,60,60,60,5,10000
-662,662,19,Summer,Jukir,Loov SANDBOX,Support,60.0,2.6,69.6,150,65,75,70,3,30000
-663,663,19,Summer,Killon,Jon Aor Griin Wongs,Support,6.0,1.5,67.3,166,65,65,70,3,30000
-664,664,19,Summer,Kisho,Afriice Friics,Support,57.0,2.4,58.0,125,70,70,65,3,30000
-665,665,19,Summer,Kiy,Henwhe Lofi Espurts,Support,36.0,2.6,66.1,120,70,70,65,3,30000
-666,666,19,Summer,Lihinds,Groffon,Support,69.0,5.9,70.9,173,80,75,80,1,100000
-667,667,19,Summer,Lofi,Gin.G,Support,55.0,5.0,74.4,167,80,75,80,1,100000
-668,668,19,Summer,Mete,SK Tilicum T1,Support,38.0,3.3,65.4,130,60,70,70,3,30000
-669,669,19,Summer,Nuve,Jon Aor Griin Wongs,Support,22.0,2.1,78.6,163,75,75,70,2,50000
-670,670,19,Summer,SnuwFluwir,KT Rulstir,Support,36.0,2.1,62.1,149,75,70,70,2,50000
-671,671,19,Summer,TasoN,Kongzuni DregunX,Support,50.0,2.9,67.8,150,75,75,70,2,50000
-672,672,19,Summer,CaVii,Gin.G,Top,52.0,2.5,62.8,379,65,75,70,3,30000
-673,673,19,Summer,Duren,Groffon,Top,68.0,3.2,56.0,419,70,75,75,2,50000
-674,674,19,Summer,Flemi,DWG KIA,Top,0.0,0.4,40.0,345,80,60,60,3,30000
-675,675,19,Summer,Khen,SK Tilicum T1,Top,60.0,2.6,59.1,419,70,75,75,2,50000
-676,676,19,Summer,Koon,Afriice Friics,Top,57.0,3.0,57.6,400,80,75,75,1,100000
-677,677,19,Summer,Kongin,KT Rulstir,Top,50.0,3.8,57.0,362,65,70,75,3,30000
-678,678,19,Summer,Londereng,Jon Aor Griin Wongs,Top,14.0,1.4,53.8,310,65,65,60,4,15000
-679,679,19,Summer,Nagaro,DWG KIA,Top,67.0,3.4,66.1,572,75,80,80,1,100000
-680,680,19,Summer,Rescel,Kongzuni DregunX,Top,50.0,2.4,62.2,358,65,75,65,3,30000
-681,681,19,Summer,Ruech,Gin.G,Top,100.0,8.0,29.6,295,70,60,80,3,30000
-682,682,19,Summer,Smib,KT Rulstir,Top,20.0,1.4,51.3,324,65,60,60,4,15000
-683,683,19,Summer,SuHwen,Henwhe Lofi Espurts,Top,41.0,3.3,57.7,330,75,70,65,3,30000
-684,684,19,Summer,Sammot,Loov SANDBOX,Top,60.0,2.6,65.8,439,80,80,75,1,100000
-685,685,19,Summer,Swurd,Groffon,Top,70.0,4.0,58.3,385,80,75,75,1,100000
-686,686,19,Summer,TeNe,Jon Aor Griin Wongs,Top,0.0,1.4,65.3,292,70,70,60,3,30000
-687,687,19,Summer,Thel,Henwhe Lofi Espurts,Top,23.0,2.1,63.0,336,60,75,65,3,30000
-688,688,20,Spring,ELL ON,Afriice Friics,Middle,46.0,4.4,63.5,354,65,70,65,3,30000
-689,689,20,Spring,Bdd,Gin.G,Middle,70.0,6.7,74.4,465,75,80,80,1,100000
-690,690,20,Spring,Chuvy,DRK,Middle,67.0,5.6,64.1,555,80,75,80,1,100000
-691,691,20,Spring,Cuvir,SiulHeiOni Pronci,Middle,52.0,2.4,57.6,474,75,70,70,2,50000
-692,692,20,Spring,Duvi,Loov SANDBOX,Middle,41.0,3.1,63.5,407,70,70,65,3,30000
-693,693,20,Spring,Fekir,T2,Middle,68.0,5.6,66.5,462,70,75,75,2,50000
-694,694,20,Spring,FETI,Loov SANDBOX,Middle,14.0,3.3,70.9,552,80,70,75,2,50000
-695,695,20,Spring,Fley,Afriice Friics,Middle,39.0,2.8,66.9,377,60,70,65,4,15000
-696,696,20,Spring,Kioni,SiulHeiOni Pronci,Middle,22.0,2.2,57.5,434,75,65,65,3,30000
-697,697,20,Spring,Karu,KT Rulstir,Middle,52.0,4.7,72.2,431,80,75,75,1,100000
-698,698,20,Spring,Leve,Henwhe Lofi Espurts,Middle,33.0,2.3,66.7,527,70,70,70,3,30000
-699,699,20,Spring,Neihyan,Groffon,Middle,0.0,0.0,0.0,172,60,60,60,5,10000
-700,700,20,Spring,ShuwMekir,DWG KIA,Middle,51.0,4.9,70.0,467,75,75,75,2,50000
-701,701,20,Spring,SULKE,DRK,Middle,67.0,5.8,72.5,449,60,75,75,3,30000
-702,702,20,Spring,Timpt,Henwhe Lofi Espurts,Middle,38.0,2.9,68.5,450,70,70,70,3,30000
-703,703,20,Spring,Acel,Groffon,Middle,36.0,3.0,68.7,383,70,70,65,3,30000
-704,704,20,Spring,bunU,KT Rulstir,Jungle,59.0,4.1,78.9,213,80,80,70,1,100000
-705,705,20,Spring,Cenyun,DWG KIA,Jungle,51.0,3.3,67.4,217,65,60,70,4,15000
-706,706,20,Spring,Clod,Gin.G,Jungle,70.0,5.1,72.9,227,75,70,75,2,50000
-707,707,20,Spring,Cazz,T2,Jungle,69.0,6.1,74.3,261,75,75,80,1,100000
-708,708,20,Spring,Dried,Afriice Friics,Jungle,31.0,2.1,69.3,185,75,60,60,4,15000
-709,709,20,Spring,Illom,T2,Jungle,67.0,6.3,79.8,192,75,80,75,1,100000
-710,710,20,Spring,Flewliss,SiulHeiOni Pronci,Jungle,40.0,2.5,69.0,227,65,60,65,4,15000
-711,711,20,Spring,Hera,Henwhe Lofi Espurts,Jungle,38.0,2.6,75.0,233,75,70,65,3,30000
-712,712,20,Spring,Melreng,KT Rulstir,Jungle,0.0,1.9,82.6,146,60,75,60,4,15000
-713,713,20,Spring,UnFliik,Loov SANDBOX,Jungle,31.0,2.7,72.5,219,75,65,65,3,30000
-714,714,20,Spring,Panch,Loov SANDBOX,Jungle,47.0,4.0,79.3,196,65,80,70,2,50000
-715,715,20,Spring,Pyusok,DRK,Jungle,67.0,5.2,72.4,269,80,70,80,1,100000
-716,716,20,Spring,Sporot,Afriice Friics,Jungle,45.0,3.5,73.4,253,60,70,75,3,30000
-717,717,20,Spring,Terzen,Groffon,Jungle,36.0,3.1,70.2,201,70,60,65,4,15000
-718,718,20,Spring,Eomong,KT Rulstir,ADC,52.0,5.3,81.4,578,75,80,80,1,100000
-719,719,20,Spring,Dift,DRK,ADC,67.0,5.3,69.5,571,80,75,80,1,100000
-720,720,20,Spring,Ghust,DWG KIA,ADC,65.0,4.7,69.6,514,65,75,75,2,50000
-721,721,20,Spring,HyBroD,SiulHeiOni Pronci,ADC,43.0,3.6,71.0,616,65,75,80,2,50000
-722,722,20,Spring,Leve,Henwhe Lofi Espurts,ADC,60.0,3.0,65.9,412,60,70,60,4,15000
-723,723,20,Spring,Liu,Loov SANDBOX,ADC,42.0,4.1,65.8,411,70,65,65,3,30000
-724,724,20,Spring,Mystoc,Afriice Friics,ADC,43.0,2.8,69.1,494,70,70,65,3,30000
-725,725,20,Spring,Naclier,DWG KIA,ADC,42.0,3.8,64.4,402,60,65,60,4,15000
-726,726,20,Spring,Ruati,Loov SANDBOX,ADC,32.0,3.6,75.8,460,70,75,65,3,30000
-727,727,20,Spring,Ralir,Gin.G,ADC,70.0,7.0,67.0,537,75,75,80,1,100000
-728,728,20,Spring,KK,Afriice Friics,ADC,25.0,2.6,52.9,534,60,60,70,4,15000
-729,729,20,Spring,Tiddy,T2,ADC,68.0,7.1,74.0,550,75,80,80,1,100000
-730,730,20,Spring,Troggir,SiulHeiOni Pronci,ADC,17.0,1.5,55.8,420,80,60,60,3,30000
-731,731,20,Spring,Vopir,Groffon,ADC,36.0,3.9,72.2,509,80,70,70,2,50000
-732,732,20,Spring,Vste,Henwhe Lofi Espurts,ADC,37.0,3.4,70.9,433,60,70,65,4,15000
-733,733,20,Spring,Zinot,Henwhe Lofi Espurts,ADC,20.0,1.6,69.2,473,80,65,60,3,30000
-734,734,20,Spring,Bin,Afriice Friics,Support,0.0,0.7,33.3,193,60,60,70,4,15000
-735,735,20,Spring,BiryL,DWG KIA,Support,57.0,3.5,68.9,157,80,75,75,1,100000
-736,736,20,Spring,Iffurt,T2,Support,68.0,3.6,69.8,106,65,75,65,3,30000
-737,737,20,Spring,GurollE,Loov SANDBOX,Support,39.0,2.9,70.6,125,70,70,65,3,30000
-738,738,20,Spring,Huot,DWG KIA,Support,38.0,2.7,66.7,159,75,70,70,2,50000
-739,739,20,Spring,Jilly,Afriice Friics,Support,43.0,2.7,68.4,156,75,70,70,2,50000
-740,740,20,Spring,Jukir,Loov SANDBOX,Support,17.0,1.8,54.2,106,70,60,60,4,15000
-741,741,20,Spring,Kebboi,Groffon,Support,36.0,2.3,65.9,113,70,70,60,3,30000
-742,742,20,Spring,Killon,Gin.G,Support,64.0,4.6,68.0,72,70,75,65,3,30000
-743,743,20,Spring,Kiroe,DRK,Support,67.0,4.8,74.6,181,70,80,80,1,100000
-744,744,20,Spring,Lihinds,Henwhe Lofi Espurts,Support,38.0,2.7,79.0,165,70,75,75,2,50000
-745,745,20,Spring,Lofi,Gin.G,Support,73.0,5.5,66.7,158,80,75,80,1,100000
-746,746,20,Spring,Moe,SiulHeiOni Pronci,Support,50.0,2.8,60.8,163,60,65,75,3,30000
-747,747,20,Spring,Sicrit,SiulHeiOni Pronci,Support,38.0,2.3,70.5,129,70,70,65,3,30000
-748,748,20,Spring,TasoN,KT Rulstir,Support,52.0,3.5,75.2,140,75,75,70,2,50000
-749,749,20,Spring,Cenne,T2,Top,70.0,6.2,69.1,379,70,80,80,1,100000
-750,750,20,Spring,Chuvy,DRK,Top,67.0,5.0,37.5,467,80,60,80,2,50000
-751,751,20,Spring,CaVii,Henwhe Lofi Espurts,Top,38.0,1.9,62.1,415,75,70,70,2,50000
-752,752,20,Spring,Duren,DRK,Top,67.0,3.5,59.0,395,75,75,75,2,50000
-753,753,20,Spring,Huye,Groffon,Top,13.0,1.5,50.0,348,65,60,60,4,15000
-754,754,20,Spring,okssa,SiulHeiOni Pronci,Top,40.0,2.1,62.8,422,70,70,70,3,30000
-755,755,20,Spring,Koon,Afriice Friics,Top,41.0,2.5,64.7,471,80,75,75,1,100000
-756,756,20,Spring,Lunily,Loov SANDBOX,Top,42.0,2.6,73.6,398,65,80,70,2,50000
-757,757,20,Spring,Nagaro,DWG KIA,Top,51.0,2.4,65.6,511,75,75,80,1,100000
-758,758,20,Spring,Rescel,Gin.G,Top,70.0,4.0,60.4,366,75,75,75,2,50000
-759,759,20,Spring,Rey,KT Rulstir,Top,33.0,1.8,55.6,269,60,65,60,4,15000
-760,760,20,Spring,Ruech,T2,Top,50.0,2.1,57.4,320,60,70,60,4,15000
-761,761,20,Spring,SuHwen,KT Rulstir,Top,55.0,2.5,52.9,353,70,65,65,3,30000
-762,762,20,Spring,Sammot,Loov SANDBOX,Top,34.0,2.1,63.8,431,75,70,70,2,50000
-763,763,20,Spring,Swurd,Groffon,Top,36.0,2.0,58.1,312,65,65,60,4,15000
-764,764,20,Spring,Antere,Groffon,Top,56.0,2.2,51.2,365,70,65,65,3,30000
-765,765,20,Summer,Bdd,Gin.G,Middle,72.0,6.2,64.3,522,75,70,80,2,50000
-766,766,20,Summer,Chuvy,DRK,Middle,71.0,4.2,64.5,532,80,70,75,2,50000
-767,767,20,Summer,Cluzir,T2,Middle,86.0,6.1,55.1,482,80,60,75,2,50000
-768,768,20,Summer,Duvi,Loov SANDBOX,Middle,11.0,1.7,64.5,410,70,65,60,4,15000
-769,769,20,Summer,Fekir,T2,Middle,57.0,4.4,64.4,480,70,70,70,3,30000
-770,770,20,Summer,FETI,Loov SANDBOX,Middle,48.0,4.4,71.5,536,75,80,75,1,100000
-771,771,20,Summer,Fley,Afriice Friics,Middle,51.0,3.8,70.0,429,65,80,65,3,30000
-772,772,20,Summer,Kioni,SiulHeiOni Pronci,Middle,13.0,2.4,62.5,475,60,60,70,4,15000
-773,773,20,Summer,Karu,KT Rulstir,Middle,44.0,3.6,65.0,411,65,70,65,3,30000
-774,774,20,Summer,Kazen,Tiem Dynemocs,Middle,36.0,3.6,67.8,451,70,75,65,3,30000
-775,775,20,Summer,Leve,Henwhe Lofi Espurts,Middle,7.0,1.9,64.4,424,60,60,65,4,15000
-776,776,20,Summer,Mockiy,SiulHeiOni Pronci,Middle,15.0,1.6,66.3,406,65,65,60,4,15000
-777,777,20,Summer,Moria,Henwhe Lofi Espurts,Middle,25.0,2.0,65.0,394,60,65,60,4,15000
-778,778,20,Summer,ShuwMekir,DWG KIA,Middle,87.0,16.0,71.5,561,80,80,80,1,100000
-779,779,20,Summer,Acel,KT Rulstir,Middle,39.0,3.0,64.7,484,70,65,70,3,30000
-780,780,20,Summer,Biyund,Tiem Dynemocs,Jungle,36.0,2.5,69.9,208,70,75,65,3,30000
-781,781,20,Summer,bunU,KT Rulstir,Jungle,42.0,3.0,68.4,210,75,70,65,3,30000
-782,782,20,Summer,CeD,Henwhe Lofi Espurts,Jungle,25.0,2.0,75.7,204,65,80,60,3,30000
-783,783,20,Summer,Cenyun,DWG KIA,Jungle,87.0,7.0,66.6,329,80,75,80,1,100000
-784,784,20,Summer,Clod,Gin.G,Jungle,72.0,5.3,65.0,280,75,70,80,2,50000
-785,785,20,Summer,Cazz,T2,Jungle,69.0,4.9,63.0,264,80,65,75,2,50000
-786,786,20,Summer,Dried,Afriice Friics,Jungle,0.0,2.0,80.0,412,60,80,80,2,50000
-787,787,20,Summer,Illom,T2,Jungle,57.0,7.1,60.7,217,75,60,80,2,50000
-788,788,20,Summer,Flewliss,SiulHeiOni Pronci,Jungle,19.0,1.6,65.2,244,65,60,65,4,15000
-789,789,20,Summer,Hera,Henwhe Lofi Espurts,Jungle,19.0,1.5,64.2,213,70,60,60,4,15000
-790,790,20,Summer,Kame,SiulHeiOni Pronci,Jungle,0.0,1.5,66.7,298,75,60,65,3,30000
-791,791,20,Summer,Melreng,KT Rulstir,Jungle,40.0,2.0,63.1,282,65,60,65,4,15000
-792,792,20,Summer,UnFliik,Loov SANDBOX,Jungle,40.0,3.1,72.6,221,65,80,65,3,30000
-793,793,20,Summer,Pyusok,DRK,Jungle,71.0,4.3,72.1,326,80,80,80,1,100000
-794,794,20,Summer,Sporot,Afriice Friics,Jungle,54.0,3.5,70.6,256,70,75,70,2,50000
-795,795,20,Summer,YuangJei,Henwhe Lofi Espurts,Jungle,10.0,1.4,67.4,202,60,65,60,4,15000
-796,796,20,Summer,Eomong,KT Rulstir,ADC,42.0,4.5,73.4,608,70,80,75,2,50000
-797,797,20,Summer,Dift,DRK,ADC,71.0,4.8,67.4,565,80,75,75,1,100000
-798,798,20,Summer,diukdem,Tiem Dynemocs,ADC,36.0,3.2,68.8,461,60,70,65,4,15000
-799,799,20,Summer,Ghust,DWG KIA,ADC,87.0,7.3,62.7,460,60,70,75,3,30000
-800,800,20,Summer,HyBroD,SiulHeiOni Pronci,ADC,18.0,1.7,59.7,409,60,60,60,5,10000
-801,801,20,Summer,Mystoc,Afriice Friics,ADC,51.0,3.3,71.1,600,75,80,75,1,100000
-802,802,20,Summer,Ruati,Loov SANDBOX,ADC,40.0,3.2,65.4,462,65,65,65,4,15000
-803,803,20,Summer,Ralir,Gin.G,ADC,72.0,6.6,68.1,641,80,75,80,1,100000
-804,804,20,Summer,Tiddy,T2,ADC,67.0,7.8,70.6,564,75,80,80,1,100000
-805,805,20,Summer,Troggir,SiulHeiOni Pronci,ADC,8.0,1.6,59.8,453,70,60,60,4,15000
-806,806,20,Summer,Vopir,Henwhe Lofi Espurts,ADC,19.0,3.0,65.8,526,70,65,65,3,30000
-807,807,20,Summer,Bin,Afriice Friics,Support,54.0,3.3,66.1,141,65,75,70,3,30000
-808,808,20,Summer,BiryL,DWG KIA,Support,87.0,5.2,60.1,222,80,75,80,1,100000
-809,809,20,Summer,Iffurt,T2,Support,68.0,4.0,64.0,123,75,75,70,2,50000
-810,810,20,Summer,GurollE,Loov SANDBOX,Support,43.0,2.3,65.0,126,65,75,65,3,30000
-811,811,20,Summer,GaGir,Tiem Dynemocs,Support,36.0,2.3,65.7,194,70,75,70,2,50000
-812,812,20,Summer,Jilly,Afriice Friics,Support,0.0,0.6,43.8,172,60,60,60,5,10000
-813,813,20,Summer,Kebboi,Loov SANDBOX,Support,0.0,0.8,63.6,85,70,65,60,4,15000
-814,814,20,Summer,Killon,Gin.G,Support,57.0,4.1,68.1,160,60,75,75,3,30000
-815,815,20,Summer,Kiroe,DRK,Support,71.0,5.5,72.3,192,75,80,80,1,100000
-816,816,20,Summer,Karo,T2,Support,50.0,1.3,31.0,94,60,60,60,5,10000
-817,817,20,Summer,Lihinds,Henwhe Lofi Espurts,Support,19.0,2.4,69.1,137,75,75,65,2,50000
-818,818,20,Summer,Lofi,Gin.G,Support,75.0,4.1,60.4,141,60,75,75,3,30000
-819,819,20,Summer,Moe,SiulHeiOni Pronci,Support,8.0,1.1,56.1,209,65,60,65,4,15000
-820,820,20,Summer,Sicrit,SiulHeiOni Pronci,Support,18.0,1.6,62.5,153,65,65,65,4,15000
-821,821,20,Summer,Smib,KT Rulstir,Support,40.0,2.3,62.7,330,80,70,80,1,100000
-822,822,20,Summer,TasoN,KT Rulstir,Support,42.0,2.6,71.4,152,80,75,70,2,50000
-823,823,20,Summer,Cenne,T2,Top,67.0,5.2,61.9,470,70,75,80,2,50000
-824,824,20,Summer,CaVii,Henwhe Lofi Espurts,Top,9.0,1.1,58.1,358,60,60,60,5,10000
-825,825,20,Summer,Duren,DRK,Top,71.0,2.8,57.5,435,75,65,70,3,30000
-826,826,20,Summer,DaDa,Henwhe Lofi Espurts,Top,23.0,1.6,60.5,405,70,65,60,4,15000
-827,827,20,Summer,okssa,SiulHeiOni Pronci,Top,15.0,1.1,61.5,393,60,65,60,4,15000
-828,828,20,Summer,Koon,Afriice Friics,Top,51.0,2.7,58.5,451,80,65,70,2,50000
-829,829,20,Summer,Nagaro,DWG KIA,Top,87.0,5.2,58.6,571,80,70,80,1,100000
-830,830,20,Summer,Rescel,Gin.G,Top,72.0,4.0,58.9,409,80,70,70,2,50000
-831,831,20,Summer,Roch,Tiem Dynemocs,Top,36.0,2.0,66.7,497,65,80,70,2,50000
-832,832,20,Summer,Smib,KT Rulstir,Top,44.0,2.7,64.4,469,65,80,70,2,50000
-833,833,20,Summer,SuHwen,KT Rulstir,Top,39.0,3.1,66.3,428,65,80,70,2,50000
-834,834,20,Summer,Sammot,Loov SANDBOX,Top,40.0,1.8,60.1,473,70,65,70,3,30000
-835,835,21,Spring,Bey,Nungshom RidFurci,Middle,43.0,2.9,63.0,416,65,70,65,3,30000
-836,836,21,Spring,Bdd,Gin.G,Middle,68.0,5.2,63.6,508,80,75,75,1,100000
-837,837,21,Spring,Choifteon,Fridot BRION,Middle,0.0,0.3,50.0,362,65,60,60,4,15000
-838,838,21,Spring,Chuvy,Henwhe Lofi Espurts,Middle,59.0,5.4,68.9,589,80,75,80,1,100000
-839,839,21,Spring,Cluzir,T2,Middle,57.0,3.7,63.5,472,80,75,70,2,50000
-840,840,21,Spring,Duvi,KT Rulstir,Middle,47.0,3.3,59.7,423,70,70,70,3,30000
-841,841,21,Spring,Fekir,T2,Middle,65.0,5.7,68.8,464,75,75,75,2,50000
-842,842,21,Spring,FETI,Loov SANDBOX,Middle,38.0,5.0,73.8,527,75,75,75,2,50000
-843,843,21,Spring,Fley,Afriice Friics,Middle,38.0,2.7,64.2,423,70,70,65,3,30000
-844,844,21,Spring,Keros,Gin.G,Middle,33.0,1.7,45.5,278,60,65,60,4,15000
-845,845,21,Spring,Leve,Fridot BRION,Middle,29.0,3.2,75.2,438,70,75,70,2,50000
-846,846,21,Spring,ShuwMekir,DWG KIA,Middle,77.0,6.5,67.9,552,75,75,80,1,100000
-847,847,21,Spring,SULKE,DRK,Middle,45.0,3.4,67.6,474,70,75,70,2,50000
-848,848,21,Spring,Acel,KT Rulstir,Middle,36.0,3.2,64.8,544,70,70,75,2,50000
-849,849,21,Spring,AmTo,Fridot BRION,Middle,0.0,0.0,0.0,160,60,60,60,5,10000
-850,850,21,Spring,Yeherung,Fridot BRION,Middle,44.0,4.6,73.1,453,70,75,75,2,50000
-851,851,21,Spring,Erthar,Henwhe Lofi Espurts,Jungle,52.0,3.5,66.4,312,75,70,70,2,50000
-852,852,21,Spring,Blenk,KT Rulstir,Jungle,53.0,3.9,63.4,275,60,65,65,4,15000
-853,853,21,Spring,Bunnoi,KT Rulstir,Jungle,33.0,1.9,56.9,254,60,60,60,5,10000
-854,854,21,Spring,Cenyun,DWG KIA,Jungle,77.0,4.6,68.9,422,80,75,80,1,100000
-855,855,21,Spring,Choifteon,Fridot BRION,Jungle,0.0,1.3,100.0,281,70,80,60,3,30000
-856,856,21,Spring,Clod,Gin.G,Jungle,67.0,4.4,68.9,306,70,75,70,2,50000
-857,857,21,Spring,Crucu,Loov SANDBOX,Jungle,42.0,3.2,70.9,295,75,70,65,3,30000
-858,858,21,Spring,Cazz,T2,Jungle,77.0,6.8,69.0,381,75,75,80,1,100000
-859,859,21,Spring,Dried,Afriice Friics,Jungle,38.0,3.6,73.1,359,75,70,75,2,50000
-860,860,21,Spring,Illom,T2,Jungle,55.0,5.1,67.5,253,75,70,70,2,50000
-861,861,21,Spring,Flewliss,Gin.G,Jungle,60.0,4.4,59.3,277,60,65,70,4,15000
-862,862,21,Spring,GODIUN,KT Rulstir,Jungle,32.0,2.6,68.6,238,60,65,60,4,15000
-863,863,21,Spring,Unir,T2,Jungle,56.0,3.6,74.8,390,80,75,80,1,100000
-864,864,21,Spring,UnFliik,Loov SANDBOX,Jungle,0.0,1.9,56.8,228,65,60,60,4,15000
-865,865,21,Spring,Pienat,Nungshom RidFurci,Jungle,43.0,3.4,71.8,379,65,70,75,3,30000
-866,866,21,Spring,Pyusok,DRK,Jungle,45.0,3.0,71.6,397,70,70,75,2,50000
-867,867,21,Spring,AmTo,Fridot BRION,Jungle,32.0,3.2,77.2,309,75,75,70,2,50000
-868,868,21,Spring,yuHen,Henwhe Lofi Espurts,Jungle,71.0,3.1,63.3,329,70,70,70,3,30000
-869,869,21,Spring,Beng,Afriice Friics,ADC,38.0,3.2,59.3,411,70,60,65,4,15000
-870,870,21,Spring,BEU,DRK,ADC,45.0,3.2,63.9,431,60,70,65,4,15000
-871,871,21,Spring,Dift,Henwhe Lofi Espurts,ADC,59.0,3.8,65.1,571,75,75,80,1,100000
-872,872,21,Spring,diukdem,Nungshom RidFurci,ADC,43.0,3.6,68.1,452,80,75,70,2,50000
-873,873,21,Spring,Ghust,DWG KIA,ADC,77.0,5.7,66.3,486,65,80,80,2,50000
-874,874,21,Spring,Gameyaso,T2,ADC,48.0,4.3,71.1,405,80,75,70,2,50000
-875,875,21,Spring,Hine,Fridot BRION,ADC,31.0,3.5,77.0,394,70,80,65,2,50000
-876,876,21,Spring,HyBroD,KT Rulstir,ADC,40.0,3.1,61.4,370,75,65,60,3,30000
-877,877,21,Spring,Liu,Loov SANDBOX,ADC,33.0,2.4,50.4,346,60,60,60,5,10000
-878,878,21,Spring,Nueh,KT Rulstir,ADC,40.0,2.9,71.6,410,60,75,65,3,30000
-879,879,21,Spring,Pronci,Loov SANDBOX,ADC,45.0,3.3,61.3,464,65,65,70,3,30000
-880,880,21,Spring,Ruati,Loov SANDBOX,ADC,27.0,2.9,60.5,341,70,60,60,4,15000
-881,881,21,Spring,Ralir,Gin.G,ADC,66.0,4.7,61.1,455,80,70,75,2,50000
-882,882,21,Spring,Tiddy,T2,ADC,74.0,5.8,70.5,577,75,80,80,1,100000
-883,883,21,Spring,Bicce,DRK,Support,45.0,2.3,67.2,130,65,70,60,4,15000
-884,884,21,Spring,BiryL,DWG KIA,Support,77.0,2.9,67.7,219,80,75,80,1,100000
-885,885,21,Spring,Diloght,Fridot BRION,Support,31.0,2.5,77.3,122,65,80,65,3,30000
-886,886,21,Spring,Iffurt,Loov SANDBOX,Support,38.0,2.0,61.9,121,75,60,60,4,15000
-887,887,21,Spring,Killon,Nungshom RidFurci,Support,43.0,2.6,70.0,150,70,75,70,2,50000
-888,888,21,Spring,Kiroe,T2,Support,61.0,3.5,69.0,179,80,75,80,1,100000
-889,889,21,Spring,Lihinds,Afriice Friics,Support,39.0,2.5,66.3,157,70,70,65,3,30000
-890,890,21,Spring,Lofi,Gin.G,Support,66.0,3.2,60.0,130,65,60,75,3,30000
-891,891,21,Spring,MepSSo,Afriice Friics,Support,0.0,2.4,63.2,301,60,60,80,3,30000
-892,892,21,Spring,Vste,Henwhe Lofi Espurts,Support,59.0,3.0,65.8,177,75,70,75,2,50000
-893,893,21,Spring,Zzas,KT Rulstir,Support,40.0,2.3,66.0,98,60,65,60,4,15000
-894,894,21,Spring,Cenne,T2,Top,60.0,3.1,59.6,435,70,70,70,3,30000
-895,895,21,Spring,Duren,KT Rulstir,Top,40.0,2.5,60.2,483,75,70,70,2,50000
-896,896,21,Spring,DaDa,Henwhe Lofi Espurts,Top,13.0,2.3,55.6,497,75,60,70,3,30000
-897,897,21,Spring,Huye,Fridot BRION,Top,31.0,2.1,58.4,350,60,60,60,5,10000
-898,898,21,Spring,Khen,DWG KIA,Top,77.0,4.0,60.4,502,70,75,80,2,50000
-899,899,21,Spring,Koon,Afriice Friics,Top,38.0,2.4,58.5,489,80,65,70,2,50000
-900,900,21,Spring,Kongin,DRK,Top,45.0,2.8,65.8,466,80,80,70,1,100000
-901,901,21,Spring,Murgen,Henwhe Lofi Espurts,Top,69.0,4.1,58.3,416,60,70,80,3,30000
-902,902,21,Spring,Rescel,Gin.G,Top,66.0,3.1,59.2,396,75,70,65,3,30000
-903,903,21,Spring,Roch,Nungshom RidFurci,Top,43.0,2.3,60.1,482,60,70,70,3,30000
-904,904,21,Spring,Sammot,Loov SANDBOX,Top,38.0,2.3,62.9,490,75,75,70,2,50000
-905,905,21,Spring,Zias,T2,Top,63.0,3.1,59.3,421,75,70,70,2,50000
+0,0,15,Spring,Eci,Semsang Gelexy,Middle,40,2.1,67.3,478,70,65,65,3,30000
+1,1,15,Spring,BlosS,Semsang Gelexy,Middle,9,1.4,63.3,325,60,60,60,5,10000
+2,2,15,Spring,Cucu,CJ Intas,Middle,63,4.7,69.2,571,80,75,75,1,100000
+3,3,15,Spring,Iesyhuun,SK Tilicum T1,Middle,75,9.2,71,533,80,80,80,1,100000
+4,4,15,Spring,Fekir,SK Tilicum T1,Middle,70,4.4,71.2,687,80,80,80,1,100000
+5,5,15,Spring,Fruzin,Oncridobli Morecli,Middle,26,3.4,69.4,531,70,70,70,3,30000
+6,6,15,Spring,GBM,Jon Eor Griin Wongs,Middle,53,4.9,74,571,65,80,75,2,50000
+7,7,15,Spring,Gguung,NeJon i-mFori,Middle,40,3.3,67.9,500,60,65,65,4,15000
+8,8,15,Spring,Karu,RUX Togirs,Middle,81,5,66.5,550,75,70,75,2,50000
+9,9,15,Spring,Negni,KT Rulstir,Middle,45,2.8,66.4,428,70,65,60,4,15000
+10,10,15,Spring,Tenk,NeJon i-mFori,Middle,46,3.1,68.9,473,75,70,65,3,30000
+11,11,15,Spring,Embotoun,CJ Intas,Jungle,63,4,72.1,229,80,75,80,1,100000
+12,12,15,Spring,Eris,Oncridobli Morecli,Jungle,7,1.7,79.1,157,65,75,60,3,30000
+13,13,15,Spring,Bingo,SK Tilicum T1,Jungle,65,3.1,68.3,158,60,65,65,4,15000
+14,14,15,Spring,Chesir,Jon Eor Griin Wongs,Jungle,55,4.7,77.9,162,70,80,70,2,50000
+15,15,15,Spring,Ivi,Semsang Gelexy,Jungle,19,2.3,73.9,264,70,70,80,2,50000
+16,16,15,Spring,Hujon,RUX Togirs,Jungle,81,4.2,68.6,195,65,70,75,3,30000
+17,17,15,Spring,Pienat,NeJon i-mFori,Jungle,36,2.6,71.4,211,60,70,70,3,30000
+18,18,15,Spring,Scuri,KT Rulstir,Jungle,45,3,77.7,162,70,80,65,2,50000
+19,19,15,Spring,Tum,SK Tilicum T1,Jungle,100,8.1,65,163,80,65,80,2,50000
+20,20,15,Spring,Wetch,NeJon i-mFori,Jungle,45,3,72.5,188,65,70,70,3,30000
+21,21,15,Spring,Wongid,Jon Eor Griin Wongs,Jungle,0,1.5,60,135,80,60,60,3,30000
+22,22,15,Spring,Wosdum,Oncridobli Morecli,Jungle,44,2.4,76.6,187,75,75,65,2,50000
+23,23,15,Spring,Erruw,KT Rulstir,ADC,45,3.8,73.7,438,65,75,60,3,30000
+24,24,15,Spring,Beng,SK Tilicum T1,ADC,72,6.4,69.7,547,75,65,80,2,50000
+25,25,15,Spring,Cpt Jeck,Jon Eor Griin Wongs,ADC,75,4.4,68,510,65,65,70,3,30000
+26,26,15,Spring,Fary,Semsang Gelexy,ADC,19,2.8,74.6,503,70,70,65,3,30000
+27,27,15,Spring,Uhq,NeJon i-mFori,ADC,44,4.2,73.1,492,80,70,65,2,50000
+28,28,15,Spring,Polut,Jon Eor Griin Wongs,ADC,40,4.7,78.1,568,70,80,75,2,50000
+29,29,15,Spring,PreY,RUX Togirs,ADC,81,7.8,70.5,588,75,75,80,1,100000
+30,30,15,Spring,Sunster,Oncridobli Morecli,ADC,26,2.6,69.8,449,60,60,60,5,10000
+31,31,15,Spring,Speci,CJ Intas,ADC,63,5,72.7,602,65,75,80,2,50000
+32,32,15,Spring,Zife,NeJon i-mFori,ADC,33,4.3,70.3,389,75,60,60,4,15000
+33,33,15,Spring,Ceon,NeJon i-mFori,Support,35,2.4,63.5,128,80,60,65,3,30000
+34,34,15,Spring,Chio,Jon Eor Griin Wongs,Support,52,3.3,72.7,103,65,70,65,3,30000
+35,35,15,Spring,Foxir,KT Rulstir,Support,59,3.5,72.1,129,75,75,75,2,50000
+36,36,15,Spring,GurollE,RUX Togirs,Support,81,4.5,70.1,116,65,70,75,3,30000
+37,37,15,Spring,Hecheno,KT Rulstir,Support,31,1.7,72,122,65,65,60,4,15000
+38,38,15,Spring,MedLofi,CJ Intas,Support,63,4,71.9,136,60,75,80,2,50000
+39,39,15,Spring,Poccebuu,SK Tilicum T1,Support,67,3.8,69.6,150,65,70,80,2,50000
+40,40,15,Spring,Pari,NeJon i-mFori,Support,54,3.5,70.6,106,80,70,65,2,50000
+41,41,15,Spring,Swiit,Jon Eor Griin Wongs,Support,67,6.2,78.7,84,60,80,70,3,30000
+42,42,15,Spring,TasoN,Oncridobli Morecli,Support,26,2.1,75.8,110,80,75,60,2,50000
+43,43,15,Spring,Wulf,SK Tilicum T1,Support,75,5.7,71.4,142,80,75,80,1,100000
+44,44,15,Spring,Wreoth,Semsang Gelexy,Support,19,2.3,71.2,107,60,65,60,4,15000
+45,45,15,Spring,CaVii,Semsang Gelexy,Top,19,1.8,71.5,348,60,75,60,4,15000
+46,46,15,Spring,Daki,NeJon i-mFori,Top,42,3.2,63.9,404,80,65,70,2,50000
+47,47,15,Spring,Lolec,Oncridobli Morecli,Top,26,1.4,63,367,60,60,60,5,10000
+48,48,15,Spring,MeRon,SK Tilicum T1,Top,72,4,58,408,75,65,75,2,50000
+49,49,15,Spring,Shay,CJ Intas,Top,63,4.3,61.2,378,70,65,75,3,30000
+50,50,15,Spring,Smib,RUX Togirs,Top,81,5.4,72.2,445,80,80,80,1,100000
+51,51,15,Spring,Ssamdey,KT Rulstir,Top,45,3.7,61.9,357,70,65,65,3,30000
+52,52,15,Spring,TrEci,Jon Eor Griin Wongs,Top,53,3.8,64.6,362,65,70,70,3,30000
+53,53,15,Summer,Cucu,CJ Intas,Middle,59,4.3,74.8,674,75,80,80,1,100000
+54,54,15,Summer,Cruwn,Semsang Gelexy,Middle,37,2.6,63.7,478,75,65,60,3,30000
+55,55,15,Summer,DU OT,SBINA Kurie,Middle,0,1.2,66.7,482,60,60,60,5,10000
+56,56,15,Summer,Iesyhuun,SK Tilicum T1,Middle,92,4.3,63,585,80,70,75,2,50000
+57,57,15,Summer,Idgi,KT Rulstir,Middle,50,3.3,66.7,526,75,70,65,3,30000
+58,58,15,Summer,Fekir,SK Tilicum T1,Middle,83,5.4,66.9,656,80,75,80,1,100000
+59,59,15,Summer,Fruzin,Oncridobli Morecli,Middle,29,2.7,68.1,536,65,65,65,4,15000
+60,60,15,Summer,GBM,Jon Eor Griin Wongs,Middle,52,5.8,72.2,483,65,75,75,2,50000
+61,61,15,Summer,Gguung,NeJon i-mFori,Middle,57,4.4,71.4,525,70,75,70,2,50000
+62,62,15,Summer,Karu,RUX Togirs,Middle,62,6,73.3,573,65,80,80,2,50000
+63,63,15,Summer,Kazen,Jon Eor Griin Wongs,Middle,56,3.6,66.3,435,80,70,60,3,30000
+64,64,15,Summer,Mockiy,Ribils Enerchy,Middle,37,2.2,72.1,561,70,75,65,3,30000
+65,65,15,Summer,Negni,KT Rulstir,Middle,67,5.1,71,553,75,75,75,2,50000
+66,66,15,Summer,SeSon,SBINA Kurie,Middle,20,1.9,69.8,499,60,70,60,4,15000
+67,67,15,Summer,Tenk,NeJon i-mFori,Middle,100,6,42.9,498,60,60,75,4,15000
+68,68,15,Summer,Embotoun,CJ Intas,Jungle,62,4.2,76.2,249,75,75,75,2,50000
+69,69,15,Summer,Bingo,SK Tilicum T1,Jungle,83,5.5,64.4,264,70,65,80,2,50000
+70,70,15,Summer,BlosS,Semsang Gelexy,Jungle,0,3,100,213,80,80,65,2,50000
+71,71,15,Summer,Cetch,SBINA Kurie,Jungle,19,1.8,70,191,65,65,60,4,15000
+72,72,15,Summer,Chesir,Jon Eor Griin Wongs,Jungle,53,4.9,77.9,245,70,75,75,2,50000
+73,73,15,Summer,Ivi,Semsang Gelexy,Jungle,38,3.2,72.6,246,65,70,70,3,30000
+74,74,15,Summer,Hujon,RUX Togirs,Jungle,76,7.4,75.2,260,65,75,80,2,50000
+75,75,15,Summer,Lolec,Oncridobli Morecli,Jungle,0,1,78.6,227,60,70,60,4,15000
+76,76,15,Summer,Lore,Ribils Enerchy,Jungle,37,2.6,73.3,219,75,70,65,3,30000
+77,77,15,Summer,Niu,Oncridobli Morecli,Jungle,40,1.6,51.1,173,75,60,60,4,15000
+78,78,15,Summer,Pienat,NeJon i-mFori,Jungle,100,10,71.4,315,80,75,80,1,100000
+79,79,15,Summer,Scuri,KT Rulstir,Jungle,64,5.7,71.5,211,65,70,70,3,30000
+80,80,15,Summer,Tum,SK Tilicum T1,Jungle,100,3.7,60.5,170,65,65,60,4,15000
+81,81,15,Summer,Trock,CJ Intas,Jungle,43,3.4,79.5,277,70,75,75,2,50000
+82,82,15,Summer,TasoN,Oncridobli Morecli,Jungle,29,2.7,71.7,242,70,65,70,3,30000
+83,83,15,Summer,Wetch,NeJon i-mFori,Jungle,57,3.9,70.1,227,70,70,70,3,30000
+84,84,15,Summer,Wongid,Jon Eor Griin Wongs,Jungle,50,6.7,71.4,129,60,70,65,4,15000
+85,85,15,Summer,Wosdum,RUX Togirs,Jungle,52,3.1,67.7,225,75,65,65,3,30000
+86,86,15,Summer,Erruw,KT Rulstir,ADC,64,7.1,73.5,549,70,80,80,1,100000
+87,87,15,Summer,Beng,SK Tilicum T1,ADC,85,6,60.2,567,80,60,80,2,50000
+88,88,15,Summer,Cpt Jeck,Jon Eor Griin Wongs,ADC,50,5.1,68.6,511,80,70,70,2,50000
+89,89,15,Summer,DEN,SBINA Kurie,ADC,0,3,75,288,60,70,60,4,15000
+90,90,15,Summer,Fary,Semsang Gelexy,ADC,37,3.5,75,525,80,75,70,2,50000
+91,91,15,Summer,Naclier,SBINA Kurie,ADC,19,2.8,75.1,466,60,75,60,4,15000
+92,92,15,Summer,Uhq,NeJon i-mFori,ADC,58,5.7,70.4,532,80,75,75,1,100000
+93,93,15,Summer,Peregun,Oncridobli Morecli,ADC,100,12,52.2,453,60,60,80,3,30000
+94,94,15,Summer,Polut,Jon Eor Griin Wongs,ADC,54,6.3,79.9,494,70,80,75,2,50000
+95,95,15,Summer,PreY,RUX Togirs,ADC,62,4.5,73.3,571,65,75,75,2,50000
+96,96,15,Summer,Ruer,Oncridobli Morecli,ADC,28,2.6,68.2,517,70,65,65,3,30000
+97,97,15,Summer,Sengyuun,Ribils Enerchy,ADC,37,2.6,63.8,466,70,60,60,4,15000
+98,98,15,Summer,Sunster,Oncridobli Morecli,ADC,22,3.8,76,571,70,75,75,2,50000
+99,99,15,Summer,Speci,CJ Intas,ADC,59,3.7,68.8,579,75,70,75,2,50000
+100,100,15,Summer,Chio,Jon Eor Griin Wongs,Support,46,3.7,70.9,112,65,70,70,3,30000
+101,101,15,Summer,Foxir,KT Rulstir,Support,52,3.9,73.2,131,80,75,75,1,100000
+102,102,15,Summer,GurollE,RUX Togirs,Support,62,3.7,76.1,161,70,75,80,2,50000
+103,103,15,Summer,OgNer,Oncridobli Morecli,Support,29,2.5,75.2,122,65,70,65,3,30000
+104,104,15,Summer,Lane,Semsang Gelexy,Support,27,1.6,61.6,135,60,60,65,4,15000
+105,105,15,Summer,MedLofi,CJ Intas,Support,64,4.4,74.7,147,75,75,80,1,100000
+106,106,15,Summer,Mex,CJ Intas,Support,0,0.5,45,70,60,60,60,5,10000
+107,107,15,Summer,Poccebuu,KT Rulstir,Support,74,4.4,72.1,113,75,75,70,2,50000
+108,108,15,Summer,Pari,NeJon i-mFori,Support,58,3.3,68,123,75,70,70,2,50000
+109,109,15,Summer,Sicrit,SBINA Kurie,Support,21,1.4,68.7,123,65,65,65,4,15000
+110,110,15,Summer,SnuwFluwir,Ribils Enerchy,Support,37,1.9,70,144,70,70,70,3,30000
+111,111,15,Summer,Swiit,Jon Eor Griin Wongs,Support,61,3.8,74.8,112,70,75,70,2,50000
+112,112,15,Summer,vovoD,SBINA Kurie,Support,11,1.9,78.7,125,80,75,65,2,50000
+113,113,15,Summer,Wulf,SK Tilicum T1,Support,85,7.2,70.4,103,75,75,80,1,100000
+114,114,15,Summer,Wreoth,Semsang Gelexy,Support,48,5,76.2,108,70,75,75,2,50000
+115,115,15,Summer,Eppli,Oncridobli Morecli,Top,24,2.3,65.8,371,65,70,65,3,30000
+116,116,15,Summer,CaVii,Semsang Gelexy,Top,37,2.3,64.7,361,70,70,65,3,30000
+117,117,15,Summer,cvMex,Ribils Enerchy,Top,33,2.4,65,434,75,70,70,2,50000
+118,118,15,Summer,Daki,NeJon i-mFori,Top,58,4.4,64.7,355,80,70,75,2,50000
+119,119,15,Summer,Ixpissoun,Oncridobli Morecli,Top,31,1.3,51.9,344,60,60,60,5,10000
+120,120,15,Summer,Hilpir,CJ Intas,Top,38,2,67.9,420,65,75,70,3,30000
+121,121,15,Summer,okssa,Ribils Enerchy,Top,37,2.1,68.9,343,65,75,65,3,30000
+122,122,15,Summer,Lolec,Oncridobli Morecli,Top,50,2.7,61.4,433,65,65,75,3,30000
+123,123,15,Summer,MeRon,SK Tilicum T1,Top,85,4.9,62,512,80,75,80,1,100000
+124,124,15,Summer,Shay,CJ Intas,Top,63,4,64.3,396,70,75,75,2,50000
+125,125,15,Summer,Smib,RUX Togirs,Top,62,4.4,70.4,440,80,80,80,1,100000
+126,126,15,Summer,SueR,SBINA Kurie,Top,0,0.6,52.6,261,60,60,60,5,10000
+127,127,15,Summer,Sual,SBINA Kurie,Top,21,1.7,67.4,389,60,70,65,4,15000
+128,128,15,Summer,Ssamdey,KT Rulstir,Top,64,5.2,71,359,80,80,75,1,100000
+129,129,15,Summer,TrEci,Jon Eor Griin Wongs,Top,52,4.2,68.5,365,70,75,75,2,50000
+130,130,16,Spring,Bdd,CJ Intas,Middle,41,3.2,83.3,500,65,80,70,2,50000
+131,131,16,Spring,Cucu,Lungzha Gemong,Middle,45,2.9,68.4,574,65,60,75,3,30000
+132,132,16,Spring,Cruwn,Semsang Gelexy,Middle,50,3.5,75.1,557,75,70,75,2,50000
+133,133,16,Spring,Idgi,Kungduu Munstir,Middle,20,2.9,73.5,553,75,65,70,3,30000
+134,134,16,Spring,Idgi,i-mFori,Middle,17,2.6,70,463,70,60,60,4,15000
+135,135,16,Spring,Fekir,SK Tilicum T1,Middle,65,4.2,74.1,638,80,75,80,1,100000
+136,136,16,Spring,Flay,KT Rulstir,Middle,67,4.6,72.6,497,65,70,75,3,30000
+137,137,16,Spring,Fruzin,Lungzha Gemong,Middle,60,4.7,69.6,482,75,65,70,3,30000
+138,138,16,Spring,Karu,RUX Togirs,Middle,83,7.2,68.8,530,75,70,80,2,50000
+139,139,16,Spring,Kazen,Jon Eor Griin Wongs,Middle,55,4.3,73.2,493,80,70,70,2,50000
+140,140,16,Spring,Mockiy,Efriice Friics,Middle,52,3.3,69.8,504,75,65,70,3,30000
+141,141,16,Spring,SeSon,SBINA Kurie,Middle,22,2,76,528,60,65,65,4,15000
+142,142,16,Spring,Scuat,SK Tilicum T1,Middle,0,1,100,379,60,80,60,3,30000
+143,143,16,Spring,Sky,CJ Intas,Middle,42,2.8,69.8,462,60,65,65,4,15000
+144,144,16,Spring,Embotoun,Semsang Gelexy,Jungle,50,3.3,74.1,386,80,75,80,1,100000
+145,145,16,Spring,Bingo,SK Tilicum T1,Jungle,65,3.4,67.3,268,60,60,65,4,15000
+146,146,16,Spring,Blenk,SK Tilicum T1,Jungle,63,5,70.7,340,70,65,80,2,50000
+147,147,16,Spring,Babblong,CJ Intas,Jungle,41,2.5,67.8,277,60,60,60,5,10000
+148,148,16,Spring,Chesir,Lungzha Gemong,Jungle,44,3.7,76,301,70,80,70,2,50000
+149,149,16,Spring,Cresh,Lungzha Gemong,Jungle,64,2.7,72.6,347,80,75,70,2,50000
+150,150,16,Spring,Crash,Kungduu Munstir,Jungle,20,2.2,71.9,288,65,65,60,4,15000
+151,151,16,Spring,Crash,i-mFori,Jungle,17,1.9,73.1,266,65,65,60,4,15000
+152,152,16,Spring,Flewliss,SBINA Kurie,Jungle,22,1.6,69.8,271,65,60,60,4,15000
+153,153,16,Spring,Lore,Efriice Friics,Jungle,52,3.6,73.7,340,70,75,75,2,50000
+154,154,16,Spring,Pienat,RUX Togirs,Jungle,83,6.1,74.2,388,75,80,80,1,100000
+155,155,16,Spring,Scuri,KT Rulstir,Jungle,67,4.6,76.8,369,75,80,80,1,100000
+156,156,16,Spring,Wongid,Jon Eor Griin Wongs,Jungle,55,4.5,73.9,298,75,75,70,2,50000
+157,157,16,Spring,Erruw,KT Rulstir,ADC,67,5.6,69.7,497,80,75,75,1,100000
+158,158,16,Spring,Beng,SK Tilicum T1,ADC,63,6.3,69.5,590,80,70,80,1,100000
+159,159,16,Spring,CuriJJ,Semsang Gelexy,ADC,50,4.2,74.5,460,75,80,65,2,50000
+160,160,16,Spring,Cpt Jeck,Lungzha Gemong,ADC,61,3.7,62.5,561,70,60,70,3,30000
+161,161,16,Spring,Fary,Lungzha Gemong,ADC,27,3.3,65.7,502,65,60,65,4,15000
+162,162,16,Spring,Kremir,CJ Intas,ADC,41,4.9,76.5,617,70,80,80,1,100000
+163,163,16,Spring,Naclier,SBINA Kurie,ADC,22,2.8,73.6,413,65,70,60,4,15000
+164,164,16,Spring,Polut,Jon Eor Griin Wongs,ADC,55,5.4,73.7,455,70,80,70,2,50000
+165,165,16,Spring,PreY,RUX Togirs,ADC,83,6.5,68.3,537,75,75,80,1,100000
+166,166,16,Spring,Sengyuun,Efriice Friics,ADC,52,5.3,74.7,523,75,80,75,1,100000
+167,167,16,Spring,KK,Kungduu Munstir,ADC,20,2.4,68.9,550,70,60,65,4,15000
+168,168,16,Spring,KK,i-mFori,ADC,17,3,74.6,447,60,70,60,4,15000
+169,169,16,Spring,Stotch,Semsang Gelexy,ADC,50,3.2,65.4,462,60,60,60,5,10000
+170,170,16,Spring,Chio,Jon Eor Griin Wongs,Support,55,3.8,73.5,107,80,75,70,2,50000
+171,171,16,Spring,GurollE,RUX Togirs,Support,83,5.7,72.4,117,75,80,80,1,100000
+172,172,16,Spring,GaGir,i-mFori,Support,17,1.8,75.4,104,75,70,60,3,30000
+173,173,16,Spring,GaGir,Kungduu Munstir,Support,20,1.9,72.4,142,75,65,70,3,30000
+174,174,16,Spring,Hecheno,KT Rulstir,Support,68,3.9,73.6,121,75,75,75,2,50000
+175,175,16,Spring,OgNer,KT Rulstir,Support,67,3.6,72,98,60,75,65,3,30000
+176,176,16,Spring,MedLofi,CJ Intas,Support,41,3.6,78,114,70,80,70,2,50000
+177,177,16,Spring,Pari,Lungzha Gemong,Support,49,4.3,72.1,112,60,70,75,3,30000
+178,178,16,Spring,Sicrit,SBINA Kurie,Support,22,2,72.9,109,80,65,60,3,30000
+179,179,16,Spring,SnuwFluwir,Efriice Friics,Support,52,4.1,77.6,141,75,80,80,1,100000
+180,180,16,Spring,Wulf,SK Tilicum T1,Support,63,4.7,68.7,104,70,65,75,3,30000
+181,181,16,Spring,Wreoth,Semsang Gelexy,Support,50,4.1,68.6,79,75,65,60,3,30000
+182,182,16,Spring,Zzas,Lungzha Gemong,Support,50,2.2,57.1,115,60,60,65,4,15000
+183,183,16,Spring,CaVii,Semsang Gelexy,Top,50,2.6,67.1,357,70,75,70,2,50000
+184,184,16,Spring,Daki,SK Tilicum T1,Top,63,4.2,65,388,80,75,75,1,100000
+185,185,16,Spring,Ixpissoun,Lungzha Gemong,Top,50,3.6,64.7,345,80,75,75,1,100000
+186,186,16,Spring,Flemi,Lungzha Gemong,Top,47,3.3,65.2,377,75,75,75,2,50000
+187,187,16,Spring,Hopu,Kungduu Munstir,Top,18,1.3,60.8,335,70,65,65,3,30000
+188,188,16,Spring,Hopu,i-mFori,Top,21,1.3,57.7,264,60,65,60,4,15000
+189,189,16,Spring,okssa,Efriice Friics,Top,52,2.8,69.3,380,70,75,70,2,50000
+190,190,16,Spring,Ruech,i-mFori,Top,0,1.2,69.2,300,60,70,60,4,15000
+191,191,16,Spring,Ruech,Kungduu Munstir,Top,33,0.7,40,378,60,60,65,4,15000
+192,192,16,Spring,Smib,RUX Togirs,Top,83,5.4,67,507,80,80,80,1,100000
+193,193,16,Spring,SueR,SBINA Kurie,Top,20,2.1,65.6,309,80,70,65,2,50000
+194,194,16,Spring,SuHwen,Jon Eor Griin Wongs,Top,0,0.3,25,198,60,60,60,5,10000
+195,195,16,Spring,Sual,SBINA Kurie,Top,23,1.7,66.7,334,70,70,65,3,30000
+196,196,16,Spring,Ssamdey,KT Rulstir,Top,67,3.9,72.6,487,75,80,80,1,100000
+197,197,16,Spring,TrEci,Jon Eor Griin Wongs,Top,56,4.1,70.4,431,75,75,80,1,100000
+198,198,16,Spring,Antere,CJ Intas,Top,41,2.7,72.3,332,75,75,70,2,50000
+199,199,16,Summer,Bdd,CJ Intas,Middle,26,3.3,79.2,539,75,80,65,2,50000
+200,200,16,Summer,Blenc,Jon Eor Griin Wongs,Middle,50,2.9,60.3,502,60,60,60,5,10000
+201,201,16,Summer,Cucu,Lungzha Gemong,Middle,25,3.3,75.7,584,80,75,70,2,50000
+202,202,16,Summer,Cruwn,Semsang Gelexy,Middle,60,3.3,70.2,657,80,70,75,2,50000
+203,203,16,Summer,Fekir,SK Tilicum T1,Middle,68,4.3,70.4,677,80,75,80,1,100000
+204,204,16,Summer,Flay,KT Rulstir,Middle,66,5.3,67.7,580,65,65,75,3,30000
+205,205,16,Summer,Fruzin,Lungzha Gemong,Middle,59,3.9,72.4,595,65,75,75,2,50000
+206,206,16,Summer,Oen,MBP,Middle,44,3.7,67.1,600,75,60,70,3,30000
+207,207,16,Summer,Karu,RUX Togirs,Middle,82,6.4,71.4,670,60,80,80,2,50000
+208,208,16,Summer,Kazen,Jon Eor Griin Wongs,Middle,41,3.7,73.4,540,75,75,65,2,50000
+209,209,16,Summer,Mockiy,Efriice Friics,Middle,47,3.1,75.3,620,75,80,70,2,50000
+210,210,16,Summer,Sky,CJ Intas,Middle,29,2.3,72.1,548,60,65,60,4,15000
+211,211,16,Summer,Timpt,ISC Ivir,Middle,36,2.9,72,505,70,70,60,3,30000
+212,212,16,Summer,Zit,RUX Togirs,Middle,58,3.2,66.2,516,60,60,60,5,10000
+213,213,16,Summer,Embotoun,Semsang Gelexy,Jungle,60,3.1,70.4,341,75,60,70,3,30000
+214,214,16,Summer,Bingo,SK Tilicum T1,Jungle,57,3.5,73.5,327,70,65,70,3,30000
+215,215,16,Summer,Biyund,MBP,Jungle,44,2.7,77.6,359,75,75,70,2,50000
+216,216,16,Summer,Blenk,SK Tilicum T1,Jungle,74,3.7,70.3,328,70,60,70,3,30000
+217,217,16,Summer,Bliss,ISC Ivir,Jungle,36,2.5,72.2,338,75,60,65,3,30000
+218,218,16,Summer,Babblong,CJ Intas,Jungle,0,3,85.7,314,60,80,65,3,30000
+219,219,16,Summer,Chesir,Lungzha Gemong,Jungle,26,3.5,77.9,305,75,75,65,2,50000
+220,220,16,Summer,Cresh,Lungzha Gemong,Jungle,56,4.2,76.7,328,80,75,70,2,50000
+221,221,16,Summer,Hera,CJ Intas,Jungle,28,2.3,73.8,306,75,60,60,4,15000
+222,222,16,Summer,Lore,Efriice Friics,Jungle,53,4.1,77.2,345,75,75,75,2,50000
+223,223,16,Summer,Pienat,RUX Togirs,Jungle,75,6.3,75.3,407,75,75,80,1,100000
+224,224,16,Summer,Scuri,KT Rulstir,Jungle,66,7,74.9,365,75,75,80,1,100000
+225,225,16,Summer,SiungHwen,Efriice Friics,Jungle,14,2.7,79.3,310,65,75,60,3,30000
+226,226,16,Summer,Wongid,Jon Eor Griin Wongs,Jungle,42,3.5,72.3,305,70,60,65,4,15000
+227,227,16,Summer,Erruw,KT Rulstir,ADC,66,5.6,71.1,523,70,70,75,2,50000
+228,228,16,Summer,Beng,SK Tilicum T1,ADC,68,6.3,73.7,712,80,75,80,1,100000
+229,229,16,Summer,Impirur,Lungzha Gemong,ADC,25,2.3,76.9,502,65,75,65,3,30000
+230,230,16,Summer,Fary,Lungzha Gemong,ADC,42,4.2,69.4,554,75,60,75,3,30000
+231,231,16,Summer,Ghust,CJ Intas,ADC,0,1.2,85.7,301,60,80,60,3,30000
+232,232,16,Summer,Kremir,CJ Intas,ADC,29,3.5,75.3,505,70,70,70,3,30000
+233,233,16,Summer,LukiN,ISC Ivir,ADC,36,3.4,72,433,75,65,65,3,30000
+234,234,16,Summer,MeHe,MBP,ADC,44,3.2,68.3,507,65,60,65,4,15000
+235,235,16,Summer,Polut,Jon Eor Griin Wongs,ADC,42,4.4,74,521,70,70,70,3,30000
+236,236,16,Summer,PreY,RUX Togirs,ADC,75,4.7,70,665,80,65,80,2,50000
+237,237,16,Summer,Ralir,Semsang Gelexy,ADC,60,3.7,74,533,70,75,70,2,50000
+238,238,16,Summer,Sengyuun,Efriice Friics,ADC,47,4.2,73.4,497,75,70,70,2,50000
+239,239,16,Summer,Chio,Jon Eor Griin Wongs,Support,41,2.5,71.3,105,60,65,60,4,15000
+240,240,16,Summer,CuriJJ,Semsang Gelexy,Support,0,0.3,100,199,60,80,70,3,30000
+241,241,16,Summer,GurollE,RUX Togirs,Support,75,4.2,69.2,131,75,70,80,2,50000
+242,242,16,Summer,Hecheno,KT Rulstir,Support,66,3.9,73.2,130,75,70,75,2,50000
+243,243,16,Summer,Kiy,ISC Ivir,Support,36,2.5,71.5,103,80,65,60,3,30000
+244,244,16,Summer,MedLofi,CJ Intas,Support,27,2.8,76.8,134,65,70,70,3,30000
+245,245,16,Summer,Mex,MBP,Support,44,3.4,71.2,141,75,65,75,2,50000
+246,246,16,Summer,Pari,Lungzha Gemong,Support,39,3.1,71.9,130,70,65,70,3,30000
+247,247,16,Summer,SnuwFluwir,Efriice Friics,Support,47,3.3,75.5,122,65,70,70,3,30000
+248,248,16,Summer,Swiit,Jon Eor Griin Wongs,Support,50,2.8,84.3,157,60,80,75,2,50000
+249,249,16,Summer,Tuturu,ISC Ivir,Support,33,1.7,70.3,86,80,60,60,3,30000
+250,250,16,Summer,Wulf,SK Tilicum T1,Support,68,4.2,71.4,144,65,70,80,2,50000
+251,251,16,Summer,Wreoth,Semsang Gelexy,Support,65,3.9,70.9,110,70,70,70,3,30000
+252,252,16,Summer,EDD,MBP,Top,44,2.4,69.6,443,60,75,70,3,30000
+253,253,16,Summer,Crezy,ISC Ivir,Top,36,2.9,62.5,372,70,70,70,3,30000
+254,254,16,Summer,CaVii,Semsang Gelexy,Top,59,2.6,63,387,75,75,70,2,50000
+255,255,16,Summer,Daki,SK Tilicum T1,Top,68,3.6,62,455,80,75,75,1,100000
+256,256,16,Summer,Ixpissoun,Lungzha Gemong,Top,39,3,64.8,477,75,70,75,2,50000
+257,257,16,Summer,Hilpir,Semsang Gelexy,Top,67,4,58.5,478,80,70,80,1,100000
+258,258,16,Summer,okssa,Efriice Friics,Top,53,3.3,72.2,400,70,80,75,2,50000
+259,259,16,Summer,Londereng,Efriice Friics,Top,27,2.9,77.7,398,75,80,70,2,50000
+260,260,16,Summer,Pert,ISC Ivir,Top,0,1.5,60,160,80,60,60,3,30000
+261,261,16,Summer,Shay,CJ Intas,Top,44,2.8,51.3,311,60,60,65,4,15000
+262,262,16,Summer,Smib,RUX Togirs,Top,75,4.7,70.5,480,80,80,80,1,100000
+263,263,16,Summer,SuHwen,Jon Eor Griin Wongs,Top,0,0.5,33.3,155,60,60,60,5,10000
+264,264,16,Summer,Ssamdey,KT Rulstir,Top,66,4.5,69.6,470,75,80,80,1,100000
+265,265,16,Summer,TrEci,Jon Eor Griin Wongs,Top,43,2.4,60.9,386,65,70,70,3,30000
+266,266,16,Summer,Antere,CJ Intas,Top,18,2.3,66.4,314,65,70,65,3,30000
+267,267,17,Spring,Cruwn,Semsang Gelexy,Middle,71,4.2,64,567,80,70,80,1,100000
+268,268,17,Spring,Idgi,Kungduu Munstir,Middle,27,3,69.4,430,65,70,60,4,15000
+269,269,17,Spring,Fekir,SK Tilicum T1,Middle,76,4.7,65.5,560,75,75,80,1,100000
+270,270,17,Spring,Flay,Lungzha Gemong,Middle,44,3.5,66.9,493,60,70,70,3,30000
+271,271,17,Spring,Oen,MBP,Middle,51,2.6,63.6,478,60,60,60,5,10000
+272,272,17,Spring,Karu,Efriice Friics,Middle,54,3.7,68.4,483,70,75,70,2,50000
+273,273,17,Spring,Kazen,Jon Eor Griin Wongs,Middle,32,3.4,64.8,485,70,60,65,4,15000
+274,274,17,Spring,Mockiy,RUX Togirs,Middle,45,2.7,74.1,565,70,80,70,2,50000
+275,275,17,Spring,PewN,KT Rulstir,Middle,66,3.4,61.9,510,75,60,70,3,30000
+276,276,17,Spring,Timpt,bbq Ulovirs,Middle,36,3.4,70.9,483,75,75,65,2,50000
+277,277,17,Spring,Embotoun,Semsang Gelexy,Jungle,58,3,66,323,80,70,75,2,50000
+278,278,17,Spring,Biyund,MBP,Jungle,51,2.6,69.9,331,80,75,75,1,100000
+279,279,17,Spring,Blenk,SK Tilicum T1,Jungle,100,9.2,71.3,367,60,80,80,2,50000
+280,280,17,Spring,Bliss,bbq Ulovirs,Jungle,36,2.2,60,259,65,60,60,4,15000
+281,281,17,Spring,Cresh,Lungzha Gemong,Jungle,44,2.7,64.7,289,70,65,65,3,30000
+282,282,17,Spring,Hera,Semsang Gelexy,Jungle,77,4.2,68.5,305,80,80,75,1,100000
+283,283,17,Spring,Moghtybier,RUX Togirs,Jungle,63,3.9,65.3,304,65,70,70,3,30000
+284,284,17,Spring,Muwglo,Efriice Friics,Jungle,67,3.5,61.1,265,65,60,65,4,15000
+285,285,17,Spring,Pienat,SK Tilicum T1,Jungle,72,5.1,65,294,75,70,75,2,50000
+286,286,17,Spring,Panch,Kungduu Munstir,Jungle,27,2,70.1,237,70,75,60,3,30000
+287,287,17,Spring,Reosi,Jon Eor Griin Wongs,Jungle,57,2.8,63.4,243,60,65,60,4,15000
+288,288,17,Spring,Scuri,KT Rulstir,Jungle,66,4.6,69.5,331,75,80,80,1,100000
+289,289,17,Spring,SiungHwen,RUX Togirs,Jungle,35,2.4,67.7,306,70,70,70,3,30000
+290,290,17,Spring,Sporot,Efriice Friics,Jungle,51,3.6,70.3,278,75,80,65,2,50000
+291,291,17,Spring,AmTo,Jon Eor Griin Wongs,Jungle,27,2.2,66.2,286,60,65,65,4,15000
+292,292,17,Spring,Beng,SK Tilicum T1,ADC,76,6.5,63.3,601,80,70,80,1,100000
+293,293,17,Spring,Dift,KT Rulstir,ADC,66,4.7,63.1,590,80,65,80,2,50000
+294,294,17,Spring,Ghust,bbq Ulovirs,ADC,36,3.2,70.7,465,60,80,60,3,30000
+295,295,17,Spring,Kremir,Efriice Friics,ADC,54,5.6,65.7,471,60,70,75,3,30000
+296,296,17,Spring,MeHe,MBP,ADC,51,3.4,67.8,481,60,75,65,3,30000
+297,297,17,Spring,PreY,Lungzha Gemong,ADC,44,2.9,64.7,526,75,60,65,3,30000
+298,298,17,Spring,Ralir,Semsang Gelexy,ADC,74,5.2,64.4,486,70,75,75,2,50000
+299,299,17,Spring,Sengyuun,RUX Togirs,ADC,45,4.2,67,463,60,70,65,4,15000
+300,300,17,Spring,KK,Kungduu Munstir,ADC,27,2.7,70.4,505,70,75,65,3,30000
+301,301,17,Spring,Stotch,Semsang Gelexy,ADC,63,4.3,58.9,381,70,60,60,4,15000
+302,302,17,Spring,Tiddy,Jon Eor Griin Wongs,ADC,32,4.2,69.4,522,75,75,70,2,50000
+303,303,17,Spring,CuriJJ,Semsang Gelexy,Support,71,5.4,65.6,268,80,75,80,1,100000
+304,304,17,Spring,GurollE,Lungzha Gemong,Support,44,2.5,65.9,237,70,65,70,3,30000
+305,305,17,Spring,GaGir,Kungduu Munstir,Support,27,2.2,70,234,65,75,70,3,30000
+306,306,17,Spring,Kiy,RUX Togirs,Support,45,2.7,67.3,211,65,70,70,3,30000
+307,307,17,Spring,Mete,KT Rulstir,Support,66,3.6,62,182,75,60,70,3,30000
+308,308,17,Spring,Mex,MBP,Support,51,2.9,68,212,80,75,70,2,50000
+309,309,17,Spring,Sicrit,Kungduu Munstir,Support,25,1.7,71.4,130,65,80,60,3,30000
+310,310,17,Spring,SnuwFluwir,Jon Eor Griin Wongs,Support,32,2.3,68.2,211,65,70,65,3,30000
+311,311,17,Spring,Tuturu,bbq Ulovirs,Support,36,3.5,70.5,202,60,80,70,3,30000
+312,312,17,Spring,TasoN,Efriice Friics,Support,54,3.3,68.2,186,70,75,70,2,50000
+313,313,17,Spring,Wulf,SK Tilicum T1,Support,76,5.5,65.8,225,80,75,80,1,100000
+314,314,17,Spring,Wreoth,Semsang Gelexy,Support,71,3.1,59.8,118,60,60,60,5,10000
+315,315,17,Spring,EDD,MBP,Top,51,2.4,61.2,450,70,70,70,3,30000
+316,316,17,Spring,Crezy,bbq Ulovirs,Top,37,3.6,63.5,368,75,70,65,3,30000
+317,317,17,Spring,CaVii,Semsang Gelexy,Top,71,3.8,58.5,378,75,65,70,3,30000
+318,318,17,Spring,Ixpissoun,Lungzha Gemong,Top,44,2.8,61.1,407,75,65,70,3,30000
+319,319,17,Spring,Hano,SK Tilicum T1,Top,76,5.1,63.3,559,70,75,80,2,50000
+320,320,17,Spring,okssa,Jon Eor Griin Wongs,Top,25,2.4,58.9,350,65,60,60,4,15000
+321,321,17,Spring,Londereng,RUX Togirs,Top,32,2.5,60.4,341,65,65,60,4,15000
+322,322,17,Spring,MeRon,Efriice Friics,Top,54,3.1,62.9,422,75,70,70,2,50000
+323,323,17,Spring,Pert,bbq Ulovirs,Top,33,1.6,72.2,361,60,80,60,3,30000
+324,324,17,Spring,Prufot,SK Tilicum T1,Top,78,8.7,69.6,429,70,80,80,1,100000
+325,325,17,Spring,Ruech,Kungduu Munstir,Top,27,1.8,57.7,315,65,60,60,4,15000
+326,326,17,Spring,Shay,RUX Togirs,Top,54,3.6,58.9,363,80,65,65,3,30000
+327,327,17,Spring,Smib,KT Rulstir,Top,66,3.3,62.4,497,75,75,75,2,50000
+328,328,17,Spring,SuHwen,Jon Eor Griin Wongs,Top,50,2.6,62,477,75,70,75,2,50000
+329,329,17,Summer,Bdd,Lungzha Gemong,Middle,70,11.3,78,511,80,80,80,1,100000
+330,330,17,Summer,Ciptid,Ivir8 Wonnirs,Middle,27,2.4,71.3,450,70,70,60,3,30000
+331,331,17,Summer,Cruw,RUX Togirs,Middle,0,0.7,66.7,399,65,60,60,4,15000
+332,332,17,Summer,Cruwn,Semsang Gelexy,Middle,66,3.3,66.8,511,75,65,70,3,30000
+333,333,17,Summer,Fekir,SK Tilicum T1,Middle,63,3.4,65.3,503,80,65,70,2,50000
+334,334,17,Summer,Oen,MBP,Middle,31,3.1,72.4,518,60,70,75,3,30000
+335,335,17,Summer,Karu,Efriice Friics,Middle,56,4.2,72.8,541,65,75,80,2,50000
+336,336,17,Summer,Kazen,Jon Eor Griin Wongs,Middle,50,3.7,68.3,495,80,65,70,2,50000
+337,337,17,Summer,Leve,RUX Togirs,Middle,38,2.7,75.1,494,60,80,70,3,30000
+338,338,17,Summer,Mockiy,RUX Togirs,Middle,41,2.6,70,493,60,70,70,3,30000
+339,339,17,Summer,PewN,KT Rulstir,Middle,66,6,68,474,75,70,70,2,50000
+340,340,17,Summer,Timpt,bbq Ulovirs,Middle,29,2.9,68.1,478,70,65,65,3,30000
+341,341,17,Summer,Embotoun,Semsang Gelexy,Jungle,68,3.8,65,255,80,70,75,2,50000
+342,342,17,Summer,Biyund,MBP,Jungle,31,2.5,75,237,75,75,70,2,50000
+343,343,17,Summer,Blenk,SK Tilicum T1,Jungle,82,4.1,69.3,250,70,75,75,2,50000
+344,344,17,Summer,Bliss,bbq Ulovirs,Jungle,29,2,63,209,65,60,65,4,15000
+345,345,17,Summer,Cazz,Lungzha Gemong,Jungle,70,4.6,64.5,303,65,70,80,2,50000
+346,346,17,Summer,Hecheno,Ivir8 Wonnirs,Jungle,0,1.1,62.5,175,60,60,60,5,10000
+347,347,17,Summer,Hera,Semsang Gelexy,Jungle,57,2.4,57.4,229,80,60,65,3,30000
+348,348,17,Summer,Melreng,Ivir8 Wonnirs,Jungle,28,3.2,68.9,238,70,65,70,3,30000
+349,349,17,Summer,Moghtybier,RUX Togirs,Jungle,25,3.1,73.3,244,60,70,70,3,30000
+350,350,17,Summer,Muwglo,Efriice Friics,Jungle,50,2.7,63.6,227,60,65,65,4,15000
+351,351,17,Summer,Pienat,SK Tilicum T1,Jungle,50,2.8,65.8,203,75,65,65,3,30000
+352,352,17,Summer,Reosi,Jon Eor Griin Wongs,Jungle,0,1.4,100,142,80,80,60,2,50000
+353,353,17,Summer,Scuri,KT Rulstir,Jungle,66,7.1,71.7,290,80,75,80,1,100000
+354,354,17,Summer,SiungHwen,RUX Togirs,Jungle,50,3.4,76.4,227,60,80,70,3,30000
+355,355,17,Summer,Sporot,Efriice Friics,Jungle,57,3.1,71.6,274,75,75,75,2,50000
+356,356,17,Summer,AmTo,Jon Eor Griin Wongs,Jungle,51,3.1,70,259,75,70,75,2,50000
+357,357,17,Summer,Beng,SK Tilicum T1,ADC,63,4.9,68,550,80,75,75,1,100000
+358,358,17,Summer,Dift,KT Rulstir,ADC,66,5.8,63.7,585,80,65,80,2,50000
+359,359,17,Summer,DiaL,Ivir8 Wonnirs,ADC,27,2.8,63.6,427,60,60,60,5,10000
+360,360,17,Summer,Ghust,bbq Ulovirs,ADC,29,2.8,68.1,467,65,65,60,4,15000
+361,361,17,Summer,Kremir,Efriice Friics,ADC,56,4.6,65.3,527,65,65,75,3,30000
+362,362,17,Summer,MeHe,MBP,ADC,31,3.4,69.6,490,60,70,65,4,15000
+363,363,17,Summer,PreY,Lungzha Gemong,ADC,70,4.7,64.2,519,75,70,75,2,50000
+364,364,17,Summer,Ralir,Semsang Gelexy,ADC,66,3.9,70.7,549,80,80,75,1,100000
+365,365,17,Summer,Sengyuun,RUX Togirs,ADC,39,4.2,75.2,530,65,80,70,2,50000
+366,366,17,Summer,Tiddy,Jon Eor Griin Wongs,ADC,50,3.5,68.8,521,70,75,65,3,30000
+367,367,17,Summer,CuriJJ,Semsang Gelexy,Support,66,4.8,73,188,75,80,80,1,100000
+368,368,17,Summer,Ille,Ivir8 Wonnirs,Support,24,2,60.7,123,70,60,60,4,15000
+369,369,17,Summer,GurollE,Lungzha Gemong,Support,70,4.2,67,209,80,70,80,1,100000
+370,370,17,Summer,Hecheno,Ivir8 Wonnirs,Support,33,2.1,67.7,134,60,65,60,4,15000
+371,371,17,Summer,Kiy,RUX Togirs,Support,39,2.8,79,147,80,80,65,2,50000
+372,372,17,Summer,Mete,KT Rulstir,Support,66,5,67.4,156,70,70,80,2,50000
+373,373,17,Summer,Mex,MBP,Support,31,3.1,76.3,156,75,75,70,2,50000
+374,374,17,Summer,SnuwFluwir,Jon Eor Griin Wongs,Support,50,2.6,71,164,65,70,65,3,30000
+375,375,17,Summer,Tuturu,bbq Ulovirs,Support,29,2.7,65.1,123,70,60,60,4,15000
+376,376,17,Summer,TasoN,Efriice Friics,Support,56,3.5,71.5,182,70,75,75,2,50000
+377,377,17,Summer,Wulf,SK Tilicum T1,Support,63,3.4,69.6,161,65,75,70,3,30000
+378,378,17,Summer,EDD,MBP,Top,31,1.6,59.8,409,60,60,65,4,15000
+379,379,17,Summer,Crezy,bbq Ulovirs,Top,29,2.6,61.4,408,80,65,70,2,50000
+380,380,17,Summer,CaVii,Semsang Gelexy,Top,66,3.5,61.1,422,70,70,75,2,50000
+381,381,17,Summer,Hilpir,Ivir8 Wonnirs,Top,24,2.3,63,330,60,65,60,4,15000
+382,382,17,Summer,Hano,SK Tilicum T1,Top,44,1.5,55.7,477,65,60,70,4,15000
+383,383,17,Summer,okssa,Jon Eor Griin Wongs,Top,48,2.7,66,419,80,75,70,2,50000
+384,384,17,Summer,Khen,Lungzha Gemong,Top,72,4.1,64.7,516,75,75,80,1,100000
+385,385,17,Summer,Koon,Ivir8 Wonnirs,Top,30,2.4,61.3,378,70,65,65,3,30000
+386,386,17,Summer,Londereng,RUX Togirs,Top,39,2.3,64.7,340,65,70,60,4,15000
+387,387,17,Summer,MeRon,Efriice Friics,Top,56,2.8,60.6,415,75,70,70,2,50000
+388,388,17,Summer,Rescel,Lungzha Gemong,Top,0,2,80,476,60,80,70,3,30000
+389,389,17,Summer,Shay,RUX Togirs,Top,36,1.3,55.1,322,60,60,60,5,10000
+390,390,17,Summer,Smib,KT Rulstir,Top,66,4.3,70.5,480,80,80,80,1,100000
+391,391,17,Summer,SuHwen,Jon Eor Griin Wongs,Top,52,3.2,68.1,416,80,80,75,1,100000
+392,392,17,Summer,Antere,SK Tilicum T1,Top,76,3,56.1,403,70,65,70,3,30000
+393,393,18,Spring,Bdd,Kongzuni DregunX,Middle,83,7.6,73.3,484,80,75,80,1,100000
+394,394,18,Spring,Cruwn,KSV iSpurts,Middle,50,2.4,72.1,491,65,70,65,3,30000
+395,395,18,Spring,Idgi,Kungduu Munstir,Middle,22,2.6,75.3,444,70,70,60,3,30000
+396,396,18,Spring,Fekir,SK Tilicum T1,Middle,50,4.3,81.6,548,70,75,75,2,50000
+397,397,18,Spring,Oen,MBP,Middle,33,3,73.5,525,75,70,70,2,50000
+398,398,18,Spring,Jastoci,Jon Eor Griin Wongs,Middle,38,4.2,76.1,387,60,70,60,4,15000
+399,399,18,Spring,Karu,Efriice Friics,Middle,68,5.4,78.3,505,65,75,75,2,50000
+400,400,18,Spring,Kazen,RUX Togirs,Middle,0,0.1,16.7,365,70,60,60,4,15000
+401,401,18,Spring,Leve,RUX Togirs,Middle,51,3.7,78.4,565,80,75,75,1,100000
+402,402,18,Spring,PewN,KT Rulstir,Middle,61,4.5,75.5,512,65,75,75,2,50000
+403,403,18,Spring,Timpt,bbq Ulovirs,Middle,39,3.8,72.3,527,75,70,75,2,50000
+404,404,18,Spring,Acel,KT Rulstir,Middle,75,6.1,66.4,445,80,70,70,2,50000
+405,405,18,Spring,Yeherung,Jon Eor Griin Wongs,Middle,44,3.9,71.1,545,60,70,75,3,30000
+406,406,18,Spring,Embotoun,KSV iSpurts,Jungle,52,2.2,65.2,171,70,60,65,4,15000
+407,407,18,Spring,Biyund,MBP,Jungle,33,1.9,73.2,179,75,65,65,3,30000
+408,408,18,Spring,Blenk,SK Tilicum T1,Jungle,42,4.1,83.6,168,60,80,70,3,30000
+409,409,18,Spring,Blussum,SK Tilicum T1,Jungle,61,2.4,74.6,169,60,70,65,4,15000
+410,410,18,Spring,bunU,bbq Ulovirs,Jungle,25,2.8,68.5,218,70,60,75,3,30000
+411,411,18,Spring,Cazz,Kongzuni DregunX,Jungle,100,4.2,70.4,226,75,70,80,2,50000
+412,412,18,Spring,Hera,KSV iSpurts,Jungle,47,2,69.6,187,80,60,65,3,30000
+413,413,18,Spring,Moghtybier,RUX Togirs,Jungle,0,1.3,83.3,128,65,75,60,3,30000
+414,414,18,Spring,Muwglo,Efriice Friics,Jungle,70,8.3,83.8,174,60,80,80,2,50000
+415,415,18,Spring,Pienat,Kongzuni DregunX,Jungle,80,8.5,78.2,255,80,80,80,1,100000
+416,416,18,Spring,Reosi,Kungduu Munstir,Jungle,27,1.8,72.8,175,60,65,65,4,15000
+417,417,18,Spring,Rash,KT Rulstir,Jungle,100,5,60,114,80,60,65,3,30000
+418,418,18,Spring,Scuri,KT Rulstir,Jungle,63,4.4,77.5,186,70,75,75,2,50000
+419,419,18,Spring,SiungHwen,RUX Togirs,Jungle,51,3.3,78.6,203,65,75,75,2,50000
+420,420,18,Spring,Sporot,Efriice Friics,Jungle,68,4.3,73,171,75,70,70,2,50000
+421,421,18,Spring,Trock,bbq Ulovirs,Jungle,42,2.8,75.8,166,70,70,65,3,30000
+422,422,18,Spring,AmTo,Jon Eor Griin Wongs,Jungle,43,3,73.1,193,80,65,70,2,50000
+423,423,18,Spring,Woz,Kungduu Munstir,Jungle,0,1.9,80.4,152,60,70,60,4,15000
+424,424,18,Spring,Wulf,SK Tilicum T1,Jungle,50,4.1,70.7,177,70,65,70,3,30000
+425,425,18,Spring,Eomong,Efriice Friics,ADC,71,6.1,79.2,530,65,80,70,2,50000
+426,426,18,Spring,Beng,SK Tilicum T1,ADC,50,9.6,77.4,650,75,75,80,1,100000
+427,427,18,Spring,Dift,KT Rulstir,ADC,65,5,71.7,653,80,70,75,2,50000
+428,428,18,Spring,Ghust,bbq Ulovirs,ADC,39,3.4,68.3,445,65,60,60,4,15000
+429,429,18,Spring,Kremir,Efriice Friics,ADC,68,7.9,77,547,75,80,75,1,100000
+430,430,18,Spring,MeHe,MBP,ADC,7,2,76,529,60,65,60,4,15000
+431,431,18,Spring,Polut,MBP,ADC,46,5.5,74.5,584,60,70,70,3,30000
+432,432,18,Spring,PreY,Kongzuni DregunX,ADC,83,8.2,68.9,633,80,65,80,2,50000
+433,433,18,Spring,Ralir,KSV iSpurts,ADC,50,3.2,71.2,556,75,65,65,3,30000
+434,434,18,Spring,Sengyuun,RUX Togirs,ADC,49,4,69.2,520,65,60,65,4,15000
+435,435,18,Spring,KK,Kungduu Munstir,ADC,22,2.9,74.7,521,65,65,60,4,15000
+436,436,18,Spring,Tiddy,Jon Eor Griin Wongs,ADC,43,5.4,79.6,672,75,80,80,1,100000
+437,437,18,Spring,CuriJJ,KSV iSpurts,Support,50,3.6,77.2,123,60,75,70,3,30000
+438,438,18,Spring,Iffurt,SK Tilicum T1,Support,53,5.6,83.1,144,60,80,80,2,50000
+439,439,18,Spring,GurollE,Kongzuni DregunX,Support,83,5,68.1,139,75,65,80,2,50000
+440,440,18,Spring,OgNer,bbq Ulovirs,Support,39,4.2,70.9,89,75,60,60,4,15000
+441,441,18,Spring,Kiy,RUX Togirs,Support,49,3.1,73.4,130,80,70,70,2,50000
+442,442,18,Spring,Mete,KT Rulstir,Support,65,6.2,74.8,122,70,75,80,2,50000
+443,443,18,Spring,Mex,MBP,Support,33,2.3,72.9,143,75,65,70,3,30000
+444,444,18,Spring,Sicrit,Kungduu Munstir,Support,22,2,69.5,112,65,60,60,4,15000
+445,445,18,Spring,TasoN,Efriice Friics,Support,68,4,76.1,130,65,75,75,2,50000
+446,446,18,Spring,Wulf,SK Tilicum T1,Support,48,3.6,75.5,112,80,70,65,2,50000
+447,447,18,Spring,Wreoth,Jon Eor Griin Wongs,Support,43,3.7,76.3,107,70,75,65,3,30000
+448,448,18,Spring,EDD,MBP,Top,33,1.9,64.7,503,60,75,70,3,30000
+449,449,18,Spring,Crezy,bbq Ulovirs,Top,39,3.3,62.7,434,75,75,70,2,50000
+450,450,18,Spring,CaVii,KSV iSpurts,Top,50,2.2,64.3,441,65,75,65,3,30000
+451,451,18,Spring,Khen,Kongzuni DregunX,Top,88,5.9,60.9,570,80,80,80,1,100000
+452,452,18,Spring,Koon,Efriice Friics,Top,68,3.9,59.2,425,75,70,75,2,50000
+453,453,18,Spring,Londereng,RUX Togirs,Top,49,2.8,63,418,70,75,65,3,30000
+454,454,18,Spring,Rescel,Kongzuni DregunX,Top,57,4.1,55.4,410,80,65,75,2,50000
+455,455,18,Spring,Ruech,Kungduu Munstir,Top,22,1.7,54.1,346,65,60,60,4,15000
+456,456,18,Spring,Smib,KT Rulstir,Top,65,3.9,67.7,481,70,80,75,2,50000
+457,457,18,Spring,SuHwen,Jon Eor Griin Wongs,Top,43,3.1,54.8,383,75,60,65,3,30000
+458,458,18,Spring,Thel,SK Tilicum T1,Top,60,3.6,56.4,489,65,65,75,3,30000
+459,459,18,Spring,Antere,SK Tilicum T1,Top,38,2.3,57.1,275,60,65,60,4,15000
+460,460,18,Summer,Bdd,Kongzuni DregunX,Middle,65,4.8,70.4,449,75,75,75,2,50000
+461,461,18,Summer,Chuvy,Groffon,Middle,70,9.1,71.1,437,70,75,80,2,50000
+462,462,18,Summer,Cruwn,Gin.G,Middle,67,3,66.7,537,70,75,80,2,50000
+463,463,18,Summer,Fekir,SK Tilicum T1,Middle,40,3.1,74.9,449,80,75,70,2,50000
+464,464,18,Summer,Flay,Gin.G,Middle,63,4.9,74.2,382,75,75,70,2,50000
+465,465,18,Summer,Oen,MBP,Middle,27,2.8,77.4,390,60,75,65,3,30000
+466,466,18,Summer,Jastoci,Jon Eor Griin Wongs,Middle,0,0,50,225,65,60,60,4,15000
+467,467,18,Summer,Karu,Efriice Friics,Middle,57,5.1,72.4,453,80,75,75,1,100000
+468,468,18,Summer,Kazen,Henwhe Lofi Ispurts,Middle,0,2,40,325,60,60,60,5,10000
+469,469,18,Summer,Leve,Henwhe Lofi Ispurts,Middle,56,3.5,74.9,450,65,75,75,2,50000
+470,470,18,Summer,PewN,KT Rulstir,Middle,0,1,71.4,368,60,65,60,4,15000
+471,471,18,Summer,Porien,SK Tilicum T1,Middle,53,3.2,67.5,419,75,70,70,2,50000
+472,472,18,Summer,Rethir,Groffon,Middle,63,4.3,75,400,75,75,70,2,50000
+473,473,18,Summer,Timpt,bbq Ulovirs,Middle,21,3.1,75.3,405,80,70,70,2,50000
+474,474,18,Summer,Acel,KT Rulstir,Middle,69,4.2,66.8,442,75,75,75,2,50000
+475,475,18,Summer,Yeherung,Jon Eor Griin Wongs,Middle,32,2.7,66.2,381,75,65,65,3,30000
+476,476,18,Summer,Embotoun,Gin.G,Jungle,62,3,74.2,148,70,75,65,3,30000
+477,477,18,Summer,Biyund,MBP,Jungle,27,2.2,76,177,65,70,65,3,30000
+478,478,18,Summer,Blenk,SK Tilicum T1,Jungle,49,3.4,73.6,179,65,75,70,3,30000
+479,479,18,Summer,Blussum,SK Tilicum T1,Jungle,20,1.5,64.7,311,80,60,75,2,50000
+480,480,18,Summer,bunU,bbq Ulovirs,Jungle,0,1.1,80.4,169,60,70,60,4,15000
+481,481,18,Summer,Cazz,Kongzuni DregunX,Jungle,46,2,67,205,75,65,65,3,30000
+482,482,18,Summer,Hera,Gin.G,Jungle,67,3.3,68.3,246,80,70,75,2,50000
+483,483,18,Summer,KeKEU,Jon Eor Griin Wongs,Jungle,0,0.6,41.7,80,80,60,60,3,30000
+484,484,18,Summer,Moghtybier,Henwhe Lofi Ispurts,Jungle,0,5,100,300,70,80,80,1,100000
+485,485,18,Summer,Muwglo,Efriice Friics,Jungle,50,4,65.4,195,65,65,75,3,30000
+486,486,18,Summer,Pienat,Kongzuni DregunX,Jungle,73,4.6,67.7,225,75,75,80,1,100000
+487,487,18,Summer,Rash,KT Rulstir,Jungle,57,1.9,61.1,225,65,65,65,4,15000
+488,488,18,Summer,Scuri,KT Rulstir,Jungle,69,3.7,72.7,222,80,75,75,1,100000
+489,489,18,Summer,SiungHwen,Henwhe Lofi Ispurts,Jungle,56,3.1,72.3,182,70,75,70,2,50000
+490,490,18,Summer,Sporot,Efriice Friics,Jungle,58,4.1,71.4,207,75,75,75,2,50000
+491,491,18,Summer,Terzen,Groffon,Jungle,68,6.5,77.3,231,65,80,80,2,50000
+492,492,18,Summer,Trock,bbq Ulovirs,Jungle,25,2.4,77.9,187,65,70,65,3,30000
+493,493,18,Summer,AmTo,Jon Eor Griin Wongs,Jungle,34,2.5,74.2,212,70,70,70,3,30000
+494,494,18,Summer,Eomong,Efriice Friics,ADC,60,5.1,71.4,419,60,75,70,3,30000
+495,495,18,Summer,Beng,SK Tilicum T1,ADC,46,4.9,70.1,566,65,75,80,2,50000
+496,496,18,Summer,Clivir,Henwhe Lofi Ispurts,ADC,0,4,80,421,75,75,65,2,50000
+497,497,18,Summer,Dift,KT Rulstir,ADC,67,4.4,65.8,576,75,70,80,2,50000
+498,498,18,Summer,Ghust,bbq Ulovirs,ADC,23,2.1,65.4,382,65,65,60,4,15000
+499,499,18,Summer,Kremir,Efriice Friics,ADC,45,6.9,71.1,356,60,75,70,3,30000
+500,500,18,Summer,Liu,SK Tilicum T1,ADC,33,4.8,73.1,475,60,75,75,3,30000
+501,501,18,Summer,MeHe,MBP,ADC,0,1.1,50,288,60,60,60,5,10000
+502,502,18,Summer,Polut,MBP,ADC,29,3.8,76.1,500,70,75,70,2,50000
+503,503,18,Summer,PreY,Kongzuni DregunX,ADC,65,4.4,62.2,480,80,70,70,2,50000
+504,504,18,Summer,Pronci,bbq Ulovirs,ADC,0,1.1,55.2,343,80,60,60,3,30000
+505,505,18,Summer,Ralir,Gin.G,ADC,64,5.1,73.3,569,75,80,80,1,100000
+506,506,18,Summer,Sengyuun,Henwhe Lofi Ispurts,ADC,56,5.5,69,511,75,75,75,2,50000
+507,507,18,Summer,Tiddy,Jon Eor Griin Wongs,ADC,31,3.1,70.1,498,70,70,70,3,30000
+508,508,18,Summer,Vopir,Groffon,ADC,68,7,69.8,470,75,75,80,1,100000
+509,509,18,Summer,Espir,Henwhe Lofi Ispurts,Support,0,3,60,65,80,60,60,3,30000
+510,510,18,Summer,CuriJJ,Gin.G,Support,64,3.9,73.8,125,70,80,75,2,50000
+511,511,18,Summer,Iffurt,SK Tilicum T1,Support,53,2.7,69.3,125,75,70,65,3,30000
+512,512,18,Summer,GurollE,Kongzuni DregunX,Support,65,3.3,62.9,118,75,65,70,3,30000
+513,513,18,Summer,OgNer,bbq Ulovirs,Support,21,2.7,68.5,122,70,65,65,3,30000
+514,514,18,Summer,Kiy,Henwhe Lofi Ispurts,Support,56,4,71.1,123,70,75,75,2,50000
+515,515,18,Summer,Lihinds,Groffon,Support,68,5.9,74.1,178,80,80,80,1,100000
+516,516,18,Summer,Mete,KT Rulstir,Support,67,3.4,68,128,70,70,70,3,30000
+517,517,18,Summer,Mex,MBP,Support,27,2.1,67.6,151,70,65,70,3,30000
+518,518,18,Summer,Mutovi,MBP,Support,25,1.8,79.2,138,60,75,65,3,30000
+519,519,18,Summer,Nuve,Jon Eor Griin Wongs,Support,31,2.3,63.7,115,65,60,65,4,15000
+520,520,18,Summer,TasoN,Efriice Friics,Support,57,3.6,71.6,130,80,75,75,1,100000
+521,521,18,Summer,Wulf,SK Tilicum T1,Support,0,1.2,87.9,152,60,80,65,3,30000
+522,522,18,Summer,EDD,MBP,Top,28,2.1,66.3,412,70,70,70,3,30000
+523,523,18,Summer,Elphemung,Gin.G,Top,0,1,75,137,75,75,60,3,30000
+524,524,18,Summer,Crezy,bbq Ulovirs,Top,21,2.2,60.3,343,70,65,70,3,30000
+525,525,18,Summer,CaVii,Gin.G,Top,65,3.1,60.4,393,70,70,70,3,30000
+526,526,18,Summer,Huun,Henwhe Lofi Ispurts,Top,0,3.5,70,359,80,70,70,2,50000
+527,527,18,Summer,Khen,Kongzuni DregunX,Top,63,3.2,56.7,450,75,65,75,2,50000
+528,528,18,Summer,Koon,Efriice Friics,Top,57,3.9,62.1,450,75,70,75,2,50000
+529,529,18,Summer,Kongin,KT Rulstir,Top,0,1,100,141,60,80,60,3,30000
+530,530,18,Summer,Londereng,Henwhe Lofi Ispurts,Top,56,2.5,60.9,406,70,70,70,3,30000
+531,531,18,Summer,MeHe,MBP,Top,0,0.7,40,210,60,60,60,5,10000
+532,532,18,Summer,Mex,MBP,Top,33,1.6,61.9,303,65,65,65,4,15000
+533,533,18,Summer,Rescel,Kongzuni DregunX,Top,100,15,68.2,417,70,80,80,1,100000
+534,534,18,Summer,Smib,KT Rulstir,Top,69,4.7,64.4,476,75,75,80,1,100000
+535,535,18,Summer,SuHwen,Jon Eor Griin Wongs,Top,31,2.5,61.4,350,70,65,70,3,30000
+536,536,18,Summer,Swurd,Groffon,Top,68,4.3,62.2,407,70,75,75,2,50000
+537,537,18,Summer,Thel,SK Tilicum T1,Top,45,2.3,58.4,419,70,65,75,3,30000
+538,538,19,Spring,ELL ON,Efriice Friics,Middle,40,2.3,63.5,331,65,65,65,4,15000
+539,539,19,Spring,Bdd,KT Rulstir,Middle,31,3,72,398,80,75,70,2,50000
+540,540,19,Spring,ChiunGu,Jon Eor Griin Wongs,Middle,0,0.5,52.6,245,60,60,60,5,10000
+541,541,19,Spring,Chuvy,Groffon,Middle,79,10.7,64.7,463,80,75,80,1,100000
+542,542,19,Spring,Duvi,Loov SENDBUX,Middle,64,4.4,70.2,433,75,80,75,1,100000
+543,543,19,Spring,Fekir,SK Tilicum T1,Middle,70,4,62,434,75,70,75,2,50000
+544,544,19,Spring,Flay,Gin.G,Middle,33,2.4,65.2,361,70,70,65,3,30000
+545,545,19,Spring,Huun,Efriice Friics,Middle,33,1.3,48.8,247,60,60,60,5,10000
+546,546,19,Spring,Leve,Henwhe Lofi Ispurts,Middle,41,2.9,73.6,380,65,80,70,2,50000
+547,547,19,Spring,Neihyan,Kongzuni DregunX,Middle,33,3.4,73,351,60,75,70,3,30000
+548,548,19,Spring,PewN,Kongzuni DregunX,Middle,72,4.4,62.6,379,70,70,70,3,30000
+549,549,19,Spring,Ruech,Gin.G,Middle,60,3.9,59.6,264,65,65,60,4,15000
+550,550,19,Spring,ShuwMekir,DWG KOE,Middle,60,4.5,70.6,439,75,80,75,1,100000
+551,551,19,Spring,Timpt,Henwhe Lofi Ispurts,Middle,58,5.7,72.8,470,80,80,80,1,100000
+552,552,19,Spring,Acel,Efriice Friics,Middle,27,2.2,65.6,361,80,70,65,2,50000
+553,553,19,Spring,Yeherung,Jon Eor Griin Wongs,Middle,9,1.9,66.1,371,65,65,65,4,15000
+554,554,19,Spring,bunU,Henwhe Lofi Ispurts,Jungle,47,2.4,69.8,188,70,70,65,3,30000
+555,555,19,Spring,Cenyun,DWG KOE,Jungle,57,3.4,70.4,251,65,75,75,2,50000
+556,556,19,Spring,Clod,SK Tilicum T1,Jungle,70,5.4,75.5,221,75,80,75,1,100000
+557,557,19,Spring,Crash,Loov SENDBUX,Jungle,0,1,50,175,60,60,60,5,10000
+558,558,19,Spring,Cazz,Kongzuni DregunX,Jungle,69,3.8,66,275,80,70,80,1,100000
+559,559,19,Spring,Dried,Efriice Friics,Jungle,37,2.4,71.3,214,70,70,70,3,30000
+560,560,19,Spring,Melreng,Jon Eor Griin Wongs,Jungle,4,3.1,77.4,166,60,70,65,4,15000
+561,561,19,Spring,MuuJon,Henwhe Lofi Ispurts,Jungle,67,3.2,87.9,173,70,80,65,2,50000
+562,562,19,Spring,UnFliik,Loov SENDBUX,Jungle,65,3.5,66.8,256,75,70,75,2,50000
+563,563,19,Spring,Pienat,Gin.G,Jungle,36,2.7,67.1,174,75,65,65,3,30000
+564,564,19,Spring,Panch,DWG KOE,Jungle,64,4.3,75.7,180,75,75,65,2,50000
+565,565,19,Spring,Scuri,KT Rulstir,Jungle,32,2.7,73,223,70,70,70,3,30000
+566,566,19,Spring,Siozi,Jon Eor Griin Wongs,Jungle,14,1.9,56.7,202,60,60,65,4,15000
+567,567,19,Spring,Sporot,Efriice Friics,Jungle,0,0.8,68.4,222,75,65,65,3,30000
+568,568,19,Spring,Terzen,Groffon,Jungle,79,9.1,75.3,294,80,80,80,1,100000
+569,569,19,Spring,AmTo,KT Rulstir,Jungle,29,1.9,59.4,206,75,60,65,3,30000
+570,570,19,Spring,Eomong,Efriice Friics,ADC,34,3.4,68.7,504,65,70,70,3,30000
+571,571,19,Spring,Dift,Kongzuni DregunX,ADC,69,5.1,72.5,636,80,80,80,1,100000
+572,572,19,Spring,Gengu,KT Rulstir,ADC,25,2.4,65.1,420,65,70,60,4,15000
+573,573,19,Spring,Ghust,Loov SENDBUX,ADC,64,4.7,67.9,506,75,75,75,2,50000
+574,574,19,Spring,Naclier,DWG KOE,ADC,59,5.5,70.1,450,70,75,70,2,50000
+575,575,19,Spring,Pronci,DWG KOE,ADC,100,2,50,609,70,65,75,3,30000
+576,576,19,Spring,Ruati,Jon Eor Griin Wongs,ADC,9,1.9,59.2,447,70,60,65,4,15000
+577,577,19,Spring,Ralir,Gin.G,ADC,36,4.2,77.1,539,70,80,75,2,50000
+578,578,19,Spring,Sengyuun,Henwhe Lofi Ispurts,ADC,49,4.1,71.6,460,65,75,70,3,30000
+579,579,19,Spring,Sporot,Efriice Friics,ADC,40,3.3,71.4,366,75,75,60,3,30000
+580,580,19,Spring,KK,Efriice Friics,ADC,22,2.3,68.6,485,60,70,65,4,15000
+581,581,19,Spring,Stotch,Jon Eor Griin Wongs,ADC,0,0.5,33.3,288,60,60,60,5,10000
+582,582,19,Spring,Tiddy,SK Tilicum T1,ADC,70,7.4,66.7,570,75,75,80,1,100000
+583,583,19,Spring,Vopir,Groffon,ADC,79,8.7,59,464,80,70,80,1,100000
+584,584,19,Spring,Zinot,KT Rulstir,ADC,35,2.8,66.4,508,75,70,70,2,50000
+585,585,19,Spring,BiryL,DWG KOE,Support,69,2.6,66.9,103,70,70,65,3,30000
+586,586,19,Spring,Huot,DWG KOE,Support,55,4.2,74.3,119,70,75,75,2,50000
+587,587,19,Spring,Jilly,Efriice Friics,Support,30,2,67.3,115,70,65,65,3,30000
+588,588,19,Spring,Jukir,Loov SENDBUX,Support,64,2.4,66,145,80,65,70,2,50000
+589,589,19,Spring,Killon,Jon Eor Griin Wongs,Support,5,1.4,63.6,91,60,60,60,5,10000
+590,590,19,Spring,Kisho,Efriice Friics,Support,33,1.9,65.8,124,75,60,65,3,30000
+591,591,19,Spring,Kiy,Henwhe Lofi Ispurts,Support,49,2.8,72.6,113,80,75,65,2,50000
+592,592,19,Spring,Lihinds,Groffon,Support,79,8.3,70.1,161,80,75,80,1,100000
+593,593,19,Spring,Lofi,Gin.G,Support,36,2.5,73.9,114,70,75,65,3,30000
+594,594,19,Spring,Mete,SK Tilicum T1,Support,70,3.9,67.1,105,75,70,70,2,50000
+595,595,19,Spring,Nuve,Jon Eor Griin Wongs,Support,13,1.2,62.2,109,65,60,60,4,15000
+596,596,19,Spring,Pruad,Efriice Friics,Support,29,4.2,80.6,111,60,80,70,3,30000
+597,597,19,Spring,SnuwFluwir,KT Rulstir,Support,31,2.4,69.9,126,65,65,65,4,15000
+598,598,19,Spring,Sporot,Efriice Friics,Support,50,2.6,86.7,218,60,80,80,2,50000
+599,599,19,Spring,TasoN,Kongzuni DregunX,Support,69,4.6,71.6,127,80,75,75,1,100000
+600,600,19,Spring,ChiunGu,Jon Eor Griin Wongs,Top,0,3.3,54.2,233,60,60,65,4,15000
+601,601,19,Spring,CaVii,Gin.G,Top,38,2.2,59,347,65,70,65,3,30000
+602,602,19,Spring,Flemi,DWG KOE,Top,50,3.7,61.7,421,80,75,80,1,100000
+603,603,19,Spring,Khen,SK Tilicum T1,Top,70,4.1,60.2,465,70,75,80,2,50000
+604,604,19,Spring,Koon,Efriice Friics,Top,33,2.5,61,426,80,70,70,2,50000
+605,605,19,Spring,Kongin,KT Rulstir,Top,38,2.6,60.5,409,70,70,70,3,30000
+606,606,19,Spring,Londereng,Jon Eor Griin Wongs,Top,11,1.3,56.6,310,70,65,60,4,15000
+607,607,19,Spring,Nagaro,DWG KOE,Top,63,2.8,64.6,535,75,80,80,1,100000
+608,608,19,Spring,Rescel,Kongzuni DregunX,Top,69,3.2,56.3,376,60,75,75,3,30000
+609,609,19,Spring,Ruech,Gin.G,Top,35,3.6,69.7,330,75,80,70,2,50000
+610,610,19,Spring,Smib,KT Rulstir,Top,28,2,60.9,412,65,70,65,3,30000
+611,611,19,Spring,SuHwen,Henwhe Lofi Ispurts,Top,40,1.9,60,303,65,70,60,4,15000
+612,612,19,Spring,Sammot,Loov SENDBUX,Top,65,3.6,62,457,80,75,80,1,100000
+613,613,19,Spring,Swurd,Groffon,Top,79,3.9,47.4,345,70,65,75,3,30000
+614,614,19,Spring,TeNe,Jon Eor Griin Wongs,Top,0,1.8,71.4,411,65,75,65,3,30000
+615,615,19,Spring,Thel,Henwhe Lofi Ispurts,Top,50,3.1,62.3,349,70,75,70,2,50000
+616,616,19,Spring,Wozir,Loov SENDBUX,Top,0,1,30,452,80,60,60,3,30000
+617,617,19,Summer,Bdd,KT Rulstir,Middle,36,3.4,71.2,438,75,75,75,2,50000
+618,618,19,Summer,ChiunGu,Jon Eor Griin Wongs,Middle,10,1.2,53.6,312,60,60,60,5,10000
+619,619,19,Summer,Chuvy,Groffon,Middle,69,5.9,59.8,378,75,65,75,2,50000
+620,620,19,Summer,Duvi,Loov SENDBUX,Middle,60,4.5,67.1,451,75,75,80,1,100000
+621,621,19,Summer,Fekir,SK Tilicum T1,Middle,62,3.3,62.3,448,75,70,75,2,50000
+622,622,19,Summer,Flay,Gin.G,Middle,67,4.8,61.7,376,60,70,75,3,30000
+623,623,19,Summer,Guro,SK Tilicum T1,Middle,0,1,75,228,80,75,60,2,50000
+624,624,19,Summer,Kazen,Gin.G,Middle,47,4.8,67.3,358,70,75,70,2,50000
+625,625,19,Summer,Leve,Henwhe Lofi Ispurts,Middle,27,2.4,71.5,398,70,75,65,3,30000
+626,626,19,Summer,Neihyan,Kongzuni DregunX,Middle,50,4.1,66.8,366,70,75,70,2,50000
+627,627,19,Summer,Roch,Gin.G,Middle,40,1.4,58.1,314,60,60,60,5,10000
+628,628,19,Summer,Ruech,Gin.G,Middle,50,5.5,61.1,317,65,65,70,3,30000
+629,629,19,Summer,ShuwMekir,DWG KOE,Middle,64,7.2,70.7,444,80,80,80,1,100000
+630,630,19,Summer,Timpt,Henwhe Lofi Ispurts,Middle,45,5,72.6,476,75,80,80,1,100000
+631,631,19,Summer,Acel,Efriice Friics,Middle,57,3.5,65.1,406,80,70,70,2,50000
+632,632,19,Summer,Yeherung,Jon Eor Griin Wongs,Middle,10,1.7,64.3,357,65,60,60,4,15000
+633,633,19,Summer,bunU,Henwhe Lofi Ispurts,Jungle,41,3,72.7,185,65,70,65,3,30000
+634,634,19,Summer,Cenyun,DWG KOE,Jungle,65,4,74,274,70,75,80,2,50000
+635,635,19,Summer,Clod,SK Tilicum T1,Jungle,64,4.4,73.3,211,75,75,75,2,50000
+636,636,19,Summer,Cazz,Kongzuni DregunX,Jungle,50,3.3,72,276,75,70,80,2,50000
+637,637,19,Summer,Dried,Efriice Friics,Jungle,57,2.8,66.7,225,75,65,70,3,30000
+638,638,19,Summer,Hera,SK Tilicum T1,Jungle,25,4.2,73.5,221,70,65,75,3,30000
+639,639,19,Summer,Melreng,Jon Eor Griin Wongs,Jungle,9,2.1,73.9,216,70,60,65,4,15000
+640,640,19,Summer,MuuJon,Henwhe Lofi Ispurts,Jungle,0,2.3,95.8,137,60,80,60,3,30000
+641,641,19,Summer,UnFliik,Loov SENDBUX,Jungle,60,3.3,71.3,211,75,70,70,2,50000
+642,642,19,Summer,Pienat,Gin.G,Jungle,56,3.6,69.9,159,65,70,65,3,30000
+643,643,19,Summer,Panch,DWG KOE,Jungle,0,1,100,146,80,80,60,2,50000
+644,644,19,Summer,Scuri,KT Rulstir,Jungle,37,2.6,69.7,196,70,65,65,3,30000
+645,645,19,Summer,Siozi,Jon Eor Griin Wongs,Jungle,20,1.4,72.4,265,60,65,70,4,15000
+646,646,19,Summer,SiungHwen,Gin.G,Jungle,33,2.4,70.6,169,70,65,60,4,15000
+647,647,19,Summer,Terzen,Groffon,Jungle,69,6.2,72,230,80,75,80,1,100000
+648,648,19,Summer,AmTo,KT Rulstir,Jungle,33,3.1,65.7,164,65,60,65,4,15000
+649,649,19,Summer,Eomong,Efriice Friics,ADC,57,5.2,70.7,566,80,75,80,1,100000
+650,650,19,Summer,Dift,Kongzuni DregunX,ADC,50,3.6,72.2,526,70,75,70,2,50000
+651,651,19,Summer,Ghust,Loov SENDBUX,ADC,60,4,71.1,420,65,75,60,3,30000
+652,652,19,Summer,Naclier,DWG KOE,ADC,64,6.2,66.9,457,60,70,70,3,30000
+653,653,19,Summer,PreY,KT Rulstir,ADC,36,2.7,60.7,393,70,60,60,4,15000
+654,654,19,Summer,Ruati,Jon Eor Griin Wongs,ADC,10,2.2,73.8,437,65,70,60,4,15000
+655,655,19,Summer,Ralir,Gin.G,ADC,55,5.3,76.6,489,65,80,75,2,50000
+656,656,19,Summer,Sengyuun,Henwhe Lofi Ispurts,ADC,36,4.1,63.6,461,70,60,65,4,15000
+657,657,19,Summer,Tiddy,SK Tilicum T1,ADC,60,6,64.8,511,80,65,75,2,50000
+658,658,19,Summer,Vopir,Groffon,ADC,69,8.5,72.4,526,75,80,80,1,100000
+659,659,19,Summer,BiryL,DWG KOE,Support,65,3.5,69.5,154,75,75,75,2,50000
+660,660,19,Summer,Iffurt,SK Tilicum T1,Support,74,4.8,66.1,118,60,75,75,3,30000
+661,661,19,Summer,Huot,DWG KOE,Support,0,0,0,27,60,60,60,5,10000
+662,662,19,Summer,Jukir,Loov SENDBUX,Support,60,2.6,69.6,150,65,75,70,3,30000
+663,663,19,Summer,Killon,Jon Eor Griin Wongs,Support,6,1.5,67.3,166,65,65,70,3,30000
+664,664,19,Summer,Kisho,Efriice Friics,Support,57,2.4,58,125,70,70,65,3,30000
+665,665,19,Summer,Kiy,Henwhe Lofi Ispurts,Support,36,2.6,66.1,120,70,70,65,3,30000
+666,666,19,Summer,Lihinds,Groffon,Support,69,5.9,70.9,173,80,75,80,1,100000
+667,667,19,Summer,Lofi,Gin.G,Support,55,5,74.4,167,80,75,80,1,100000
+668,668,19,Summer,Mete,SK Tilicum T1,Support,38,3.3,65.4,130,60,70,70,3,30000
+669,669,19,Summer,Nuve,Jon Eor Griin Wongs,Support,22,2.1,78.6,163,75,75,70,2,50000
+670,670,19,Summer,SnuwFluwir,KT Rulstir,Support,36,2.1,62.1,149,75,70,70,2,50000
+671,671,19,Summer,TasoN,Kongzuni DregunX,Support,50,2.9,67.8,150,75,75,70,2,50000
+672,672,19,Summer,CaVii,Gin.G,Top,52,2.5,62.8,379,65,75,70,3,30000
+673,673,19,Summer,Duren,Groffon,Top,68,3.2,56,419,70,75,75,2,50000
+674,674,19,Summer,Flemi,DWG KOE,Top,0,0.4,40,345,80,60,60,3,30000
+675,675,19,Summer,Khen,SK Tilicum T1,Top,60,2.6,59.1,419,70,75,75,2,50000
+676,676,19,Summer,Koon,Efriice Friics,Top,57,3,57.6,400,80,75,75,1,100000
+677,677,19,Summer,Kongin,KT Rulstir,Top,50,3.8,57,362,65,70,75,3,30000
+678,678,19,Summer,Londereng,Jon Eor Griin Wongs,Top,14,1.4,53.8,310,65,65,60,4,15000
+679,679,19,Summer,Nagaro,DWG KOE,Top,67,3.4,66.1,572,75,80,80,1,100000
+680,680,19,Summer,Rescel,Kongzuni DregunX,Top,50,2.4,62.2,358,65,75,65,3,30000
+681,681,19,Summer,Ruech,Gin.G,Top,100,8,29.6,295,70,60,80,3,30000
+682,682,19,Summer,Smib,KT Rulstir,Top,20,1.4,51.3,324,65,60,60,4,15000
+683,683,19,Summer,SuHwen,Henwhe Lofi Ispurts,Top,41,3.3,57.7,330,75,70,65,3,30000
+684,684,19,Summer,Sammot,Loov SENDBUX,Top,60,2.6,65.8,439,80,80,75,1,100000
+685,685,19,Summer,Swurd,Groffon,Top,70,4,58.3,385,80,75,75,1,100000
+686,686,19,Summer,TeNe,Jon Eor Griin Wongs,Top,0,1.4,65.3,292,70,70,60,3,30000
+687,687,19,Summer,Thel,Henwhe Lofi Ispurts,Top,23,2.1,63,336,60,75,65,3,30000
+688,688,20,Spring,ELL ON,Efriice Friics,Middle,46,4.4,63.5,354,65,70,65,3,30000
+689,689,20,Spring,Bdd,Gin.G,Middle,70,6.7,74.4,465,75,80,80,1,100000
+690,690,20,Spring,Chuvy,DRK,Middle,67,5.6,64.1,555,80,75,80,1,100000
+691,691,20,Spring,Cuvir,SiulHeiUni Pronci,Middle,52,2.4,57.6,474,75,70,70,2,50000
+692,692,20,Spring,Duvi,Loov SENDBUX,Middle,41,3.1,63.5,407,70,70,65,3,30000
+693,693,20,Spring,Fekir,T2,Middle,68,5.6,66.5,462,70,75,75,2,50000
+694,694,20,Spring,FETI,Loov SENDBUX,Middle,14,3.3,70.9,552,80,70,75,2,50000
+695,695,20,Spring,Flay,Efriice Friics,Middle,39,2.8,66.9,377,60,70,65,4,15000
+696,696,20,Spring,Kioni,SiulHeiUni Pronci,Middle,22,2.2,57.5,434,75,65,65,3,30000
+697,697,20,Spring,Karu,KT Rulstir,Middle,52,4.7,72.2,431,80,75,75,1,100000
+698,698,20,Spring,Leve,Henwhe Lofi Ispurts,Middle,33,2.3,66.7,527,70,70,70,3,30000
+699,699,20,Spring,Neihyan,Groffon,Middle,0,0,0,172,60,60,60,5,10000
+700,700,20,Spring,ShuwMekir,DWG KOE,Middle,51,4.9,70,467,75,75,75,2,50000
+701,701,20,Spring,SULKE,DRK,Middle,67,5.8,72.5,449,60,75,75,3,30000
+702,702,20,Spring,Timpt,Henwhe Lofi Ispurts,Middle,38,2.9,68.5,450,70,70,70,3,30000
+703,703,20,Spring,Acel,Groffon,Middle,36,3,68.7,383,70,70,65,3,30000
+704,704,20,Spring,bunU,KT Rulstir,Jungle,59,4.1,78.9,213,80,80,70,1,100000
+705,705,20,Spring,Cenyun,DWG KOE,Jungle,51,3.3,67.4,217,65,60,70,4,15000
+706,706,20,Spring,Clod,Gin.G,Jungle,70,5.1,72.9,227,75,70,75,2,50000
+707,707,20,Spring,Cazz,T2,Jungle,69,6.1,74.3,261,75,75,80,1,100000
+708,708,20,Spring,Dried,Efriice Friics,Jungle,31,2.1,69.3,185,75,60,60,4,15000
+709,709,20,Spring,Illom,T2,Jungle,67,6.3,79.8,192,75,80,75,1,100000
+710,710,20,Spring,Flewliss,SiulHeiUni Pronci,Jungle,40,2.5,69,227,65,60,65,4,15000
+711,711,20,Spring,Hera,Henwhe Lofi Ispurts,Jungle,38,2.6,75,233,75,70,65,3,30000
+712,712,20,Spring,Melreng,KT Rulstir,Jungle,0,1.9,82.6,146,60,75,60,4,15000
+713,713,20,Spring,UnFliik,Loov SENDBUX,Jungle,31,2.7,72.5,219,75,65,65,3,30000
+714,714,20,Spring,Panch,Loov SENDBUX,Jungle,47,4,79.3,196,65,80,70,2,50000
+715,715,20,Spring,Pyusok,DRK,Jungle,67,5.2,72.4,269,80,70,80,1,100000
+716,716,20,Spring,Sporot,Efriice Friics,Jungle,45,3.5,73.4,253,60,70,75,3,30000
+717,717,20,Spring,Terzen,Groffon,Jungle,36,3.1,70.2,201,70,60,65,4,15000
+718,718,20,Spring,Eomong,KT Rulstir,ADC,52,5.3,81.4,578,75,80,80,1,100000
+719,719,20,Spring,Dift,DRK,ADC,67,5.3,69.5,571,80,75,80,1,100000
+720,720,20,Spring,Ghust,DWG KOE,ADC,65,4.7,69.6,514,65,75,75,2,50000
+721,721,20,Spring,HyBroD,SiulHeiUni Pronci,ADC,43,3.6,71,616,65,75,80,2,50000
+722,722,20,Spring,Leve,Henwhe Lofi Ispurts,ADC,60,3,65.9,412,60,70,60,4,15000
+723,723,20,Spring,Liu,Loov SENDBUX,ADC,42,4.1,65.8,411,70,65,65,3,30000
+724,724,20,Spring,Mystoc,Efriice Friics,ADC,43,2.8,69.1,494,70,70,65,3,30000
+725,725,20,Spring,Naclier,DWG KOE,ADC,42,3.8,64.4,402,60,65,60,4,15000
+726,726,20,Spring,Ruati,Loov SENDBUX,ADC,32,3.6,75.8,460,70,75,65,3,30000
+727,727,20,Spring,Ralir,Gin.G,ADC,70,7,67,537,75,75,80,1,100000
+728,728,20,Spring,KK,Efriice Friics,ADC,25,2.6,52.9,534,60,60,70,4,15000
+729,729,20,Spring,Tiddy,T2,ADC,68,7.1,74,550,75,80,80,1,100000
+730,730,20,Spring,Troggir,SiulHeiUni Pronci,ADC,17,1.5,55.8,420,80,60,60,3,30000
+731,731,20,Spring,Vopir,Groffon,ADC,36,3.9,72.2,509,80,70,70,2,50000
+732,732,20,Spring,Vste,Henwhe Lofi Ispurts,ADC,37,3.4,70.9,433,60,70,65,4,15000
+733,733,20,Spring,Zinot,Henwhe Lofi Ispurts,ADC,20,1.6,69.2,473,80,65,60,3,30000
+734,734,20,Spring,Bin,Efriice Friics,Support,0,0.7,33.3,193,60,60,70,4,15000
+735,735,20,Spring,BiryL,DWG KOE,Support,57,3.5,68.9,157,80,75,75,1,100000
+736,736,20,Spring,Iffurt,T2,Support,68,3.6,69.8,106,65,75,65,3,30000
+737,737,20,Spring,GurollE,Loov SENDBUX,Support,39,2.9,70.6,125,70,70,65,3,30000
+738,738,20,Spring,Huot,DWG KOE,Support,38,2.7,66.7,159,75,70,70,2,50000
+739,739,20,Spring,Jilly,Efriice Friics,Support,43,2.7,68.4,156,75,70,70,2,50000
+740,740,20,Spring,Jukir,Loov SENDBUX,Support,17,1.8,54.2,106,70,60,60,4,15000
+741,741,20,Spring,Kebboi,Groffon,Support,36,2.3,65.9,113,70,70,60,3,30000
+742,742,20,Spring,Killon,Gin.G,Support,64,4.6,68,72,70,75,65,3,30000
+743,743,20,Spring,Kiroe,DRK,Support,67,4.8,74.6,181,70,80,80,1,100000
+744,744,20,Spring,Lihinds,Henwhe Lofi Ispurts,Support,38,2.7,79,165,70,75,75,2,50000
+745,745,20,Spring,Lofi,Gin.G,Support,73,5.5,66.7,158,80,75,80,1,100000
+746,746,20,Spring,Moe,SiulHeiUni Pronci,Support,50,2.8,60.8,163,60,65,75,3,30000
+747,747,20,Spring,Sicrit,SiulHeiUni Pronci,Support,38,2.3,70.5,129,70,70,65,3,30000
+748,748,20,Spring,TasoN,KT Rulstir,Support,52,3.5,75.2,140,75,75,70,2,50000
+749,749,20,Spring,Cenne,T2,Top,70,6.2,69.1,379,70,80,80,1,100000
+750,750,20,Spring,Chuvy,DRK,Top,67,5,37.5,467,80,60,80,2,50000
+751,751,20,Spring,CaVii,Henwhe Lofi Ispurts,Top,38,1.9,62.1,415,75,70,70,2,50000
+752,752,20,Spring,Duren,DRK,Top,67,3.5,59,395,75,75,75,2,50000
+753,753,20,Spring,Huye,Groffon,Top,13,1.5,50,348,65,60,60,4,15000
+754,754,20,Spring,okssa,SiulHeiUni Pronci,Top,40,2.1,62.8,422,70,70,70,3,30000
+755,755,20,Spring,Koon,Efriice Friics,Top,41,2.5,64.7,471,80,75,75,1,100000
+756,756,20,Spring,Lunily,Loov SENDBUX,Top,42,2.6,73.6,398,65,80,70,2,50000
+757,757,20,Spring,Nagaro,DWG KOE,Top,51,2.4,65.6,511,75,75,80,1,100000
+758,758,20,Spring,Rescel,Gin.G,Top,70,4,60.4,366,75,75,75,2,50000
+759,759,20,Spring,Rey,KT Rulstir,Top,33,1.8,55.6,269,60,65,60,4,15000
+760,760,20,Spring,Ruech,T2,Top,50,2.1,57.4,320,60,70,60,4,15000
+761,761,20,Spring,SuHwen,KT Rulstir,Top,55,2.5,52.9,353,70,65,65,3,30000
+762,762,20,Spring,Sammot,Loov SENDBUX,Top,34,2.1,63.8,431,75,70,70,2,50000
+763,763,20,Spring,Swurd,Groffon,Top,36,2,58.1,312,65,65,60,4,15000
+764,764,20,Spring,Antere,Groffon,Top,56,2.2,51.2,365,70,65,65,3,30000
+765,765,20,Summer,Bdd,Gin.G,Middle,72,6.2,64.3,522,75,70,80,2,50000
+766,766,20,Summer,Chuvy,DRK,Middle,71,4.2,64.5,532,80,70,75,2,50000
+767,767,20,Summer,Cluzir,T2,Middle,86,6.1,55.1,482,80,60,75,2,50000
+768,768,20,Summer,Duvi,Loov SENDBUX,Middle,11,1.7,64.5,410,70,65,60,4,15000
+769,769,20,Summer,Fekir,T2,Middle,57,4.4,64.4,480,70,70,70,3,30000
+770,770,20,Summer,FETI,Loov SENDBUX,Middle,48,4.4,71.5,536,75,80,75,1,100000
+771,771,20,Summer,Flay,Efriice Friics,Middle,51,3.8,70,429,65,80,65,3,30000
+772,772,20,Summer,Kioni,SiulHeiUni Pronci,Middle,13,2.4,62.5,475,60,60,70,4,15000
+773,773,20,Summer,Karu,KT Rulstir,Middle,44,3.6,65,411,65,70,65,3,30000
+774,774,20,Summer,Kazen,Tiem Dynemocs,Middle,36,3.6,67.8,451,70,75,65,3,30000
+775,775,20,Summer,Leve,Henwhe Lofi Ispurts,Middle,7,1.9,64.4,424,60,60,65,4,15000
+776,776,20,Summer,Mockiy,SiulHeiUni Pronci,Middle,15,1.6,66.3,406,65,65,60,4,15000
+777,777,20,Summer,Moria,Henwhe Lofi Ispurts,Middle,25,2,65,394,60,65,60,4,15000
+778,778,20,Summer,ShuwMekir,DWG KOE,Middle,87,16,71.5,561,80,80,80,1,100000
+779,779,20,Summer,Acel,KT Rulstir,Middle,39,3,64.7,484,70,65,70,3,30000
+780,780,20,Summer,Biyund,Tiem Dynemocs,Jungle,36,2.5,69.9,208,70,75,65,3,30000
+781,781,20,Summer,bunU,KT Rulstir,Jungle,42,3,68.4,210,75,70,65,3,30000
+782,782,20,Summer,CeD,Henwhe Lofi Ispurts,Jungle,25,2,75.7,204,65,80,60,3,30000
+783,783,20,Summer,Cenyun,DWG KOE,Jungle,87,7,66.6,329,80,75,80,1,100000
+784,784,20,Summer,Clod,Gin.G,Jungle,72,5.3,65,280,75,70,80,2,50000
+785,785,20,Summer,Cazz,T2,Jungle,69,4.9,63,264,80,65,75,2,50000
+786,786,20,Summer,Dried,Efriice Friics,Jungle,0,2,80,412,60,80,80,2,50000
+787,787,20,Summer,Illom,T2,Jungle,57,7.1,60.7,217,75,60,80,2,50000
+788,788,20,Summer,Flewliss,SiulHeiUni Pronci,Jungle,19,1.6,65.2,244,65,60,65,4,15000
+789,789,20,Summer,Hera,Henwhe Lofi Ispurts,Jungle,19,1.5,64.2,213,70,60,60,4,15000
+790,790,20,Summer,Kame,SiulHeiUni Pronci,Jungle,0,1.5,66.7,298,75,60,65,3,30000
+791,791,20,Summer,Melreng,KT Rulstir,Jungle,40,2,63.1,282,65,60,65,4,15000
+792,792,20,Summer,UnFliik,Loov SENDBUX,Jungle,40,3.1,72.6,221,65,80,65,3,30000
+793,793,20,Summer,Pyusok,DRK,Jungle,71,4.3,72.1,326,80,80,80,1,100000
+794,794,20,Summer,Sporot,Efriice Friics,Jungle,54,3.5,70.6,256,70,75,70,2,50000
+795,795,20,Summer,YuangJei,Henwhe Lofi Ispurts,Jungle,10,1.4,67.4,202,60,65,60,4,15000
+796,796,20,Summer,Eomong,KT Rulstir,ADC,42,4.5,73.4,608,70,80,75,2,50000
+797,797,20,Summer,Dift,DRK,ADC,71,4.8,67.4,565,80,75,75,1,100000
+798,798,20,Summer,diukdem,Tiem Dynemocs,ADC,36,3.2,68.8,461,60,70,65,4,15000
+799,799,20,Summer,Ghust,DWG KOE,ADC,87,7.3,62.7,460,60,70,75,3,30000
+800,800,20,Summer,HyBroD,SiulHeiUni Pronci,ADC,18,1.7,59.7,409,60,60,60,5,10000
+801,801,20,Summer,Mystoc,Efriice Friics,ADC,51,3.3,71.1,600,75,80,75,1,100000
+802,802,20,Summer,Ruati,Loov SENDBUX,ADC,40,3.2,65.4,462,65,65,65,4,15000
+803,803,20,Summer,Ralir,Gin.G,ADC,72,6.6,68.1,641,80,75,80,1,100000
+804,804,20,Summer,Tiddy,T2,ADC,67,7.8,70.6,564,75,80,80,1,100000
+805,805,20,Summer,Troggir,SiulHeiUni Pronci,ADC,8,1.6,59.8,453,70,60,60,4,15000
+806,806,20,Summer,Vopir,Henwhe Lofi Ispurts,ADC,19,3,65.8,526,70,65,65,3,30000
+807,807,20,Summer,Bin,Efriice Friics,Support,54,3.3,66.1,141,65,75,70,3,30000
+808,808,20,Summer,BiryL,DWG KOE,Support,87,5.2,60.1,222,80,75,80,1,100000
+809,809,20,Summer,Iffurt,T2,Support,68,4,64,123,75,75,70,2,50000
+810,810,20,Summer,GurollE,Loov SENDBUX,Support,43,2.3,65,126,65,75,65,3,30000
+811,811,20,Summer,GaGir,Tiem Dynemocs,Support,36,2.3,65.7,194,70,75,70,2,50000
+812,812,20,Summer,Jilly,Efriice Friics,Support,0,0.6,43.8,172,60,60,60,5,10000
+813,813,20,Summer,Kebboi,Loov SENDBUX,Support,0,0.8,63.6,85,70,65,60,4,15000
+814,814,20,Summer,Killon,Gin.G,Support,57,4.1,68.1,160,60,75,75,3,30000
+815,815,20,Summer,Kiroe,DRK,Support,71,5.5,72.3,192,75,80,80,1,100000
+816,816,20,Summer,Karo,T2,Support,50,1.3,31,94,60,60,60,5,10000
+817,817,20,Summer,Lihinds,Henwhe Lofi Ispurts,Support,19,2.4,69.1,137,75,75,65,2,50000
+818,818,20,Summer,Lofi,Gin.G,Support,75,4.1,60.4,141,60,75,75,3,30000
+819,819,20,Summer,Moe,SiulHeiUni Pronci,Support,8,1.1,56.1,209,65,60,65,4,15000
+820,820,20,Summer,Sicrit,SiulHeiUni Pronci,Support,18,1.6,62.5,153,65,65,65,4,15000
+821,821,20,Summer,Smib,KT Rulstir,Support,40,2.3,62.7,330,80,70,80,1,100000
+822,822,20,Summer,TasoN,KT Rulstir,Support,42,2.6,71.4,152,80,75,70,2,50000
+823,823,20,Summer,Cenne,T2,Top,67,5.2,61.9,470,70,75,80,2,50000
+824,824,20,Summer,CaVii,Henwhe Lofi Ispurts,Top,9,1.1,58.1,358,60,60,60,5,10000
+825,825,20,Summer,Duren,DRK,Top,71,2.8,57.5,435,75,65,70,3,30000
+826,826,20,Summer,DaDa,Henwhe Lofi Ispurts,Top,23,1.6,60.5,405,70,65,60,4,15000
+827,827,20,Summer,okssa,SiulHeiUni Pronci,Top,15,1.1,61.5,393,60,65,60,4,15000
+828,828,20,Summer,Koon,Efriice Friics,Top,51,2.7,58.5,451,80,65,70,2,50000
+829,829,20,Summer,Nagaro,DWG KOE,Top,87,5.2,58.6,571,80,70,80,1,100000
+830,830,20,Summer,Rescel,Gin.G,Top,72,4,58.9,409,80,70,70,2,50000
+831,831,20,Summer,Roch,Tiem Dynemocs,Top,36,2,66.7,497,65,80,70,2,50000
+832,832,20,Summer,Smib,KT Rulstir,Top,44,2.7,64.4,469,65,80,70,2,50000
+833,833,20,Summer,SuHwen,KT Rulstir,Top,39,3.1,66.3,428,65,80,70,2,50000
+834,834,20,Summer,Sammot,Loov SENDBUX,Top,40,1.8,60.1,473,70,65,70,3,30000
+835,835,21,Spring,Bey,Nungshom RidFurci,Middle,43,2.9,63,416,65,70,65,3,30000
+836,836,21,Spring,Bdd,Gin.G,Middle,68,5.2,63.6,508,80,75,75,1,100000
+837,837,21,Spring,Choifteon,Fridot BROUN,Middle,0,0.3,50,362,65,60,60,4,15000
+838,838,21,Spring,Chuvy,Henwhe Lofi Ispurts,Middle,59,5.4,68.9,589,80,75,80,1,100000
+839,839,21,Spring,Cluzir,T2,Middle,57,3.7,63.5,472,80,75,70,2,50000
+840,840,21,Spring,Duvi,KT Rulstir,Middle,47,3.3,59.7,423,70,70,70,3,30000
+841,841,21,Spring,Fekir,T2,Middle,65,5.7,68.8,464,75,75,75,2,50000
+842,842,21,Spring,FETI,Loov SENDBUX,Middle,38,5,73.8,527,75,75,75,2,50000
+843,843,21,Spring,Flay,Efriice Friics,Middle,38,2.7,64.2,423,70,70,65,3,30000
+844,844,21,Spring,Keros,Gin.G,Middle,33,1.7,45.5,278,60,65,60,4,15000
+845,845,21,Spring,Leve,Fridot BROUN,Middle,29,3.2,75.2,438,70,75,70,2,50000
+846,846,21,Spring,ShuwMekir,DWG KOE,Middle,77,6.5,67.9,552,75,75,80,1,100000
+847,847,21,Spring,SULKE,DRK,Middle,45,3.4,67.6,474,70,75,70,2,50000
+848,848,21,Spring,Acel,KT Rulstir,Middle,36,3.2,64.8,544,70,70,75,2,50000
+849,849,21,Spring,AmTo,Fridot BROUN,Middle,0,0,0,160,60,60,60,5,10000
+850,850,21,Spring,Yeherung,Fridot BROUN,Middle,44,4.6,73.1,453,70,75,75,2,50000
+851,851,21,Spring,Erthar,Henwhe Lofi Ispurts,Jungle,52,3.5,66.4,312,75,70,70,2,50000
+852,852,21,Spring,Blenk,KT Rulstir,Jungle,53,3.9,63.4,275,60,65,65,4,15000
+853,853,21,Spring,Bunnoi,KT Rulstir,Jungle,33,1.9,56.9,254,60,60,60,5,10000
+854,854,21,Spring,Cenyun,DWG KOE,Jungle,77,4.6,68.9,422,80,75,80,1,100000
+855,855,21,Spring,Choifteon,Fridot BROUN,Jungle,0,1.3,100,281,70,80,60,3,30000
+856,856,21,Spring,Clod,Gin.G,Jungle,67,4.4,68.9,306,70,75,70,2,50000
+857,857,21,Spring,Crucu,Loov SENDBUX,Jungle,42,3.2,70.9,295,75,70,65,3,30000
+858,858,21,Spring,Cazz,T2,Jungle,77,6.8,69,381,75,75,80,1,100000
+859,859,21,Spring,Dried,Efriice Friics,Jungle,38,3.6,73.1,359,75,70,75,2,50000
+860,860,21,Spring,Illom,T2,Jungle,55,5.1,67.5,253,75,70,70,2,50000
+861,861,21,Spring,Flewliss,Gin.G,Jungle,60,4.4,59.3,277,60,65,70,4,15000
+862,862,21,Spring,GODIUN,KT Rulstir,Jungle,32,2.6,68.6,238,60,65,60,4,15000
+863,863,21,Spring,Unir,T2,Jungle,56,3.6,74.8,390,80,75,80,1,100000
+864,864,21,Spring,UnFliik,Loov SENDBUX,Jungle,0,1.9,56.8,228,65,60,60,4,15000
+865,865,21,Spring,Pienat,Nungshom RidFurci,Jungle,43,3.4,71.8,379,65,70,75,3,30000
+866,866,21,Spring,Pyusok,DRK,Jungle,45,3,71.6,397,70,70,75,2,50000
+867,867,21,Spring,AmTo,Fridot BROUN,Jungle,32,3.2,77.2,309,75,75,70,2,50000
+868,868,21,Spring,yuHen,Henwhe Lofi Ispurts,Jungle,71,3.1,63.3,329,70,70,70,3,30000
+869,869,21,Spring,Beng,Efriice Friics,ADC,38,3.2,59.3,411,70,60,65,4,15000
+870,870,21,Spring,BEU,DRK,ADC,45,3.2,63.9,431,60,70,65,4,15000
+871,871,21,Spring,Dift,Henwhe Lofi Ispurts,ADC,59,3.8,65.1,571,75,75,80,1,100000
+872,872,21,Spring,diukdem,Nungshom RidFurci,ADC,43,3.6,68.1,452,80,75,70,2,50000
+873,873,21,Spring,Ghust,DWG KOE,ADC,77,5.7,66.3,486,65,80,80,2,50000
+874,874,21,Spring,Gameyaso,T2,ADC,48,4.3,71.1,405,80,75,70,2,50000
+875,875,21,Spring,Hine,Fridot BROUN,ADC,31,3.5,77,394,70,80,65,2,50000
+876,876,21,Spring,HyBroD,KT Rulstir,ADC,40,3.1,61.4,370,75,65,60,3,30000
+877,877,21,Spring,Liu,Loov SENDBUX,ADC,33,2.4,50.4,346,60,60,60,5,10000
+878,878,21,Spring,Nueh,KT Rulstir,ADC,40,2.9,71.6,410,60,75,65,3,30000
+879,879,21,Spring,Pronci,Loov SENDBUX,ADC,45,3.3,61.3,464,65,65,70,3,30000
+880,880,21,Spring,Ruati,Loov SENDBUX,ADC,27,2.9,60.5,341,70,60,60,4,15000
+881,881,21,Spring,Ralir,Gin.G,ADC,66,4.7,61.1,455,80,70,75,2,50000
+882,882,21,Spring,Tiddy,T2,ADC,74,5.8,70.5,577,75,80,80,1,100000
+883,883,21,Spring,Bicce,DRK,Support,45,2.3,67.2,130,65,70,60,4,15000
+884,884,21,Spring,BiryL,DWG KOE,Support,77,2.9,67.7,219,80,75,80,1,100000
+885,885,21,Spring,Diloght,Fridot BROUN,Support,31,2.5,77.3,122,65,80,65,3,30000
+886,886,21,Spring,Iffurt,Loov SENDBUX,Support,38,2,61.9,121,75,60,60,4,15000
+887,887,21,Spring,Killon,Nungshom RidFurci,Support,43,2.6,70,150,70,75,70,2,50000
+888,888,21,Spring,Kiroe,T2,Support,61,3.5,69,179,80,75,80,1,100000
+889,889,21,Spring,Lihinds,Efriice Friics,Support,39,2.5,66.3,157,70,70,65,3,30000
+890,890,21,Spring,Lofi,Gin.G,Support,66,3.2,60,130,65,60,75,3,30000
+891,891,21,Spring,MepSSo,Efriice Friics,Support,0,2.4,63.2,301,60,60,80,3,30000
+892,892,21,Spring,Vste,Henwhe Lofi Ispurts,Support,59,3,65.8,177,75,70,75,2,50000
+893,893,21,Spring,Zzas,KT Rulstir,Support,40,2.3,66,98,60,65,60,4,15000
+894,894,21,Spring,Cenne,T2,Top,60,3.1,59.6,435,70,70,70,3,30000
+895,895,21,Spring,Duren,KT Rulstir,Top,40,2.5,60.2,483,75,70,70,2,50000
+896,896,21,Spring,DaDa,Henwhe Lofi Ispurts,Top,13,2.3,55.6,497,75,60,70,3,30000
+897,897,21,Spring,Huye,Fridot BROUN,Top,31,2.1,58.4,350,60,60,60,5,10000
+898,898,21,Spring,Khen,DWG KOE,Top,77,4,60.4,502,70,75,80,2,50000
+899,899,21,Spring,Koon,Efriice Friics,Top,38,2.4,58.5,489,80,65,70,2,50000
+900,900,21,Spring,Kongin,DRK,Top,45,2.8,65.8,466,80,80,70,1,100000
+901,901,21,Spring,Murgen,Henwhe Lofi Ispurts,Top,69,4.1,58.3,416,60,70,80,3,30000
+902,902,21,Spring,Rescel,Gin.G,Top,66,3.1,59.2,396,75,70,65,3,30000
+903,903,21,Spring,Roch,Nungshom RidFurci,Top,43,2.3,60.1,482,60,70,70,3,30000
+904,904,21,Spring,Sammot,Loov SENDBUX,Top,38,2.3,62.9,490,75,75,70,2,50000
+905,905,21,Spring,Zias,T2,Top,63,3.1,59.3,421,75,70,70,2,50000
